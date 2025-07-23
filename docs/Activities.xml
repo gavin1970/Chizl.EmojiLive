@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extradoc>
+    <class name="Activities">
+        <summary>
+            File Updated: 07/23/2025 20:24:48:0990 (UTC)<br/>
+            All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively owned by <a href="https://unicode.org">unicode.org</a><br/>
+            Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
+            EmojiActivities, created by chizl.com © 1997-2025 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
+            Group: Activities, (5) Subgroups, (85) Emojis<br/>
+        </summary>
+        <returns></returns>
+        <properties>
+            <property name="JackOLantern">
+				<summary>
+					<b>Name</b>: Jack-O-Lantern, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎃, <b>Decimal Code(s)</b>: (127875), <b>CodePoint(s)</b>: 1F383
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Jack-O-Lantern</b>' in string format, '🎃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ChristmasTree">
+				<summary>
+					<b>Name</b>: Christmas Tree, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎄, <b>Decimal Code(s)</b>: (127876), <b>CodePoint(s)</b>: 1F384
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Christmas Tree</b>' in string format, '🎄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Fireworks">
+				<summary>
+					<b>Name</b>: Fireworks, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎆, <b>Decimal Code(s)</b>: (127878), <b>CodePoint(s)</b>: 1F386
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fireworks</b>' in string format, '🎆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sparkler">
+				<summary>
+					<b>Name</b>: Sparkler, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎇, <b>Decimal Code(s)</b>: (127879), <b>CodePoint(s)</b>: 1F387
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sparkler</b>' in string format, '🎇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Firecracker">
+				<summary>
+					<b>Name</b>: Firecracker, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧨, <b>Decimal Code(s)</b>: (129512), <b>CodePoint(s)</b>: 1F9E8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Firecracker</b>' in string format, '🧨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sparkles">
+				<summary>
+					<b>Name</b>: Sparkles, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ✨, <b>Decimal Code(s)</b>: (10024), <b>CodePoint(s)</b>: 2728
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sparkles</b>' in string format, '✨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Balloon">
+				<summary>
+					<b>Name</b>: Balloon, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎈, <b>Decimal Code(s)</b>: (127880), <b>CodePoint(s)</b>: 1F388
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Balloon</b>' in string format, '🎈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PartyPopper">
+				<summary>
+					<b>Name</b>: Party Popper, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎉, <b>Decimal Code(s)</b>: (127881), <b>CodePoint(s)</b>: 1F389
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Party Popper</b>' in string format, '🎉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ConfettiBall">
+				<summary>
+					<b>Name</b>: Confetti Ball, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎊, <b>Decimal Code(s)</b>: (127882), <b>CodePoint(s)</b>: 1F38A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Confetti Ball</b>' in string format, '🎊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TanabataTree">
+				<summary>
+					<b>Name</b>: Tanabata Tree, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎋, <b>Decimal Code(s)</b>: (127883), <b>CodePoint(s)</b>: 1F38B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tanabata Tree</b>' in string format, '🎋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PineDecoration">
+				<summary>
+					<b>Name</b>: Pine Decoration, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎍, <b>Decimal Code(s)</b>: (127885), <b>CodePoint(s)</b>: 1F38D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pine Decoration</b>' in string format, '🎍' is ready for display.
+				</returns>
+			</property>
+
+			<property name="JapaneseDolls">
+				<summary>
+					<b>Name</b>: Japanese Dolls, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎎, <b>Decimal Code(s)</b>: (127886), <b>CodePoint(s)</b>: 1F38E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Japanese Dolls</b>' in string format, '🎎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CarpStreamer">
+				<summary>
+					<b>Name</b>: Carp Streamer, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎏, <b>Decimal Code(s)</b>: (127887), <b>CodePoint(s)</b>: 1F38F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Carp Streamer</b>' in string format, '🎏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WindChime">
+				<summary>
+					<b>Name</b>: Wind Chime, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎐, <b>Decimal Code(s)</b>: (127888), <b>CodePoint(s)</b>: 1F390
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wind Chime</b>' in string format, '🎐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MoonViewingCeremony">
+				<summary>
+					<b>Name</b>: Moon Viewing Ceremony, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎑, <b>Decimal Code(s)</b>: (127889), <b>CodePoint(s)</b>: 1F391
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Moon Viewing Ceremony</b>' in string format, '🎑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RedEnvelope">
+				<summary>
+					<b>Name</b>: Red Envelope, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧧, <b>Decimal Code(s)</b>: (129511), <b>CodePoint(s)</b>: 1F9E7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Red Envelope</b>' in string format, '🧧' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ribbon">
+				<summary>
+					<b>Name</b>: Ribbon, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎀, <b>Decimal Code(s)</b>: (127872), <b>CodePoint(s)</b>: 1F380
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ribbon</b>' in string format, '🎀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WrappedGift">
+				<summary>
+					<b>Name</b>: Wrapped Gift, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎁, <b>Decimal Code(s)</b>: (127873), <b>CodePoint(s)</b>: 1F381
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wrapped Gift</b>' in string format, '🎁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ReminderRibbon">
+				<summary>
+					<b>Name</b>: Reminder Ribbon, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🎗️, <b>Decimal Code(s)</b>: (127895, 65039), <b>CodePoint(s)</b>: 1F397 FE0F, <b>Unqualified CodePoint(s)</b>: 1F397
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Reminder Ribbon</b>' in string format, '🎗️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="AdmissionTickets">
+				<summary>
+					<b>Name</b>: Admission Tickets, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🎟️, <b>Decimal Code(s)</b>: (127903, 65039), <b>CodePoint(s)</b>: 1F39F FE0F, <b>Unqualified CodePoint(s)</b>: 1F39F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Admission Tickets</b>' in string format, '🎟️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ticket">
+				<summary>
+					<b>Name</b>: Ticket, <b>Group</b>: Activities, <b>SubGroup</b>: Event, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎫, <b>Decimal Code(s)</b>: (127915), <b>CodePoint(s)</b>: 1F3AB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ticket</b>' in string format, '🎫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MilitaryMedal">
+				<summary>
+					<b>Name</b>: Military Medal, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🎖️, <b>Decimal Code(s)</b>: (127894, 65039), <b>CodePoint(s)</b>: 1F396 FE0F, <b>Unqualified CodePoint(s)</b>: 1F396
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Military Medal</b>' in string format, '🎖️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Trophy">
+				<summary>
+					<b>Name</b>: Trophy, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🏆, <b>Decimal Code(s)</b>: (127942), <b>CodePoint(s)</b>: 1F3C6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Trophy</b>' in string format, '🏆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SportsMedal">
+				<summary>
+					<b>Name</b>: Sports Medal, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏅, <b>Decimal Code(s)</b>: (127941), <b>CodePoint(s)</b>: 1F3C5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sports Medal</b>' in string format, '🏅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="1stPlaceMedal">
+				<summary>
+					<b>Name</b>: 1st Place Medal, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥇, <b>Decimal Code(s)</b>: (129351), <b>CodePoint(s)</b>: 1F947
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>1st Place Medal</b>' in string format, '🥇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="2ndPlaceMedal">
+				<summary>
+					<b>Name</b>: 2nd Place Medal, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥈, <b>Decimal Code(s)</b>: (129352), <b>CodePoint(s)</b>: 1F948
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>2nd Place Medal</b>' in string format, '🥈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="3rdPlaceMedal">
+				<summary>
+					<b>Name</b>: 3rd Place Medal, <b>Group</b>: Activities, <b>SubGroup</b>: Award-Medal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥉, <b>Decimal Code(s)</b>: (129353), <b>CodePoint(s)</b>: 1F949
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>3rd Place Medal</b>' in string format, '🥉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SoccerBall">
+				<summary>
+					<b>Name</b>: Soccer Ball, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ⚽, <b>Decimal Code(s)</b>: (9917), <b>CodePoint(s)</b>: 26BD
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Soccer Ball</b>' in string format, '⚽' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Baseball">
+				<summary>
+					<b>Name</b>: Baseball, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ⚾, <b>Decimal Code(s)</b>: (9918), <b>CodePoint(s)</b>: 26BE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Baseball</b>' in string format, '⚾' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Softball">
+				<summary>
+					<b>Name</b>: Softball, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥎, <b>Decimal Code(s)</b>: (129358), <b>CodePoint(s)</b>: 1F94E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Softball</b>' in string format, '🥎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Basketball">
+				<summary>
+					<b>Name</b>: Basketball, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🏀, <b>Decimal Code(s)</b>: (127936), <b>CodePoint(s)</b>: 1F3C0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Basketball</b>' in string format, '🏀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Volleyball">
+				<summary>
+					<b>Name</b>: Volleyball, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏐, <b>Decimal Code(s)</b>: (127952), <b>CodePoint(s)</b>: 1F3D0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Volleyball</b>' in string format, '🏐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="AmericanFootball">
+				<summary>
+					<b>Name</b>: American Football, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🏈, <b>Decimal Code(s)</b>: (127944), <b>CodePoint(s)</b>: 1F3C8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>American Football</b>' in string format, '🏈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RugbyFootball">
+				<summary>
+					<b>Name</b>: Rugby Football, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏉, <b>Decimal Code(s)</b>: (127945), <b>CodePoint(s)</b>: 1F3C9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rugby Football</b>' in string format, '🏉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tennis">
+				<summary>
+					<b>Name</b>: Tennis, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎾, <b>Decimal Code(s)</b>: (127934), <b>CodePoint(s)</b>: 1F3BE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tennis</b>' in string format, '🎾' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FlyingDisc">
+				<summary>
+					<b>Name</b>: Flying Disc, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥏, <b>Decimal Code(s)</b>: (129359), <b>CodePoint(s)</b>: 1F94F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Flying Disc</b>' in string format, '🥏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bowling">
+				<summary>
+					<b>Name</b>: Bowling, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎳, <b>Decimal Code(s)</b>: (127923), <b>CodePoint(s)</b>: 1F3B3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bowling</b>' in string format, '🎳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CricketGame">
+				<summary>
+					<b>Name</b>: Cricket Game, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏏, <b>Decimal Code(s)</b>: (127951), <b>CodePoint(s)</b>: 1F3CF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cricket Game</b>' in string format, '🏏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FieldHockey">
+				<summary>
+					<b>Name</b>: Field Hockey, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏑, <b>Decimal Code(s)</b>: (127953), <b>CodePoint(s)</b>: 1F3D1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Field Hockey</b>' in string format, '🏑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="IceHockey">
+				<summary>
+					<b>Name</b>: Ice Hockey, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏒, <b>Decimal Code(s)</b>: (127954), <b>CodePoint(s)</b>: 1F3D2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ice Hockey</b>' in string format, '🏒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lacrosse">
+				<summary>
+					<b>Name</b>: Lacrosse, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥍, <b>Decimal Code(s)</b>: (129357), <b>CodePoint(s)</b>: 1F94D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lacrosse</b>' in string format, '🥍' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PingPong">
+				<summary>
+					<b>Name</b>: Ping Pong, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏓, <b>Decimal Code(s)</b>: (127955), <b>CodePoint(s)</b>: 1F3D3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ping Pong</b>' in string format, '🏓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Badminton">
+				<summary>
+					<b>Name</b>: Badminton, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏸, <b>Decimal Code(s)</b>: (127992), <b>CodePoint(s)</b>: 1F3F8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Badminton</b>' in string format, '🏸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BoxingGlove">
+				<summary>
+					<b>Name</b>: Boxing Glove, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥊, <b>Decimal Code(s)</b>: (129354), <b>CodePoint(s)</b>: 1F94A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Boxing Glove</b>' in string format, '🥊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MartialArtsUniform">
+				<summary>
+					<b>Name</b>: Martial Arts Uniform, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥋, <b>Decimal Code(s)</b>: (129355), <b>CodePoint(s)</b>: 1F94B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Martial Arts Uniform</b>' in string format, '🥋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GoalNet">
+				<summary>
+					<b>Name</b>: Goal Net, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥅, <b>Decimal Code(s)</b>: (129349), <b>CodePoint(s)</b>: 1F945
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Goal Net</b>' in string format, '🥅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FlagInHole">
+				<summary>
+					<b>Name</b>: Flag In Hole, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ⛳, <b>Decimal Code(s)</b>: (9971), <b>CodePoint(s)</b>: 26F3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Flag In Hole</b>' in string format, '⛳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="IceSkate">
+				<summary>
+					<b>Name</b>: Ice Skate, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: ⛸️, <b>Decimal Code(s)</b>: (9976, 65039), <b>CodePoint(s)</b>: 26F8 FE0F, <b>Unqualified CodePoint(s)</b>: 26F8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ice Skate</b>' in string format, '⛸️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FishingPole">
+				<summary>
+					<b>Name</b>: Fishing Pole, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎣, <b>Decimal Code(s)</b>: (127907), <b>CodePoint(s)</b>: 1F3A3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fishing Pole</b>' in string format, '🎣' is ready for display.
+				</returns>
+			</property>
+
+			<property name="DivingMask">
+				<summary>
+					<b>Name</b>: Diving Mask, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🤿, <b>Decimal Code(s)</b>: (129343), <b>CodePoint(s)</b>: 1F93F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Diving Mask</b>' in string format, '🤿' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RunningShirt">
+				<summary>
+					<b>Name</b>: Running Shirt, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎽, <b>Decimal Code(s)</b>: (127933), <b>CodePoint(s)</b>: 1F3BD
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Running Shirt</b>' in string format, '🎽' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Skis">
+				<summary>
+					<b>Name</b>: Skis, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎿, <b>Decimal Code(s)</b>: (127935), <b>CodePoint(s)</b>: 1F3BF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Skis</b>' in string format, '🎿' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sled">
+				<summary>
+					<b>Name</b>: Sled, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🛷, <b>Decimal Code(s)</b>: (128759), <b>CodePoint(s)</b>: 1F6F7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sled</b>' in string format, '🛷' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CurlingStone">
+				<summary>
+					<b>Name</b>: Curling Stone, <b>Group</b>: Activities, <b>SubGroup</b>: Sport, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥌, <b>Decimal Code(s)</b>: (129356), <b>CodePoint(s)</b>: 1F94C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Curling Stone</b>' in string format, '🥌' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bullseye">
+				<summary>
+					<b>Name</b>: Bullseye, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎯, <b>Decimal Code(s)</b>: (127919), <b>CodePoint(s)</b>: 1F3AF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bullseye</b>' in string format, '🎯' is ready for display.
+				</returns>
+			</property>
+
+			<property name="YoYo">
+				<summary>
+					<b>Name</b>: Yo-Yo, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🪀, <b>Decimal Code(s)</b>: (129664), <b>CodePoint(s)</b>: 1FA80
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Yo-Yo</b>' in string format, '🪀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Kite">
+				<summary>
+					<b>Name</b>: Kite, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🪁, <b>Decimal Code(s)</b>: (129665), <b>CodePoint(s)</b>: 1FA81
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Kite</b>' in string format, '🪁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WaterPistol">
+				<summary>
+					<b>Name</b>: Water Pistol, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🔫, <b>Decimal Code(s)</b>: (128299), <b>CodePoint(s)</b>: 1F52B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Water Pistol</b>' in string format, '🔫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pool8Ball">
+				<summary>
+					<b>Name</b>: Pool 8 Ball, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎱, <b>Decimal Code(s)</b>: (127921), <b>CodePoint(s)</b>: 1F3B1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pool 8 Ball</b>' in string format, '🎱' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CrystalBall">
+				<summary>
+					<b>Name</b>: Crystal Ball, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🔮, <b>Decimal Code(s)</b>: (128302), <b>CodePoint(s)</b>: 1F52E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Crystal Ball</b>' in string format, '🔮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MagicWand">
+				<summary>
+					<b>Name</b>: Magic Wand, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪄, <b>Decimal Code(s)</b>: (129668), <b>CodePoint(s)</b>: 1FA84
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Magic Wand</b>' in string format, '🪄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="VideoGame">
+				<summary>
+					<b>Name</b>: Video Game, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎮, <b>Decimal Code(s)</b>: (127918), <b>CodePoint(s)</b>: 1F3AE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Video Game</b>' in string format, '🎮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Joystick">
+				<summary>
+					<b>Name</b>: Joystick, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🕹️, <b>Decimal Code(s)</b>: (128377, 65039), <b>CodePoint(s)</b>: 1F579 FE0F, <b>Unqualified CodePoint(s)</b>: 1F579
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Joystick</b>' in string format, '🕹️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SlotMachine">
+				<summary>
+					<b>Name</b>: Slot Machine, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎰, <b>Decimal Code(s)</b>: (127920), <b>CodePoint(s)</b>: 1F3B0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Slot Machine</b>' in string format, '🎰' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GameDie">
+				<summary>
+					<b>Name</b>: Game Die, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎲, <b>Decimal Code(s)</b>: (127922), <b>CodePoint(s)</b>: 1F3B2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Game Die</b>' in string format, '🎲' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PuzzlePiece">
+				<summary>
+					<b>Name</b>: Puzzle Piece, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧩, <b>Decimal Code(s)</b>: (129513), <b>CodePoint(s)</b>: 1F9E9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Puzzle Piece</b>' in string format, '🧩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TeddyBear">
+				<summary>
+					<b>Name</b>: Teddy Bear, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧸, <b>Decimal Code(s)</b>: (129528), <b>CodePoint(s)</b>: 1F9F8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Teddy Bear</b>' in string format, '🧸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PiAta">
+				<summary>
+					<b>Name</b>: Piñata, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪅, <b>Decimal Code(s)</b>: (129669), <b>CodePoint(s)</b>: 1FA85
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Piñata</b>' in string format, '🪅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MirrorBall">
+				<summary>
+					<b>Name</b>: Mirror Ball, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🪩, <b>Decimal Code(s)</b>: (129705), <b>CodePoint(s)</b>: 1FAA9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mirror Ball</b>' in string format, '🪩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="NestingDolls">
+				<summary>
+					<b>Name</b>: Nesting Dolls, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪆, <b>Decimal Code(s)</b>: (129670), <b>CodePoint(s)</b>: 1FA86
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Nesting Dolls</b>' in string format, '🪆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SpadeSuit">
+				<summary>
+					<b>Name</b>: Spade Suit, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ♠️, <b>Decimal Code(s)</b>: (9824, 65039), <b>CodePoint(s)</b>: 2660 FE0F, <b>Unqualified CodePoint(s)</b>: 2660
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spade Suit</b>' in string format, '♠️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HeartSuit">
+				<summary>
+					<b>Name</b>: Heart Suit, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ♥️, <b>Decimal Code(s)</b>: (9829, 65039), <b>CodePoint(s)</b>: 2665 FE0F, <b>Unqualified CodePoint(s)</b>: 2665
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Heart Suit</b>' in string format, '♥️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="DiamondSuit">
+				<summary>
+					<b>Name</b>: Diamond Suit, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ♦️, <b>Decimal Code(s)</b>: (9830, 65039), <b>CodePoint(s)</b>: 2666 FE0F, <b>Unqualified CodePoint(s)</b>: 2666
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Diamond Suit</b>' in string format, '♦️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ClubSuit">
+				<summary>
+					<b>Name</b>: Club Suit, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ♣️, <b>Decimal Code(s)</b>: (9827, 65039), <b>CodePoint(s)</b>: 2663 FE0F, <b>Unqualified CodePoint(s)</b>: 2663
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Club Suit</b>' in string format, '♣️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ChessPawn">
+				<summary>
+					<b>Name</b>: Chess Pawn, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: ♟️, <b>Decimal Code(s)</b>: (9823, 65039), <b>CodePoint(s)</b>: 265F FE0F, <b>Unqualified CodePoint(s)</b>: 265F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chess Pawn</b>' in string format, '♟️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Joker">
+				<summary>
+					<b>Name</b>: Joker, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🃏, <b>Decimal Code(s)</b>: (127183), <b>CodePoint(s)</b>: 1F0CF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Joker</b>' in string format, '🃏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MahjongRedDragon">
+				<summary>
+					<b>Name</b>: Mahjong Red Dragon, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🀄, <b>Decimal Code(s)</b>: (126980), <b>CodePoint(s)</b>: 1F004
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mahjong Red Dragon</b>' in string format, '🀄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FlowerPlayingCards">
+				<summary>
+					<b>Name</b>: Flower Playing Cards, <b>Group</b>: Activities, <b>SubGroup</b>: Game, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎴, <b>Decimal Code(s)</b>: (127924), <b>CodePoint(s)</b>: 1F3B4
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Flower Playing Cards</b>' in string format, '🎴' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PerformingArts">
+				<summary>
+					<b>Name</b>: Performing Arts, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎭, <b>Decimal Code(s)</b>: (127917), <b>CodePoint(s)</b>: 1F3AD
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Performing Arts</b>' in string format, '🎭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FramedPicture">
+				<summary>
+					<b>Name</b>: Framed Picture, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🖼️, <b>Decimal Code(s)</b>: (128444, 65039), <b>CodePoint(s)</b>: 1F5BC FE0F, <b>Unqualified CodePoint(s)</b>: 1F5BC
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Framed Picture</b>' in string format, '🖼️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ArtistPalette">
+				<summary>
+					<b>Name</b>: Artist Palette, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎨, <b>Decimal Code(s)</b>: (127912), <b>CodePoint(s)</b>: 1F3A8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Artist Palette</b>' in string format, '🎨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Thread">
+				<summary>
+					<b>Name</b>: Thread, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧵, <b>Decimal Code(s)</b>: (129525), <b>CodePoint(s)</b>: 1F9F5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Thread</b>' in string format, '🧵' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SewingNeedle">
+				<summary>
+					<b>Name</b>: Sewing Needle, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪡, <b>Decimal Code(s)</b>: (129697), <b>CodePoint(s)</b>: 1FAA1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sewing Needle</b>' in string format, '🪡' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Yarn">
+				<summary>
+					<b>Name</b>: Yarn, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧶, <b>Decimal Code(s)</b>: (129526), <b>CodePoint(s)</b>: 1F9F6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Yarn</b>' in string format, '🧶' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Knot">
+				<summary>
+					<b>Name</b>: Knot, <b>Group</b>: Activities, <b>SubGroup</b>: Arts &amp; Crafts, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪢, <b>Decimal Code(s)</b>: (129698), <b>CodePoint(s)</b>: 1FAA2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Knot</b>' in string format, '🪢' is ready for display.
+				</returns>
+			</property>
+        </properties>
+    </class>
+</extradoc>

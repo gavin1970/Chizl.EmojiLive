@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+		<PropertyGroup>
+				<TargetFrameworks>
+						netstandard2.0;netstandard2.1;net471;net472;net48;net481;net8.0;net9.0
+				</TargetFrameworks>
+				<ImplicitUsings>disable</ImplicitUsings>
+				<Nullable>disable</Nullable>
+				<EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
+				<GenerateDocumentationFile>False</GenerateDocumentationFile>
+		</PropertyGroup>
+
+		<PropertyGroup>
+				<Authors>Chizl</Authors>
+				<PackageId>Chizl.EmojiLive</PackageId>
+				<Company>Chizl.com</Company>
+				<Copyright>© 2025 chizl.com</Copyright>
+				<PackageTags>fully-qualified;emoji;library;in-console;on-desktop;core;standard;framework;no-deps</PackageTags>
+				<FileVersion>5.07.23.2029</FileVersion>
+				<Version>5.07.23.0</Version>
+				<AssemblyVersion>5.07.0.0</AssemblyVersion>
+				<PackageReadmeFile>README.md</PackageReadmeFile>
+				<ApplicationIcon>docs\EmojiLive.ico</ApplicationIcon>
+				<PackageIcon>EmojiLive.png</PackageIcon>
+		</PropertyGroup>
+
+		<ItemGroup>
+		  <Compile Remove="demos\**" />
+		  <EmbeddedResource Remove="demos\**" />
+		  <None Remove="demos\**" />
+		</ItemGroup>
+		
+		<ItemGroup>
+				<None Include="docs\README.md" Pack="true" PackagePath="\" />
+				<None Include="docs\license.md" Pack="true" PackagePath="\" />
+				<None Include="docs\EmojiLive.png" Pack="True" PackagePath="\" />
+				<None Include="docs\EmojiLive.ico" Pack="true" PackagePath="\" />
+		</ItemGroup>
+
+		<ItemGroup>
+		  <PackageReference Include="SkiaSharp" Version="3.119.0" />
+		</ItemGroup>
+		
+		<ItemGroup>
+		  <Folder Include="groups\" />
+		</ItemGroup>
+</Project>

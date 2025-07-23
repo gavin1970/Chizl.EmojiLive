@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extradoc>
+    <class name="AnimalsNature">
+        <summary>
+            File Updated: 07/23/2025 20:24:48:0860 (UTC)<br/>
+            All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively owned by <a href="https://unicode.org">unicode.org</a><br/>
+            Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
+            EmojiAnimalsNature, created by chizl.com © 1997-2025 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
+            Group: Animals &amp; Nature, (8) Subgroups, (159) Emojis<br/>
+        </summary>
+        <returns></returns>
+        <properties>
+            <property name="MonkeyFace">
+				<summary>
+					<b>Name</b>: Monkey Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐵, <b>Decimal Code(s)</b>: (128053), <b>CodePoint(s)</b>: 1F435
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Monkey Face</b>' in string format, '🐵' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Monkey">
+				<summary>
+					<b>Name</b>: Monkey, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐒, <b>Decimal Code(s)</b>: (128018), <b>CodePoint(s)</b>: 1F412
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Monkey</b>' in string format, '🐒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Gorilla">
+				<summary>
+					<b>Name</b>: Gorilla, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦍, <b>Decimal Code(s)</b>: (129421), <b>CodePoint(s)</b>: 1F98D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Gorilla</b>' in string format, '🦍' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Orangutan">
+				<summary>
+					<b>Name</b>: Orangutan, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦧, <b>Decimal Code(s)</b>: (129447), <b>CodePoint(s)</b>: 1F9A7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Orangutan</b>' in string format, '🦧' is ready for display.
+				</returns>
+			</property>
+
+			<property name="DogFace">
+				<summary>
+					<b>Name</b>: Dog Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐶, <b>Decimal Code(s)</b>: (128054), <b>CodePoint(s)</b>: 1F436
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dog Face</b>' in string format, '🐶' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dog">
+				<summary>
+					<b>Name</b>: Dog, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🐕, <b>Decimal Code(s)</b>: (128021), <b>CodePoint(s)</b>: 1F415
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dog</b>' in string format, '🐕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GuideDog">
+				<summary>
+					<b>Name</b>: Guide Dog, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦮, <b>Decimal Code(s)</b>: (129454), <b>CodePoint(s)</b>: 1F9AE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Guide Dog</b>' in string format, '🦮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ServiceDog">
+				<summary>
+					<b>Name</b>: Service Dog, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🐕‍🦺, <b>Decimal Code(s)</b>: (128021, 8205, 129466), <b>CodePoint(s)</b>: 1F415 200D 1F9BA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Service Dog</b>' in string format, '🐕‍🦺' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Poodle">
+				<summary>
+					<b>Name</b>: Poodle, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐩, <b>Decimal Code(s)</b>: (128041), <b>CodePoint(s)</b>: 1F429
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Poodle</b>' in string format, '🐩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Wolf">
+				<summary>
+					<b>Name</b>: Wolf, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐺, <b>Decimal Code(s)</b>: (128058), <b>CodePoint(s)</b>: 1F43A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wolf</b>' in string format, '🐺' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Fox">
+				<summary>
+					<b>Name</b>: Fox, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦊, <b>Decimal Code(s)</b>: (129418), <b>CodePoint(s)</b>: 1F98A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fox</b>' in string format, '🦊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Raccoon">
+				<summary>
+					<b>Name</b>: Raccoon, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦝, <b>Decimal Code(s)</b>: (129437), <b>CodePoint(s)</b>: 1F99D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Raccoon</b>' in string format, '🦝' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CatFace">
+				<summary>
+					<b>Name</b>: Cat Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐱, <b>Decimal Code(s)</b>: (128049), <b>CodePoint(s)</b>: 1F431
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cat Face</b>' in string format, '🐱' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cat">
+				<summary>
+					<b>Name</b>: Cat, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🐈, <b>Decimal Code(s)</b>: (128008), <b>CodePoint(s)</b>: 1F408
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cat</b>' in string format, '🐈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BlackCat">
+				<summary>
+					<b>Name</b>: Black Cat, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🐈‍⬛, <b>Decimal Code(s)</b>: (128008, 8205, 11035), <b>CodePoint(s)</b>: 1F408 200D 2B1B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Black Cat</b>' in string format, '🐈‍⬛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lion">
+				<summary>
+					<b>Name</b>: Lion, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🦁, <b>Decimal Code(s)</b>: (129409), <b>CodePoint(s)</b>: 1F981
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lion</b>' in string format, '🦁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TigerFace">
+				<summary>
+					<b>Name</b>: Tiger Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐯, <b>Decimal Code(s)</b>: (128047), <b>CodePoint(s)</b>: 1F42F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tiger Face</b>' in string format, '🐯' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tiger">
+				<summary>
+					<b>Name</b>: Tiger, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐅, <b>Decimal Code(s)</b>: (128005), <b>CodePoint(s)</b>: 1F405
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tiger</b>' in string format, '🐅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Leopard">
+				<summary>
+					<b>Name</b>: Leopard, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐆, <b>Decimal Code(s)</b>: (128006), <b>CodePoint(s)</b>: 1F406
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Leopard</b>' in string format, '🐆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HorseFace">
+				<summary>
+					<b>Name</b>: Horse Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐴, <b>Decimal Code(s)</b>: (128052), <b>CodePoint(s)</b>: 1F434
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Horse Face</b>' in string format, '🐴' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Moose">
+				<summary>
+					<b>Name</b>: Moose, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🫎, <b>Decimal Code(s)</b>: (129742), <b>CodePoint(s)</b>: 1FACE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Moose</b>' in string format, '🫎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Donkey">
+				<summary>
+					<b>Name</b>: Donkey, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🫏, <b>Decimal Code(s)</b>: (129743), <b>CodePoint(s)</b>: 1FACF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Donkey</b>' in string format, '🫏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Horse">
+				<summary>
+					<b>Name</b>: Horse, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐎, <b>Decimal Code(s)</b>: (128014), <b>CodePoint(s)</b>: 1F40E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Horse</b>' in string format, '🐎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Unicorn">
+				<summary>
+					<b>Name</b>: Unicorn, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🦄, <b>Decimal Code(s)</b>: (129412), <b>CodePoint(s)</b>: 1F984
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Unicorn</b>' in string format, '🦄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Zebra">
+				<summary>
+					<b>Name</b>: Zebra, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦓, <b>Decimal Code(s)</b>: (129427), <b>CodePoint(s)</b>: 1F993
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Zebra</b>' in string format, '🦓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Deer">
+				<summary>
+					<b>Name</b>: Deer, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦌, <b>Decimal Code(s)</b>: (129420), <b>CodePoint(s)</b>: 1F98C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Deer</b>' in string format, '🦌' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bison">
+				<summary>
+					<b>Name</b>: Bison, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🦬, <b>Decimal Code(s)</b>: (129452), <b>CodePoint(s)</b>: 1F9AC
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bison</b>' in string format, '🦬' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CowFace">
+				<summary>
+					<b>Name</b>: Cow Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐮, <b>Decimal Code(s)</b>: (128046), <b>CodePoint(s)</b>: 1F42E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cow Face</b>' in string format, '🐮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ox">
+				<summary>
+					<b>Name</b>: Ox, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐂, <b>Decimal Code(s)</b>: (128002), <b>CodePoint(s)</b>: 1F402
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ox</b>' in string format, '🐂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WaterBuffalo">
+				<summary>
+					<b>Name</b>: Water Buffalo, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐃, <b>Decimal Code(s)</b>: (128003), <b>CodePoint(s)</b>: 1F403
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Water Buffalo</b>' in string format, '🐃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cow">
+				<summary>
+					<b>Name</b>: Cow, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐄, <b>Decimal Code(s)</b>: (128004), <b>CodePoint(s)</b>: 1F404
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cow</b>' in string format, '🐄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PigFace">
+				<summary>
+					<b>Name</b>: Pig Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐷, <b>Decimal Code(s)</b>: (128055), <b>CodePoint(s)</b>: 1F437
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pig Face</b>' in string format, '🐷' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pig">
+				<summary>
+					<b>Name</b>: Pig, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐖, <b>Decimal Code(s)</b>: (128022), <b>CodePoint(s)</b>: 1F416
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pig</b>' in string format, '🐖' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Boar">
+				<summary>
+					<b>Name</b>: Boar, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐗, <b>Decimal Code(s)</b>: (128023), <b>CodePoint(s)</b>: 1F417
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Boar</b>' in string format, '🐗' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PigNose">
+				<summary>
+					<b>Name</b>: Pig Nose, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐽, <b>Decimal Code(s)</b>: (128061), <b>CodePoint(s)</b>: 1F43D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pig Nose</b>' in string format, '🐽' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ram">
+				<summary>
+					<b>Name</b>: Ram, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐏, <b>Decimal Code(s)</b>: (128015), <b>CodePoint(s)</b>: 1F40F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ram</b>' in string format, '🐏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ewe">
+				<summary>
+					<b>Name</b>: Ewe, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐑, <b>Decimal Code(s)</b>: (128017), <b>CodePoint(s)</b>: 1F411
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ewe</b>' in string format, '🐑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Goat">
+				<summary>
+					<b>Name</b>: Goat, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐐, <b>Decimal Code(s)</b>: (128016), <b>CodePoint(s)</b>: 1F410
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Goat</b>' in string format, '🐐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Camel">
+				<summary>
+					<b>Name</b>: Camel, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐪, <b>Decimal Code(s)</b>: (128042), <b>CodePoint(s)</b>: 1F42A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Camel</b>' in string format, '🐪' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TwoHumpCamel">
+				<summary>
+					<b>Name</b>: Two-Hump Camel, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐫, <b>Decimal Code(s)</b>: (128043), <b>CodePoint(s)</b>: 1F42B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Two-Hump Camel</b>' in string format, '🐫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Llama">
+				<summary>
+					<b>Name</b>: Llama, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦙, <b>Decimal Code(s)</b>: (129433), <b>CodePoint(s)</b>: 1F999
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Llama</b>' in string format, '🦙' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Giraffe">
+				<summary>
+					<b>Name</b>: Giraffe, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦒, <b>Decimal Code(s)</b>: (129426), <b>CodePoint(s)</b>: 1F992
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Giraffe</b>' in string format, '🦒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Elephant">
+				<summary>
+					<b>Name</b>: Elephant, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐘, <b>Decimal Code(s)</b>: (128024), <b>CodePoint(s)</b>: 1F418
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Elephant</b>' in string format, '🐘' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mammoth">
+				<summary>
+					<b>Name</b>: Mammoth, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🦣, <b>Decimal Code(s)</b>: (129443), <b>CodePoint(s)</b>: 1F9A3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mammoth</b>' in string format, '🦣' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rhinoceros">
+				<summary>
+					<b>Name</b>: Rhinoceros, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦏, <b>Decimal Code(s)</b>: (129423), <b>CodePoint(s)</b>: 1F98F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rhinoceros</b>' in string format, '🦏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hippopotamus">
+				<summary>
+					<b>Name</b>: Hippopotamus, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦛, <b>Decimal Code(s)</b>: (129435), <b>CodePoint(s)</b>: 1F99B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hippopotamus</b>' in string format, '🦛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MouseFace">
+				<summary>
+					<b>Name</b>: Mouse Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐭, <b>Decimal Code(s)</b>: (128045), <b>CodePoint(s)</b>: 1F42D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mouse Face</b>' in string format, '🐭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mouse">
+				<summary>
+					<b>Name</b>: Mouse, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐁, <b>Decimal Code(s)</b>: (128001), <b>CodePoint(s)</b>: 1F401
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mouse</b>' in string format, '🐁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rat">
+				<summary>
+					<b>Name</b>: Rat, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐀, <b>Decimal Code(s)</b>: (128000), <b>CodePoint(s)</b>: 1F400
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rat</b>' in string format, '🐀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hamster">
+				<summary>
+					<b>Name</b>: Hamster, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐹, <b>Decimal Code(s)</b>: (128057), <b>CodePoint(s)</b>: 1F439
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hamster</b>' in string format, '🐹' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RabbitFace">
+				<summary>
+					<b>Name</b>: Rabbit Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐰, <b>Decimal Code(s)</b>: (128048), <b>CodePoint(s)</b>: 1F430
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rabbit Face</b>' in string format, '🐰' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rabbit">
+				<summary>
+					<b>Name</b>: Rabbit, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐇, <b>Decimal Code(s)</b>: (128007), <b>CodePoint(s)</b>: 1F407
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rabbit</b>' in string format, '🐇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Chipmunk">
+				<summary>
+					<b>Name</b>: Chipmunk, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🐿️, <b>Decimal Code(s)</b>: (128063, 65039), <b>CodePoint(s)</b>: 1F43F FE0F, <b>Unqualified CodePoint(s)</b>: 1F43F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chipmunk</b>' in string format, '🐿️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Beaver">
+				<summary>
+					<b>Name</b>: Beaver, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🦫, <b>Decimal Code(s)</b>: (129451), <b>CodePoint(s)</b>: 1F9AB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Beaver</b>' in string format, '🦫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hedgehog">
+				<summary>
+					<b>Name</b>: Hedgehog, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦔, <b>Decimal Code(s)</b>: (129428), <b>CodePoint(s)</b>: 1F994
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hedgehog</b>' in string format, '🦔' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bat">
+				<summary>
+					<b>Name</b>: Bat, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦇, <b>Decimal Code(s)</b>: (129415), <b>CodePoint(s)</b>: 1F987
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bat</b>' in string format, '🦇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bear">
+				<summary>
+					<b>Name</b>: Bear, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐻, <b>Decimal Code(s)</b>: (128059), <b>CodePoint(s)</b>: 1F43B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bear</b>' in string format, '🐻' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PolarBear">
+				<summary>
+					<b>Name</b>: Polar Bear, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🐻‍❄️, <b>Decimal Code(s)</b>: (128059, 8205, 10052, 65039), <b>CodePoint(s)</b>: 1F43B 200D 2744 FE0F, <b>Unqualified CodePoint(s)</b>: 1F43B 200D 2744
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Polar Bear</b>' in string format, '🐻‍❄️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Koala">
+				<summary>
+					<b>Name</b>: Koala, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐨, <b>Decimal Code(s)</b>: (128040), <b>CodePoint(s)</b>: 1F428
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Koala</b>' in string format, '🐨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Panda">
+				<summary>
+					<b>Name</b>: Panda, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐼, <b>Decimal Code(s)</b>: (128060), <b>CodePoint(s)</b>: 1F43C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Panda</b>' in string format, '🐼' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sloth">
+				<summary>
+					<b>Name</b>: Sloth, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦥, <b>Decimal Code(s)</b>: (129445), <b>CodePoint(s)</b>: 1F9A5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sloth</b>' in string format, '🦥' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Otter">
+				<summary>
+					<b>Name</b>: Otter, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦦, <b>Decimal Code(s)</b>: (129446), <b>CodePoint(s)</b>: 1F9A6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Otter</b>' in string format, '🦦' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Skunk">
+				<summary>
+					<b>Name</b>: Skunk, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦨, <b>Decimal Code(s)</b>: (129448), <b>CodePoint(s)</b>: 1F9A8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Skunk</b>' in string format, '🦨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Kangaroo">
+				<summary>
+					<b>Name</b>: Kangaroo, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦘, <b>Decimal Code(s)</b>: (129432), <b>CodePoint(s)</b>: 1F998
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Kangaroo</b>' in string format, '🦘' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Badger">
+				<summary>
+					<b>Name</b>: Badger, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦡, <b>Decimal Code(s)</b>: (129441), <b>CodePoint(s)</b>: 1F9A1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Badger</b>' in string format, '🦡' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PawPrints">
+				<summary>
+					<b>Name</b>: Paw Prints, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Mammal, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐾, <b>Decimal Code(s)</b>: (128062), <b>CodePoint(s)</b>: 1F43E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Paw Prints</b>' in string format, '🐾' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Turkey">
+				<summary>
+					<b>Name</b>: Turkey, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🦃, <b>Decimal Code(s)</b>: (129411), <b>CodePoint(s)</b>: 1F983
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Turkey</b>' in string format, '🦃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Chicken">
+				<summary>
+					<b>Name</b>: Chicken, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐔, <b>Decimal Code(s)</b>: (128020), <b>CodePoint(s)</b>: 1F414
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chicken</b>' in string format, '🐔' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rooster">
+				<summary>
+					<b>Name</b>: Rooster, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐓, <b>Decimal Code(s)</b>: (128019), <b>CodePoint(s)</b>: 1F413
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rooster</b>' in string format, '🐓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HatchingChick">
+				<summary>
+					<b>Name</b>: Hatching Chick, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐣, <b>Decimal Code(s)</b>: (128035), <b>CodePoint(s)</b>: 1F423
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hatching Chick</b>' in string format, '🐣' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BabyChick">
+				<summary>
+					<b>Name</b>: Baby Chick, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐤, <b>Decimal Code(s)</b>: (128036), <b>CodePoint(s)</b>: 1F424
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Baby Chick</b>' in string format, '🐤' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FrontFacingBabyChick">
+				<summary>
+					<b>Name</b>: Front-Facing Baby Chick, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐥, <b>Decimal Code(s)</b>: (128037), <b>CodePoint(s)</b>: 1F425
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Front-Facing Baby Chick</b>' in string format, '🐥' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bird">
+				<summary>
+					<b>Name</b>: Bird, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐦, <b>Decimal Code(s)</b>: (128038), <b>CodePoint(s)</b>: 1F426
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bird</b>' in string format, '🐦' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Penguin">
+				<summary>
+					<b>Name</b>: Penguin, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐧, <b>Decimal Code(s)</b>: (128039), <b>CodePoint(s)</b>: 1F427
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Penguin</b>' in string format, '🐧' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dove">
+				<summary>
+					<b>Name</b>: Dove, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🕊️, <b>Decimal Code(s)</b>: (128330, 65039), <b>CodePoint(s)</b>: 1F54A FE0F, <b>Unqualified CodePoint(s)</b>: 1F54A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dove</b>' in string format, '🕊️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Eagle">
+				<summary>
+					<b>Name</b>: Eagle, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦅, <b>Decimal Code(s)</b>: (129413), <b>CodePoint(s)</b>: 1F985
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Eagle</b>' in string format, '🦅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Duck">
+				<summary>
+					<b>Name</b>: Duck, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦆, <b>Decimal Code(s)</b>: (129414), <b>CodePoint(s)</b>: 1F986
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Duck</b>' in string format, '🦆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Swan">
+				<summary>
+					<b>Name</b>: Swan, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦢, <b>Decimal Code(s)</b>: (129442), <b>CodePoint(s)</b>: 1F9A2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Swan</b>' in string format, '🦢' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Owl">
+				<summary>
+					<b>Name</b>: Owl, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦉, <b>Decimal Code(s)</b>: (129417), <b>CodePoint(s)</b>: 1F989
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Owl</b>' in string format, '🦉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dodo">
+				<summary>
+					<b>Name</b>: Dodo, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🦤, <b>Decimal Code(s)</b>: (129444), <b>CodePoint(s)</b>: 1F9A4
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dodo</b>' in string format, '🦤' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Feather">
+				<summary>
+					<b>Name</b>: Feather, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪶, <b>Decimal Code(s)</b>: (129718), <b>CodePoint(s)</b>: 1FAB6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Feather</b>' in string format, '🪶' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Flamingo">
+				<summary>
+					<b>Name</b>: Flamingo, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦩, <b>Decimal Code(s)</b>: (129449), <b>CodePoint(s)</b>: 1F9A9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Flamingo</b>' in string format, '🦩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Peacock">
+				<summary>
+					<b>Name</b>: Peacock, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦚, <b>Decimal Code(s)</b>: (129434), <b>CodePoint(s)</b>: 1F99A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Peacock</b>' in string format, '🦚' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Parrot">
+				<summary>
+					<b>Name</b>: Parrot, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦜, <b>Decimal Code(s)</b>: (129436), <b>CodePoint(s)</b>: 1F99C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Parrot</b>' in string format, '🦜' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Wing">
+				<summary>
+					<b>Name</b>: Wing, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🪽, <b>Decimal Code(s)</b>: (129725), <b>CodePoint(s)</b>: 1FABD
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wing</b>' in string format, '🪽' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BlackBird">
+				<summary>
+					<b>Name</b>: Black Bird, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🐦‍⬛, <b>Decimal Code(s)</b>: (128038, 8205, 11035), <b>CodePoint(s)</b>: 1F426 200D 2B1B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Black Bird</b>' in string format, '🐦‍⬛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Goose">
+				<summary>
+					<b>Name</b>: Goose, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🪿, <b>Decimal Code(s)</b>: (129727), <b>CodePoint(s)</b>: 1FABF
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Goose</b>' in string format, '🪿' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Phoenix">
+				<summary>
+					<b>Name</b>: Phoenix, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bird, <b>Version</b>: E15.1<br/>
+					<b>EmojiCharacter</b>: 🐦‍🔥, <b>Decimal Code(s)</b>: (128038, 8205, 128293), <b>CodePoint(s)</b>: 1F426 200D 1F525
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Phoenix</b>' in string format, '🐦‍🔥' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Frog">
+				<summary>
+					<b>Name</b>: Frog, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Amphibian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐸, <b>Decimal Code(s)</b>: (128056), <b>CodePoint(s)</b>: 1F438
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Frog</b>' in string format, '🐸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Crocodile">
+				<summary>
+					<b>Name</b>: Crocodile, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐊, <b>Decimal Code(s)</b>: (128010), <b>CodePoint(s)</b>: 1F40A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Crocodile</b>' in string format, '🐊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Turtle">
+				<summary>
+					<b>Name</b>: Turtle, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐢, <b>Decimal Code(s)</b>: (128034), <b>CodePoint(s)</b>: 1F422
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Turtle</b>' in string format, '🐢' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lizard">
+				<summary>
+					<b>Name</b>: Lizard, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦎, <b>Decimal Code(s)</b>: (129422), <b>CodePoint(s)</b>: 1F98E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lizard</b>' in string format, '🦎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Snake">
+				<summary>
+					<b>Name</b>: Snake, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐍, <b>Decimal Code(s)</b>: (128013), <b>CodePoint(s)</b>: 1F40D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Snake</b>' in string format, '🐍' is ready for display.
+				</returns>
+			</property>
+
+			<property name="DragonFace">
+				<summary>
+					<b>Name</b>: Dragon Face, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐲, <b>Decimal Code(s)</b>: (128050), <b>CodePoint(s)</b>: 1F432
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dragon Face</b>' in string format, '🐲' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dragon">
+				<summary>
+					<b>Name</b>: Dragon, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐉, <b>Decimal Code(s)</b>: (128009), <b>CodePoint(s)</b>: 1F409
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dragon</b>' in string format, '🐉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sauropod">
+				<summary>
+					<b>Name</b>: Sauropod, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦕, <b>Decimal Code(s)</b>: (129429), <b>CodePoint(s)</b>: 1F995
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sauropod</b>' in string format, '🦕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TRex">
+				<summary>
+					<b>Name</b>: T-Rex, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Reptile, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦖, <b>Decimal Code(s)</b>: (129430), <b>CodePoint(s)</b>: 1F996
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>T-Rex</b>' in string format, '🦖' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SpoutingWhale">
+				<summary>
+					<b>Name</b>: Spouting Whale, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐳, <b>Decimal Code(s)</b>: (128051), <b>CodePoint(s)</b>: 1F433
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spouting Whale</b>' in string format, '🐳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Whale">
+				<summary>
+					<b>Name</b>: Whale, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🐋, <b>Decimal Code(s)</b>: (128011), <b>CodePoint(s)</b>: 1F40B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Whale</b>' in string format, '🐋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dolphin">
+				<summary>
+					<b>Name</b>: Dolphin, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐬, <b>Decimal Code(s)</b>: (128044), <b>CodePoint(s)</b>: 1F42C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dolphin</b>' in string format, '🐬' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Seal">
+				<summary>
+					<b>Name</b>: Seal, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🦭, <b>Decimal Code(s)</b>: (129453), <b>CodePoint(s)</b>: 1F9AD
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Seal</b>' in string format, '🦭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Fish">
+				<summary>
+					<b>Name</b>: Fish, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐟, <b>Decimal Code(s)</b>: (128031), <b>CodePoint(s)</b>: 1F41F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fish</b>' in string format, '🐟' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TropicalFish">
+				<summary>
+					<b>Name</b>: Tropical Fish, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐠, <b>Decimal Code(s)</b>: (128032), <b>CodePoint(s)</b>: 1F420
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tropical Fish</b>' in string format, '🐠' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Blowfish">
+				<summary>
+					<b>Name</b>: Blowfish, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐡, <b>Decimal Code(s)</b>: (128033), <b>CodePoint(s)</b>: 1F421
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Blowfish</b>' in string format, '🐡' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Shark">
+				<summary>
+					<b>Name</b>: Shark, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦈, <b>Decimal Code(s)</b>: (129416), <b>CodePoint(s)</b>: 1F988
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shark</b>' in string format, '🦈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Octopus">
+				<summary>
+					<b>Name</b>: Octopus, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐙, <b>Decimal Code(s)</b>: (128025), <b>CodePoint(s)</b>: 1F419
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Octopus</b>' in string format, '🐙' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SpiralShell">
+				<summary>
+					<b>Name</b>: Spiral Shell, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐚, <b>Decimal Code(s)</b>: (128026), <b>CodePoint(s)</b>: 1F41A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spiral Shell</b>' in string format, '🐚' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Coral">
+				<summary>
+					<b>Name</b>: Coral, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🪸, <b>Decimal Code(s)</b>: (129720), <b>CodePoint(s)</b>: 1FAB8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Coral</b>' in string format, '🪸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Jellyfish">
+				<summary>
+					<b>Name</b>: Jellyfish, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🪼, <b>Decimal Code(s)</b>: (129724), <b>CodePoint(s)</b>: 1FABC
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Jellyfish</b>' in string format, '🪼' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Crab">
+				<summary>
+					<b>Name</b>: Crab, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🦀, <b>Decimal Code(s)</b>: (129408), <b>CodePoint(s)</b>: 1F980
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Crab</b>' in string format, '🦀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lobster">
+				<summary>
+					<b>Name</b>: Lobster, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦞, <b>Decimal Code(s)</b>: (129438), <b>CodePoint(s)</b>: 1F99E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lobster</b>' in string format, '🦞' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Shrimp">
+				<summary>
+					<b>Name</b>: Shrimp, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦐, <b>Decimal Code(s)</b>: (129424), <b>CodePoint(s)</b>: 1F990
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shrimp</b>' in string format, '🦐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Squid">
+				<summary>
+					<b>Name</b>: Squid, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦑, <b>Decimal Code(s)</b>: (129425), <b>CodePoint(s)</b>: 1F991
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Squid</b>' in string format, '🦑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Oyster">
+				<summary>
+					<b>Name</b>: Oyster, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Marine, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🦪, <b>Decimal Code(s)</b>: (129450), <b>CodePoint(s)</b>: 1F9AA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Oyster</b>' in string format, '🦪' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Snail">
+				<summary>
+					<b>Name</b>: Snail, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐌, <b>Decimal Code(s)</b>: (128012), <b>CodePoint(s)</b>: 1F40C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Snail</b>' in string format, '🐌' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Butterfly">
+				<summary>
+					<b>Name</b>: Butterfly, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🦋, <b>Decimal Code(s)</b>: (129419), <b>CodePoint(s)</b>: 1F98B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Butterfly</b>' in string format, '🦋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bug">
+				<summary>
+					<b>Name</b>: Bug, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐛, <b>Decimal Code(s)</b>: (128027), <b>CodePoint(s)</b>: 1F41B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bug</b>' in string format, '🐛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ant">
+				<summary>
+					<b>Name</b>: Ant, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐜, <b>Decimal Code(s)</b>: (128028), <b>CodePoint(s)</b>: 1F41C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ant</b>' in string format, '🐜' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Honeybee">
+				<summary>
+					<b>Name</b>: Honeybee, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐝, <b>Decimal Code(s)</b>: (128029), <b>CodePoint(s)</b>: 1F41D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Honeybee</b>' in string format, '🐝' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Beetle">
+				<summary>
+					<b>Name</b>: Beetle, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪲, <b>Decimal Code(s)</b>: (129714), <b>CodePoint(s)</b>: 1FAB2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Beetle</b>' in string format, '🪲' is ready for display.
+				</returns>
+			</property>
+
+			<property name="LadyBeetle">
+				<summary>
+					<b>Name</b>: Lady Beetle, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🐞, <b>Decimal Code(s)</b>: (128030), <b>CodePoint(s)</b>: 1F41E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lady Beetle</b>' in string format, '🐞' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cricket">
+				<summary>
+					<b>Name</b>: Cricket, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🦗, <b>Decimal Code(s)</b>: (129431), <b>CodePoint(s)</b>: 1F997
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cricket</b>' in string format, '🦗' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cockroach">
+				<summary>
+					<b>Name</b>: Cockroach, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪳, <b>Decimal Code(s)</b>: (129715), <b>CodePoint(s)</b>: 1FAB3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cockroach</b>' in string format, '🪳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Spider">
+				<summary>
+					<b>Name</b>: Spider, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🕷️, <b>Decimal Code(s)</b>: (128375, 65039), <b>CodePoint(s)</b>: 1F577 FE0F, <b>Unqualified CodePoint(s)</b>: 1F577
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spider</b>' in string format, '🕷️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SpiderWeb">
+				<summary>
+					<b>Name</b>: Spider Web, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🕸️, <b>Decimal Code(s)</b>: (128376, 65039), <b>CodePoint(s)</b>: 1F578 FE0F, <b>Unqualified CodePoint(s)</b>: 1F578
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spider Web</b>' in string format, '🕸️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Scorpion">
+				<summary>
+					<b>Name</b>: Scorpion, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🦂, <b>Decimal Code(s)</b>: (129410), <b>CodePoint(s)</b>: 1F982
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Scorpion</b>' in string format, '🦂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mosquito">
+				<summary>
+					<b>Name</b>: Mosquito, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦟, <b>Decimal Code(s)</b>: (129439), <b>CodePoint(s)</b>: 1F99F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mosquito</b>' in string format, '🦟' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Fly">
+				<summary>
+					<b>Name</b>: Fly, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪰, <b>Decimal Code(s)</b>: (129712), <b>CodePoint(s)</b>: 1FAB0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fly</b>' in string format, '🪰' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Worm">
+				<summary>
+					<b>Name</b>: Worm, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪱, <b>Decimal Code(s)</b>: (129713), <b>CodePoint(s)</b>: 1FAB1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Worm</b>' in string format, '🪱' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Microbe">
+				<summary>
+					<b>Name</b>: Microbe, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Animal-Bug, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🦠, <b>Decimal Code(s)</b>: (129440), <b>CodePoint(s)</b>: 1F9A0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Microbe</b>' in string format, '🦠' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bouquet">
+				<summary>
+					<b>Name</b>: Bouquet, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 💐, <b>Decimal Code(s)</b>: (128144), <b>CodePoint(s)</b>: 1F490
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bouquet</b>' in string format, '💐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CherryBlossom">
+				<summary>
+					<b>Name</b>: Cherry Blossom, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌸, <b>Decimal Code(s)</b>: (127800), <b>CodePoint(s)</b>: 1F338
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cherry Blossom</b>' in string format, '🌸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WhiteFlower">
+				<summary>
+					<b>Name</b>: White Flower, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 💮, <b>Decimal Code(s)</b>: (128174), <b>CodePoint(s)</b>: 1F4AE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>White Flower</b>' in string format, '💮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lotus">
+				<summary>
+					<b>Name</b>: Lotus, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🪷, <b>Decimal Code(s)</b>: (129719), <b>CodePoint(s)</b>: 1FAB7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lotus</b>' in string format, '🪷' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rosette">
+				<summary>
+					<b>Name</b>: Rosette, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🏵️, <b>Decimal Code(s)</b>: (127989, 65039), <b>CodePoint(s)</b>: 1F3F5 FE0F, <b>Unqualified CodePoint(s)</b>: 1F3F5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rosette</b>' in string format, '🏵️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Rose">
+				<summary>
+					<b>Name</b>: Rose, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌹, <b>Decimal Code(s)</b>: (127801), <b>CodePoint(s)</b>: 1F339
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rose</b>' in string format, '🌹' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WiltedFlower">
+				<summary>
+					<b>Name</b>: Wilted Flower, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥀, <b>Decimal Code(s)</b>: (129344), <b>CodePoint(s)</b>: 1F940
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wilted Flower</b>' in string format, '🥀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hibiscus">
+				<summary>
+					<b>Name</b>: Hibiscus, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌺, <b>Decimal Code(s)</b>: (127802), <b>CodePoint(s)</b>: 1F33A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hibiscus</b>' in string format, '🌺' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sunflower">
+				<summary>
+					<b>Name</b>: Sunflower, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌻, <b>Decimal Code(s)</b>: (127803), <b>CodePoint(s)</b>: 1F33B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sunflower</b>' in string format, '🌻' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Blossom">
+				<summary>
+					<b>Name</b>: Blossom, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌼, <b>Decimal Code(s)</b>: (127804), <b>CodePoint(s)</b>: 1F33C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Blossom</b>' in string format, '🌼' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tulip">
+				<summary>
+					<b>Name</b>: Tulip, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌷, <b>Decimal Code(s)</b>: (127799), <b>CodePoint(s)</b>: 1F337
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tulip</b>' in string format, '🌷' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hyacinth">
+				<summary>
+					<b>Name</b>: Hyacinth, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Flower, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🪻, <b>Decimal Code(s)</b>: (129723), <b>CodePoint(s)</b>: 1FABB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hyacinth</b>' in string format, '🪻' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Seedling">
+				<summary>
+					<b>Name</b>: Seedling, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌱, <b>Decimal Code(s)</b>: (127793), <b>CodePoint(s)</b>: 1F331
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Seedling</b>' in string format, '🌱' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PottedPlant">
+				<summary>
+					<b>Name</b>: Potted Plant, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🪴, <b>Decimal Code(s)</b>: (129716), <b>CodePoint(s)</b>: 1FAB4
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Potted Plant</b>' in string format, '🪴' is ready for display.
+				</returns>
+			</property>
+
+			<property name="EvergreenTree">
+				<summary>
+					<b>Name</b>: Evergreen Tree, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🌲, <b>Decimal Code(s)</b>: (127794), <b>CodePoint(s)</b>: 1F332
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Evergreen Tree</b>' in string format, '🌲' is ready for display.
+				</returns>
+			</property>
+
+			<property name="DeciduousTree">
+				<summary>
+					<b>Name</b>: Deciduous Tree, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🌳, <b>Decimal Code(s)</b>: (127795), <b>CodePoint(s)</b>: 1F333
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Deciduous Tree</b>' in string format, '🌳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PalmTree">
+				<summary>
+					<b>Name</b>: Palm Tree, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌴, <b>Decimal Code(s)</b>: (127796), <b>CodePoint(s)</b>: 1F334
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Palm Tree</b>' in string format, '🌴' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cactus">
+				<summary>
+					<b>Name</b>: Cactus, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌵, <b>Decimal Code(s)</b>: (127797), <b>CodePoint(s)</b>: 1F335
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cactus</b>' in string format, '🌵' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SheafOfRice">
+				<summary>
+					<b>Name</b>: Sheaf Of Rice, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌾, <b>Decimal Code(s)</b>: (127806), <b>CodePoint(s)</b>: 1F33E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sheaf Of Rice</b>' in string format, '🌾' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Herb">
+				<summary>
+					<b>Name</b>: Herb, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌿, <b>Decimal Code(s)</b>: (127807), <b>CodePoint(s)</b>: 1F33F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Herb</b>' in string format, '🌿' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Shamrock">
+				<summary>
+					<b>Name</b>: Shamrock, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: ☘️, <b>Decimal Code(s)</b>: (9752, 65039), <b>CodePoint(s)</b>: 2618 FE0F, <b>Unqualified CodePoint(s)</b>: 2618
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shamrock</b>' in string format, '☘️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FourLeafClover">
+				<summary>
+					<b>Name</b>: Four Leaf Clover, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍀, <b>Decimal Code(s)</b>: (127808), <b>CodePoint(s)</b>: 1F340
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Four Leaf Clover</b>' in string format, '🍀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MapleLeaf">
+				<summary>
+					<b>Name</b>: Maple Leaf, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍁, <b>Decimal Code(s)</b>: (127809), <b>CodePoint(s)</b>: 1F341
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Maple Leaf</b>' in string format, '🍁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FallenLeaf">
+				<summary>
+					<b>Name</b>: Fallen Leaf, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍂, <b>Decimal Code(s)</b>: (127810), <b>CodePoint(s)</b>: 1F342
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fallen Leaf</b>' in string format, '🍂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="LeafFlutteringInWind">
+				<summary>
+					<b>Name</b>: Leaf Fluttering In Wind, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍃, <b>Decimal Code(s)</b>: (127811), <b>CodePoint(s)</b>: 1F343
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Leaf Fluttering In Wind</b>' in string format, '🍃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="EmptyNest">
+				<summary>
+					<b>Name</b>: Empty Nest, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🪹, <b>Decimal Code(s)</b>: (129721), <b>CodePoint(s)</b>: 1FAB9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Empty Nest</b>' in string format, '🪹' is ready for display.
+				</returns>
+			</property>
+
+			<property name="NestWithEggs">
+				<summary>
+					<b>Name</b>: Nest With Eggs, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🪺, <b>Decimal Code(s)</b>: (129722), <b>CodePoint(s)</b>: 1FABA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Nest With Eggs</b>' in string format, '🪺' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mushroom">
+				<summary>
+					<b>Name</b>: Mushroom, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍄, <b>Decimal Code(s)</b>: (127812), <b>CodePoint(s)</b>: 1F344
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mushroom</b>' in string format, '🍄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="LeaflessTree">
+				<summary>
+					<b>Name</b>: Leafless Tree, <b>Group</b>: Animals &amp; Nature, <b>SubGroup</b>: Plant-Other, <b>Version</b>: E16.0<br/>
+					<b>EmojiCharacter</b>: 🪾, <b>Decimal Code(s)</b>: (129726), <b>CodePoint(s)</b>: 1FABE
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Leafless Tree</b>' in string format, '🪾' is ready for display.
+				</returns>
+			</property>
+        </properties>
+    </class>
+</extradoc>

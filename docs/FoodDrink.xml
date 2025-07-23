@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extradoc>
+    <class name="FoodDrink">
+        <summary>
+            File Updated: 07/23/2025 20:24:48:0904 (UTC)<br/>
+            All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively owned by <a href="https://unicode.org">unicode.org</a><br/>
+            Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
+            EmojiFoodDrink, created by chizl.com © 1997-2025 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
+            Group: Food &amp; Drink, (7) Subgroups, (131) Emojis<br/>
+        </summary>
+        <returns></returns>
+        <properties>
+            <property name="Grapes">
+				<summary>
+					<b>Name</b>: Grapes, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍇, <b>Decimal Code(s)</b>: (127815), <b>CodePoint(s)</b>: 1F347
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Grapes</b>' in string format, '🍇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Melon">
+				<summary>
+					<b>Name</b>: Melon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍈, <b>Decimal Code(s)</b>: (127816), <b>CodePoint(s)</b>: 1F348
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Melon</b>' in string format, '🍈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Watermelon">
+				<summary>
+					<b>Name</b>: Watermelon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍉, <b>Decimal Code(s)</b>: (127817), <b>CodePoint(s)</b>: 1F349
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Watermelon</b>' in string format, '🍉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tangerine">
+				<summary>
+					<b>Name</b>: Tangerine, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍊, <b>Decimal Code(s)</b>: (127818), <b>CodePoint(s)</b>: 1F34A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tangerine</b>' in string format, '🍊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lemon">
+				<summary>
+					<b>Name</b>: Lemon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🍋, <b>Decimal Code(s)</b>: (127819), <b>CodePoint(s)</b>: 1F34B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lemon</b>' in string format, '🍋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lime">
+				<summary>
+					<b>Name</b>: Lime, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E15.1<br/>
+					<b>EmojiCharacter</b>: 🍋‍🟩, <b>Decimal Code(s)</b>: (127819, 8205, 129001), <b>CodePoint(s)</b>: 1F34B 200D 1F7E9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lime</b>' in string format, '🍋‍🟩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Banana">
+				<summary>
+					<b>Name</b>: Banana, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍌, <b>Decimal Code(s)</b>: (127820), <b>CodePoint(s)</b>: 1F34C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Banana</b>' in string format, '🍌' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pineapple">
+				<summary>
+					<b>Name</b>: Pineapple, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍍, <b>Decimal Code(s)</b>: (127821), <b>CodePoint(s)</b>: 1F34D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pineapple</b>' in string format, '🍍' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mango">
+				<summary>
+					<b>Name</b>: Mango, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥭, <b>Decimal Code(s)</b>: (129389), <b>CodePoint(s)</b>: 1F96D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mango</b>' in string format, '🥭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RedApple">
+				<summary>
+					<b>Name</b>: Red Apple, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍎, <b>Decimal Code(s)</b>: (127822), <b>CodePoint(s)</b>: 1F34E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Red Apple</b>' in string format, '🍎' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GreenApple">
+				<summary>
+					<b>Name</b>: Green Apple, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍏, <b>Decimal Code(s)</b>: (127823), <b>CodePoint(s)</b>: 1F34F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Green Apple</b>' in string format, '🍏' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pear">
+				<summary>
+					<b>Name</b>: Pear, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🍐, <b>Decimal Code(s)</b>: (127824), <b>CodePoint(s)</b>: 1F350
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pear</b>' in string format, '🍐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Peach">
+				<summary>
+					<b>Name</b>: Peach, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍑, <b>Decimal Code(s)</b>: (127825), <b>CodePoint(s)</b>: 1F351
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Peach</b>' in string format, '🍑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cherries">
+				<summary>
+					<b>Name</b>: Cherries, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍒, <b>Decimal Code(s)</b>: (127826), <b>CodePoint(s)</b>: 1F352
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cherries</b>' in string format, '🍒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Strawberry">
+				<summary>
+					<b>Name</b>: Strawberry, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍓, <b>Decimal Code(s)</b>: (127827), <b>CodePoint(s)</b>: 1F353
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Strawberry</b>' in string format, '🍓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Blueberries">
+				<summary>
+					<b>Name</b>: Blueberries, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫐, <b>Decimal Code(s)</b>: (129744), <b>CodePoint(s)</b>: 1FAD0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Blueberries</b>' in string format, '🫐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="KiwiFruit">
+				<summary>
+					<b>Name</b>: Kiwi Fruit, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥝, <b>Decimal Code(s)</b>: (129373), <b>CodePoint(s)</b>: 1F95D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Kiwi Fruit</b>' in string format, '🥝' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tomato">
+				<summary>
+					<b>Name</b>: Tomato, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍅, <b>Decimal Code(s)</b>: (127813), <b>CodePoint(s)</b>: 1F345
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tomato</b>' in string format, '🍅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Olive">
+				<summary>
+					<b>Name</b>: Olive, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫒, <b>Decimal Code(s)</b>: (129746), <b>CodePoint(s)</b>: 1FAD2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Olive</b>' in string format, '🫒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Coconut">
+				<summary>
+					<b>Name</b>: Coconut, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Fruit, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥥, <b>Decimal Code(s)</b>: (129381), <b>CodePoint(s)</b>: 1F965
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Coconut</b>' in string format, '🥥' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Avocado">
+				<summary>
+					<b>Name</b>: Avocado, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥑, <b>Decimal Code(s)</b>: (129361), <b>CodePoint(s)</b>: 1F951
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Avocado</b>' in string format, '🥑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Eggplant">
+				<summary>
+					<b>Name</b>: Eggplant, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍆, <b>Decimal Code(s)</b>: (127814), <b>CodePoint(s)</b>: 1F346
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Eggplant</b>' in string format, '🍆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Potato">
+				<summary>
+					<b>Name</b>: Potato, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥔, <b>Decimal Code(s)</b>: (129364), <b>CodePoint(s)</b>: 1F954
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Potato</b>' in string format, '🥔' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Carrot">
+				<summary>
+					<b>Name</b>: Carrot, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥕, <b>Decimal Code(s)</b>: (129365), <b>CodePoint(s)</b>: 1F955
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Carrot</b>' in string format, '🥕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="EarOfCorn">
+				<summary>
+					<b>Name</b>: Ear Of Corn, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌽, <b>Decimal Code(s)</b>: (127805), <b>CodePoint(s)</b>: 1F33D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ear Of Corn</b>' in string format, '🌽' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HotPepper">
+				<summary>
+					<b>Name</b>: Hot Pepper, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🌶️, <b>Decimal Code(s)</b>: (127798, 65039), <b>CodePoint(s)</b>: 1F336 FE0F, <b>Unqualified CodePoint(s)</b>: 1F336
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hot Pepper</b>' in string format, '🌶️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BellPepper">
+				<summary>
+					<b>Name</b>: Bell Pepper, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫑, <b>Decimal Code(s)</b>: (129745), <b>CodePoint(s)</b>: 1FAD1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bell Pepper</b>' in string format, '🫑' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cucumber">
+				<summary>
+					<b>Name</b>: Cucumber, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥒, <b>Decimal Code(s)</b>: (129362), <b>CodePoint(s)</b>: 1F952
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cucumber</b>' in string format, '🥒' is ready for display.
+				</returns>
+			</property>
+
+			<property name="LeafyGreen">
+				<summary>
+					<b>Name</b>: Leafy Green, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥬, <b>Decimal Code(s)</b>: (129388), <b>CodePoint(s)</b>: 1F96C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Leafy Green</b>' in string format, '🥬' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Broccoli">
+				<summary>
+					<b>Name</b>: Broccoli, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥦, <b>Decimal Code(s)</b>: (129382), <b>CodePoint(s)</b>: 1F966
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Broccoli</b>' in string format, '🥦' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Garlic">
+				<summary>
+					<b>Name</b>: Garlic, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧄, <b>Decimal Code(s)</b>: (129476), <b>CodePoint(s)</b>: 1F9C4
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Garlic</b>' in string format, '🧄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Onion">
+				<summary>
+					<b>Name</b>: Onion, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧅, <b>Decimal Code(s)</b>: (129477), <b>CodePoint(s)</b>: 1F9C5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Onion</b>' in string format, '🧅' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Peanuts">
+				<summary>
+					<b>Name</b>: Peanuts, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥜, <b>Decimal Code(s)</b>: (129372), <b>CodePoint(s)</b>: 1F95C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Peanuts</b>' in string format, '🥜' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Beans">
+				<summary>
+					<b>Name</b>: Beans, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🫘, <b>Decimal Code(s)</b>: (129752), <b>CodePoint(s)</b>: 1FAD8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Beans</b>' in string format, '🫘' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Chestnut">
+				<summary>
+					<b>Name</b>: Chestnut, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🌰, <b>Decimal Code(s)</b>: (127792), <b>CodePoint(s)</b>: 1F330
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chestnut</b>' in string format, '🌰' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GingerRoot">
+				<summary>
+					<b>Name</b>: Ginger Root, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🫚, <b>Decimal Code(s)</b>: (129754), <b>CodePoint(s)</b>: 1FADA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ginger Root</b>' in string format, '🫚' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PeaPod">
+				<summary>
+					<b>Name</b>: Pea Pod, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E15.0<br/>
+					<b>EmojiCharacter</b>: 🫛, <b>Decimal Code(s)</b>: (129755), <b>CodePoint(s)</b>: 1FADB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pea Pod</b>' in string format, '🫛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BrownMushroom">
+				<summary>
+					<b>Name</b>: Brown Mushroom, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E15.1<br/>
+					<b>EmojiCharacter</b>: 🍄‍🟫, <b>Decimal Code(s)</b>: (127812, 8205, 129003), <b>CodePoint(s)</b>: 1F344 200D 1F7EB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Brown Mushroom</b>' in string format, '🍄‍🟫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RootVegetable">
+				<summary>
+					<b>Name</b>: Root Vegetable, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Vegetable, <b>Version</b>: E16.0<br/>
+					<b>EmojiCharacter</b>: 🫜, <b>Decimal Code(s)</b>: (129756), <b>CodePoint(s)</b>: 1FADC
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Root Vegetable</b>' in string format, '🫜' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bread">
+				<summary>
+					<b>Name</b>: Bread, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍞, <b>Decimal Code(s)</b>: (127838), <b>CodePoint(s)</b>: 1F35E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bread</b>' in string format, '🍞' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Croissant">
+				<summary>
+					<b>Name</b>: Croissant, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥐, <b>Decimal Code(s)</b>: (129360), <b>CodePoint(s)</b>: 1F950
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Croissant</b>' in string format, '🥐' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BaguetteBread">
+				<summary>
+					<b>Name</b>: Baguette Bread, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥖, <b>Decimal Code(s)</b>: (129366), <b>CodePoint(s)</b>: 1F956
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Baguette Bread</b>' in string format, '🥖' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Flatbread">
+				<summary>
+					<b>Name</b>: Flatbread, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫓, <b>Decimal Code(s)</b>: (129747), <b>CodePoint(s)</b>: 1FAD3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Flatbread</b>' in string format, '🫓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pretzel">
+				<summary>
+					<b>Name</b>: Pretzel, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥨, <b>Decimal Code(s)</b>: (129384), <b>CodePoint(s)</b>: 1F968
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pretzel</b>' in string format, '🥨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bagel">
+				<summary>
+					<b>Name</b>: Bagel, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥯, <b>Decimal Code(s)</b>: (129391), <b>CodePoint(s)</b>: 1F96F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bagel</b>' in string format, '🥯' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pancakes">
+				<summary>
+					<b>Name</b>: Pancakes, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥞, <b>Decimal Code(s)</b>: (129374), <b>CodePoint(s)</b>: 1F95E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pancakes</b>' in string format, '🥞' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Waffle">
+				<summary>
+					<b>Name</b>: Waffle, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧇, <b>Decimal Code(s)</b>: (129479), <b>CodePoint(s)</b>: 1F9C7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Waffle</b>' in string format, '🧇' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CheeseWedge">
+				<summary>
+					<b>Name</b>: Cheese Wedge, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🧀, <b>Decimal Code(s)</b>: (129472), <b>CodePoint(s)</b>: 1F9C0
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cheese Wedge</b>' in string format, '🧀' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MeatOnBone">
+				<summary>
+					<b>Name</b>: Meat On Bone, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍖, <b>Decimal Code(s)</b>: (127830), <b>CodePoint(s)</b>: 1F356
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Meat On Bone</b>' in string format, '🍖' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PoultryLeg">
+				<summary>
+					<b>Name</b>: Poultry Leg, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍗, <b>Decimal Code(s)</b>: (127831), <b>CodePoint(s)</b>: 1F357
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Poultry Leg</b>' in string format, '🍗' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CutOfMeat">
+				<summary>
+					<b>Name</b>: Cut Of Meat, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥩, <b>Decimal Code(s)</b>: (129385), <b>CodePoint(s)</b>: 1F969
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cut Of Meat</b>' in string format, '🥩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Bacon">
+				<summary>
+					<b>Name</b>: Bacon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥓, <b>Decimal Code(s)</b>: (129363), <b>CodePoint(s)</b>: 1F953
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bacon</b>' in string format, '🥓' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Hamburger">
+				<summary>
+					<b>Name</b>: Hamburger, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍔, <b>Decimal Code(s)</b>: (127828), <b>CodePoint(s)</b>: 1F354
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hamburger</b>' in string format, '🍔' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FrenchFries">
+				<summary>
+					<b>Name</b>: French Fries, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍟, <b>Decimal Code(s)</b>: (127839), <b>CodePoint(s)</b>: 1F35F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>French Fries</b>' in string format, '🍟' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pizza">
+				<summary>
+					<b>Name</b>: Pizza, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍕, <b>Decimal Code(s)</b>: (127829), <b>CodePoint(s)</b>: 1F355
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pizza</b>' in string format, '🍕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HotDog">
+				<summary>
+					<b>Name</b>: Hot Dog, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🌭, <b>Decimal Code(s)</b>: (127789), <b>CodePoint(s)</b>: 1F32D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hot Dog</b>' in string format, '🌭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sandwich">
+				<summary>
+					<b>Name</b>: Sandwich, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥪, <b>Decimal Code(s)</b>: (129386), <b>CodePoint(s)</b>: 1F96A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sandwich</b>' in string format, '🥪' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Taco">
+				<summary>
+					<b>Name</b>: Taco, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🌮, <b>Decimal Code(s)</b>: (127790), <b>CodePoint(s)</b>: 1F32E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Taco</b>' in string format, '🌮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Burrito">
+				<summary>
+					<b>Name</b>: Burrito, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🌯, <b>Decimal Code(s)</b>: (127791), <b>CodePoint(s)</b>: 1F32F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Burrito</b>' in string format, '🌯' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Tamale">
+				<summary>
+					<b>Name</b>: Tamale, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫔, <b>Decimal Code(s)</b>: (129748), <b>CodePoint(s)</b>: 1FAD4
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tamale</b>' in string format, '🫔' is ready for display.
+				</returns>
+			</property>
+
+			<property name="StuffedFlatbread">
+				<summary>
+					<b>Name</b>: Stuffed Flatbread, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥙, <b>Decimal Code(s)</b>: (129369), <b>CodePoint(s)</b>: 1F959
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Stuffed Flatbread</b>' in string format, '🥙' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Falafel">
+				<summary>
+					<b>Name</b>: Falafel, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧆, <b>Decimal Code(s)</b>: (129478), <b>CodePoint(s)</b>: 1F9C6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Falafel</b>' in string format, '🧆' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Egg">
+				<summary>
+					<b>Name</b>: Egg, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥚, <b>Decimal Code(s)</b>: (129370), <b>CodePoint(s)</b>: 1F95A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Egg</b>' in string format, '🥚' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cooking">
+				<summary>
+					<b>Name</b>: Cooking, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍳, <b>Decimal Code(s)</b>: (127859), <b>CodePoint(s)</b>: 1F373
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cooking</b>' in string format, '🍳' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ShallowPanOfFood">
+				<summary>
+					<b>Name</b>: Shallow Pan Of Food, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥘, <b>Decimal Code(s)</b>: (129368), <b>CodePoint(s)</b>: 1F958
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shallow Pan Of Food</b>' in string format, '🥘' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PotOfFood">
+				<summary>
+					<b>Name</b>: Pot Of Food, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍲, <b>Decimal Code(s)</b>: (127858), <b>CodePoint(s)</b>: 1F372
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pot Of Food</b>' in string format, '🍲' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Fondue">
+				<summary>
+					<b>Name</b>: Fondue, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫕, <b>Decimal Code(s)</b>: (129749), <b>CodePoint(s)</b>: 1FAD5
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fondue</b>' in string format, '🫕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BowlWithSpoon">
+				<summary>
+					<b>Name</b>: Bowl With Spoon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥣, <b>Decimal Code(s)</b>: (129379), <b>CodePoint(s)</b>: 1F963
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bowl With Spoon</b>' in string format, '🥣' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GreenSalad">
+				<summary>
+					<b>Name</b>: Green Salad, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥗, <b>Decimal Code(s)</b>: (129367), <b>CodePoint(s)</b>: 1F957
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Green Salad</b>' in string format, '🥗' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Popcorn">
+				<summary>
+					<b>Name</b>: Popcorn, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🍿, <b>Decimal Code(s)</b>: (127871), <b>CodePoint(s)</b>: 1F37F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Popcorn</b>' in string format, '🍿' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Butter">
+				<summary>
+					<b>Name</b>: Butter, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧈, <b>Decimal Code(s)</b>: (129480), <b>CodePoint(s)</b>: 1F9C8
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Butter</b>' in string format, '🧈' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Salt">
+				<summary>
+					<b>Name</b>: Salt, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧂, <b>Decimal Code(s)</b>: (129474), <b>CodePoint(s)</b>: 1F9C2
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Salt</b>' in string format, '🧂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CannedFood">
+				<summary>
+					<b>Name</b>: Canned Food, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Prepared, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥫, <b>Decimal Code(s)</b>: (129387), <b>CodePoint(s)</b>: 1F96B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Canned Food</b>' in string format, '🥫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BentoBox">
+				<summary>
+					<b>Name</b>: Bento Box, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍱, <b>Decimal Code(s)</b>: (127857), <b>CodePoint(s)</b>: 1F371
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bento Box</b>' in string format, '🍱' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RiceCracker">
+				<summary>
+					<b>Name</b>: Rice Cracker, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍘, <b>Decimal Code(s)</b>: (127832), <b>CodePoint(s)</b>: 1F358
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rice Cracker</b>' in string format, '🍘' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RiceBall">
+				<summary>
+					<b>Name</b>: Rice Ball, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍙, <b>Decimal Code(s)</b>: (127833), <b>CodePoint(s)</b>: 1F359
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Rice Ball</b>' in string format, '🍙' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CookedRice">
+				<summary>
+					<b>Name</b>: Cooked Rice, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍚, <b>Decimal Code(s)</b>: (127834), <b>CodePoint(s)</b>: 1F35A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cooked Rice</b>' in string format, '🍚' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CurryRice">
+				<summary>
+					<b>Name</b>: Curry Rice, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍛, <b>Decimal Code(s)</b>: (127835), <b>CodePoint(s)</b>: 1F35B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Curry Rice</b>' in string format, '🍛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SteamingBowl">
+				<summary>
+					<b>Name</b>: Steaming Bowl, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍜, <b>Decimal Code(s)</b>: (127836), <b>CodePoint(s)</b>: 1F35C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Steaming Bowl</b>' in string format, '🍜' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Spaghetti">
+				<summary>
+					<b>Name</b>: Spaghetti, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍝, <b>Decimal Code(s)</b>: (127837), <b>CodePoint(s)</b>: 1F35D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spaghetti</b>' in string format, '🍝' is ready for display.
+				</returns>
+			</property>
+
+			<property name="RoastedSweetPotato">
+				<summary>
+					<b>Name</b>: Roasted Sweet Potato, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍠, <b>Decimal Code(s)</b>: (127840), <b>CodePoint(s)</b>: 1F360
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Roasted Sweet Potato</b>' in string format, '🍠' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Oden">
+				<summary>
+					<b>Name</b>: Oden, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍢, <b>Decimal Code(s)</b>: (127842), <b>CodePoint(s)</b>: 1F362
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Oden</b>' in string format, '🍢' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sushi">
+				<summary>
+					<b>Name</b>: Sushi, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍣, <b>Decimal Code(s)</b>: (127843), <b>CodePoint(s)</b>: 1F363
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sushi</b>' in string format, '🍣' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FriedShrimp">
+				<summary>
+					<b>Name</b>: Fried Shrimp, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍤, <b>Decimal Code(s)</b>: (127844), <b>CodePoint(s)</b>: 1F364
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fried Shrimp</b>' in string format, '🍤' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FishCakeWithSwirl">
+				<summary>
+					<b>Name</b>: Fish Cake With Swirl, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍥, <b>Decimal Code(s)</b>: (127845), <b>CodePoint(s)</b>: 1F365
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fish Cake With Swirl</b>' in string format, '🍥' is ready for display.
+				</returns>
+			</property>
+
+			<property name="MoonCake">
+				<summary>
+					<b>Name</b>: Moon Cake, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🥮, <b>Decimal Code(s)</b>: (129390), <b>CodePoint(s)</b>: 1F96E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Moon Cake</b>' in string format, '🥮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dango">
+				<summary>
+					<b>Name</b>: Dango, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍡, <b>Decimal Code(s)</b>: (127841), <b>CodePoint(s)</b>: 1F361
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dango</b>' in string format, '🍡' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Dumpling">
+				<summary>
+					<b>Name</b>: Dumpling, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥟, <b>Decimal Code(s)</b>: (129375), <b>CodePoint(s)</b>: 1F95F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Dumpling</b>' in string format, '🥟' is ready for display.
+				</returns>
+			</property>
+
+			<property name="FortuneCookie">
+				<summary>
+					<b>Name</b>: Fortune Cookie, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥠, <b>Decimal Code(s)</b>: (129376), <b>CodePoint(s)</b>: 1F960
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fortune Cookie</b>' in string format, '🥠' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TakeoutBox">
+				<summary>
+					<b>Name</b>: Takeout Box, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Asian, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥡, <b>Decimal Code(s)</b>: (129377), <b>CodePoint(s)</b>: 1F961
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Takeout Box</b>' in string format, '🥡' is ready for display.
+				</returns>
+			</property>
+
+			<property name="SoftIceCream">
+				<summary>
+					<b>Name</b>: Soft Ice Cream, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍦, <b>Decimal Code(s)</b>: (127846), <b>CodePoint(s)</b>: 1F366
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Soft Ice Cream</b>' in string format, '🍦' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ShavedIce">
+				<summary>
+					<b>Name</b>: Shaved Ice, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍧, <b>Decimal Code(s)</b>: (127847), <b>CodePoint(s)</b>: 1F367
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shaved Ice</b>' in string format, '🍧' is ready for display.
+				</returns>
+			</property>
+
+			<property name="IceCream">
+				<summary>
+					<b>Name</b>: Ice Cream, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍨, <b>Decimal Code(s)</b>: (127848), <b>CodePoint(s)</b>: 1F368
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ice Cream</b>' in string format, '🍨' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Doughnut">
+				<summary>
+					<b>Name</b>: Doughnut, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍩, <b>Decimal Code(s)</b>: (127849), <b>CodePoint(s)</b>: 1F369
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Doughnut</b>' in string format, '🍩' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cookie">
+				<summary>
+					<b>Name</b>: Cookie, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍪, <b>Decimal Code(s)</b>: (127850), <b>CodePoint(s)</b>: 1F36A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cookie</b>' in string format, '🍪' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BirthdayCake">
+				<summary>
+					<b>Name</b>: Birthday Cake, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🎂, <b>Decimal Code(s)</b>: (127874), <b>CodePoint(s)</b>: 1F382
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Birthday Cake</b>' in string format, '🎂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Shortcake">
+				<summary>
+					<b>Name</b>: Shortcake, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍰, <b>Decimal Code(s)</b>: (127856), <b>CodePoint(s)</b>: 1F370
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Shortcake</b>' in string format, '🍰' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Cupcake">
+				<summary>
+					<b>Name</b>: Cupcake, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E11.0<br/>
+					<b>EmojiCharacter</b>: 🧁, <b>Decimal Code(s)</b>: (129473), <b>CodePoint(s)</b>: 1F9C1
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cupcake</b>' in string format, '🧁' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Pie">
+				<summary>
+					<b>Name</b>: Pie, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥧, <b>Decimal Code(s)</b>: (129383), <b>CodePoint(s)</b>: 1F967
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pie</b>' in string format, '🥧' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ChocolateBar">
+				<summary>
+					<b>Name</b>: Chocolate Bar, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍫, <b>Decimal Code(s)</b>: (127851), <b>CodePoint(s)</b>: 1F36B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chocolate Bar</b>' in string format, '🍫' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Candy">
+				<summary>
+					<b>Name</b>: Candy, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍬, <b>Decimal Code(s)</b>: (127852), <b>CodePoint(s)</b>: 1F36C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Candy</b>' in string format, '🍬' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Lollipop">
+				<summary>
+					<b>Name</b>: Lollipop, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍭, <b>Decimal Code(s)</b>: (127853), <b>CodePoint(s)</b>: 1F36D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Lollipop</b>' in string format, '🍭' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Custard">
+				<summary>
+					<b>Name</b>: Custard, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍮, <b>Decimal Code(s)</b>: (127854), <b>CodePoint(s)</b>: 1F36E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Custard</b>' in string format, '🍮' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HoneyPot">
+				<summary>
+					<b>Name</b>: Honey Pot, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Food-Sweet, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍯, <b>Decimal Code(s)</b>: (127855), <b>CodePoint(s)</b>: 1F36F
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Honey Pot</b>' in string format, '🍯' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BabyBottle">
+				<summary>
+					<b>Name</b>: Baby Bottle, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🍼, <b>Decimal Code(s)</b>: (127868), <b>CodePoint(s)</b>: 1F37C
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Baby Bottle</b>' in string format, '🍼' is ready for display.
+				</returns>
+			</property>
+
+			<property name="GlassOfMilk">
+				<summary>
+					<b>Name</b>: Glass Of Milk, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥛, <b>Decimal Code(s)</b>: (129371), <b>CodePoint(s)</b>: 1F95B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Glass Of Milk</b>' in string format, '🥛' is ready for display.
+				</returns>
+			</property>
+
+			<property name="HotBeverage">
+				<summary>
+					<b>Name</b>: Hot Beverage, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: ☕, <b>Decimal Code(s)</b>: (9749), <b>CodePoint(s)</b>: 2615
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Hot Beverage</b>' in string format, '☕' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Teapot">
+				<summary>
+					<b>Name</b>: Teapot, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🫖, <b>Decimal Code(s)</b>: (129750), <b>CodePoint(s)</b>: 1FAD6
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Teapot</b>' in string format, '🫖' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TeacupWithoutHandle">
+				<summary>
+					<b>Name</b>: Teacup Without Handle, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍵, <b>Decimal Code(s)</b>: (127861), <b>CodePoint(s)</b>: 1F375
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Teacup Without Handle</b>' in string format, '🍵' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Sake">
+				<summary>
+					<b>Name</b>: Sake, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍶, <b>Decimal Code(s)</b>: (127862), <b>CodePoint(s)</b>: 1F376
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Sake</b>' in string format, '🍶' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BottleWithPoppingCork">
+				<summary>
+					<b>Name</b>: Bottle With Popping Cork, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🍾, <b>Decimal Code(s)</b>: (127870), <b>CodePoint(s)</b>: 1F37E
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bottle With Popping Cork</b>' in string format, '🍾' is ready for display.
+				</returns>
+			</property>
+
+			<property name="WineGlass">
+				<summary>
+					<b>Name</b>: Wine Glass, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍷, <b>Decimal Code(s)</b>: (127863), <b>CodePoint(s)</b>: 1F377
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Wine Glass</b>' in string format, '🍷' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CocktailGlass">
+				<summary>
+					<b>Name</b>: Cocktail Glass, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍸, <b>Decimal Code(s)</b>: (127864), <b>CodePoint(s)</b>: 1F378
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cocktail Glass</b>' in string format, '🍸' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TropicalDrink">
+				<summary>
+					<b>Name</b>: Tropical Drink, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍹, <b>Decimal Code(s)</b>: (127865), <b>CodePoint(s)</b>: 1F379
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tropical Drink</b>' in string format, '🍹' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BeerMug">
+				<summary>
+					<b>Name</b>: Beer Mug, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍺, <b>Decimal Code(s)</b>: (127866), <b>CodePoint(s)</b>: 1F37A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Beer Mug</b>' in string format, '🍺' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ClinkingBeerMugs">
+				<summary>
+					<b>Name</b>: Clinking Beer Mugs, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍻, <b>Decimal Code(s)</b>: (127867), <b>CodePoint(s)</b>: 1F37B
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Clinking Beer Mugs</b>' in string format, '🍻' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ClinkingGlasses">
+				<summary>
+					<b>Name</b>: Clinking Glasses, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥂, <b>Decimal Code(s)</b>: (129346), <b>CodePoint(s)</b>: 1F942
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Clinking Glasses</b>' in string format, '🥂' is ready for display.
+				</returns>
+			</property>
+
+			<property name="TumblerGlass">
+				<summary>
+					<b>Name</b>: Tumbler Glass, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥃, <b>Decimal Code(s)</b>: (129347), <b>CodePoint(s)</b>: 1F943
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Tumbler Glass</b>' in string format, '🥃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="PouringLiquid">
+				<summary>
+					<b>Name</b>: Pouring Liquid, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🫗, <b>Decimal Code(s)</b>: (129751), <b>CodePoint(s)</b>: 1FAD7
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Pouring Liquid</b>' in string format, '🫗' is ready for display.
+				</returns>
+			</property>
+
+			<property name="CupWithStraw">
+				<summary>
+					<b>Name</b>: Cup With Straw, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥤, <b>Decimal Code(s)</b>: (129380), <b>CodePoint(s)</b>: 1F964
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Cup With Straw</b>' in string format, '🥤' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BubbleTea">
+				<summary>
+					<b>Name</b>: Bubble Tea, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E13.0<br/>
+					<b>EmojiCharacter</b>: 🧋, <b>Decimal Code(s)</b>: (129483), <b>CodePoint(s)</b>: 1F9CB
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Bubble Tea</b>' in string format, '🧋' is ready for display.
+				</returns>
+			</property>
+
+			<property name="BeverageBox">
+				<summary>
+					<b>Name</b>: Beverage Box, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧃, <b>Decimal Code(s)</b>: (129475), <b>CodePoint(s)</b>: 1F9C3
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Beverage Box</b>' in string format, '🧃' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Mate">
+				<summary>
+					<b>Name</b>: Mate, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧉, <b>Decimal Code(s)</b>: (129481), <b>CodePoint(s)</b>: 1F9C9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Mate</b>' in string format, '🧉' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Ice">
+				<summary>
+					<b>Name</b>: Ice, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Drink, <b>Version</b>: E12.0<br/>
+					<b>EmojiCharacter</b>: 🧊, <b>Decimal Code(s)</b>: (129482), <b>CodePoint(s)</b>: 1F9CA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Ice</b>' in string format, '🧊' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Chopsticks">
+				<summary>
+					<b>Name</b>: Chopsticks, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E5.0<br/>
+					<b>EmojiCharacter</b>: 🥢, <b>Decimal Code(s)</b>: (129378), <b>CodePoint(s)</b>: 1F962
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Chopsticks</b>' in string format, '🥢' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ForkAndKnifeWithPlate">
+				<summary>
+					<b>Name</b>: Fork And Knife With Plate, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E0.7<br/>
+					<b>EmojiCharacter</b>: 🍽️, <b>Decimal Code(s)</b>: (127869, 65039), <b>CodePoint(s)</b>: 1F37D FE0F, <b>Unqualified CodePoint(s)</b>: 1F37D
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fork And Knife With Plate</b>' in string format, '🍽️' is ready for display.
+				</returns>
+			</property>
+
+			<property name="ForkAndKnife">
+				<summary>
+					<b>Name</b>: Fork And Knife, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🍴, <b>Decimal Code(s)</b>: (127860), <b>CodePoint(s)</b>: 1F374
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Fork And Knife</b>' in string format, '🍴' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Spoon">
+				<summary>
+					<b>Name</b>: Spoon, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E3.0<br/>
+					<b>EmojiCharacter</b>: 🥄, <b>Decimal Code(s)</b>: (129348), <b>CodePoint(s)</b>: 1F944
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Spoon</b>' in string format, '🥄' is ready for display.
+				</returns>
+			</property>
+
+			<property name="KitchenKnife">
+				<summary>
+					<b>Name</b>: Kitchen Knife, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E0.6<br/>
+					<b>EmojiCharacter</b>: 🔪, <b>Decimal Code(s)</b>: (128298), <b>CodePoint(s)</b>: 1F52A
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Kitchen Knife</b>' in string format, '🔪' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Jar">
+				<summary>
+					<b>Name</b>: Jar, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E14.0<br/>
+					<b>EmojiCharacter</b>: 🫙, <b>Decimal Code(s)</b>: (129753), <b>CodePoint(s)</b>: 1FAD9
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Jar</b>' in string format, '🫙' is ready for display.
+				</returns>
+			</property>
+
+			<property name="Amphora">
+				<summary>
+					<b>Name</b>: Amphora, <b>Group</b>: Food &amp; Drink, <b>SubGroup</b>: Dishware, <b>Version</b>: E1.0<br/>
+					<b>EmojiCharacter</b>: 🏺, <b>Decimal Code(s)</b>: (127994), <b>CodePoint(s)</b>: 1F3FA
+				</summary>
+				<returns>
+					Returns the unicode emoji symbol for '<b>Amphora</b>' in string format, '🏺' is ready for display.
+				</returns>
+			</property>
+        </properties>
+    </class>
+</extradoc>
