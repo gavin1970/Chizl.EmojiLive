@@ -74,7 +74,7 @@ namespace Chizl.EmojiLive
 
 
     /// <summary>
-    /// Emoji object provides Name, Group, Subgroup, Code, Qualified and Unqualified unicode character to be used within a console or form.
+    /// Emoji object provides Name, Group, Subgroup, Code, Unicode version, Qualified and Unqualified unicode character to be used within a console or form.
     /// </summary>
     public sealed class Emoji
     {
@@ -97,6 +97,7 @@ namespace Chizl.EmojiLive
 
         private ByteFlag[] _byteFlags = { ByteFlag.None };
 
+        private Emoji() { IsEmpty = true; }
         // Default constructor overloads (keep existing)
         public Emoji(string group, string subGroup, string name, string fullName, string version, string codePoints, string unQualifiedcodePoints)
            : this(group, subGroup, name, fullName, version, true, codePoints, unQualifiedcodePoints) { }
@@ -119,6 +120,43 @@ namespace Chizl.EmojiLive
         }
 
         #region Public Properties (including the new Image property)
+        /// <summary>
+        /// Creates Empty Class object with only the IsEmpty property set to true. All other values are ignored.<br/>
+        /// Easier to valid with _emoji.IsEmpty property than _emoji==null
+        /// <code>
+        /// var _emoji = Emoji.Empty;
+        /// ...
+        /// LoadEmoji(EmojiActivities.FlowerPlayingCards)
+        /// ...
+        /// private void LoadEmoji(Emoji emoji)
+        /// {
+        ///     if (emoji.IsEmpty)
+        ///         return;
+        /// 
+        ///     _emoji = emoji;
+        ///     _fileName = $"./{_emoji.Name}.png";
+        /// }
+        /// </code>
+        /// </summary>
+        public static Emoji Empty { get { return new Emoji(); } }
+        /// <summary>
+        /// True if Emoji was created using the static property Emoji.Empty.  False if true values exists.<br/>
+        /// <code>
+        /// var _emoji = Emoji.Empty;
+        /// ...
+        /// LoadEmoji(EmojiActivities.FlowerPlayingCards)
+        /// ...
+        /// private void LoadEmoji(Emoji emoji)
+        /// {
+        ///     if (emoji.IsEmpty)
+        ///         return;
+        /// 
+        ///     _emoji = emoji;
+        ///     _fileName = $"./{_emoji.Name}.png";
+        /// }
+        /// </code>
+        /// </summary>
+        public bool IsEmpty { get; }
         /// <summary>
         /// Emoji group name, set by unicode.org
         /// </summary>
