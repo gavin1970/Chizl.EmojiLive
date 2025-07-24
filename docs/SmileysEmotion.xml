@@ -1,1704 +1,1536 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <extradoc>
-		<class name="SmileysEmotion">
-				<summary>
-						File Updated: 07/23/2025 22:17:10:0815 (UTC)<br/>
-						All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively owned by <a href="https://unicode.org">unicode.org</a><br/>
-						Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
-						EmojiSmileysEmotion, created by chizl.com © 1997-2025 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
-						Group: Smileys &amp; Emotion, (16) Subgroups, (169) Emojis<br/>
-				</summary>
-				<returns></returns>
-				<properties>
-						<property name="GrinningFace">
-								<summary>
-										<b>Name</b>: Grinning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😀, <b>Decimal Code(s)</b>: (128512), <b>CodePoint(s)</b>: 1F600
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Face</b>' in string format, '😀' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningFaceWithBigEyes">
-								<summary>
-										<b>Name</b>: Grinning Face With Big Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😃, <b>Decimal Code(s)</b>: (128515), <b>CodePoint(s)</b>: 1F603
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Face With Big Eyes</b>' in string format, '😃' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningFaceWithSmilingEyes">
-								<summary>
-										<b>Name</b>: Grinning Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😄, <b>Decimal Code(s)</b>: (128516), <b>CodePoint(s)</b>: 1F604
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Face With Smiling Eyes</b>' in string format, '😄' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BeamingFaceWithSmilingEyes">
-								<summary>
-										<b>Name</b>: Beaming Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😁, <b>Decimal Code(s)</b>: (128513), <b>CodePoint(s)</b>: 1F601
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Beaming Face With Smiling Eyes</b>' in string format, '😁' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningSquintingFace">
-								<summary>
-										<b>Name</b>: Grinning Squinting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😆, <b>Decimal Code(s)</b>: (128518), <b>CodePoint(s)</b>: 1F606
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Squinting Face</b>' in string format, '😆' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningFaceWithSweat">
-								<summary>
-										<b>Name</b>: Grinning Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😅, <b>Decimal Code(s)</b>: (128517), <b>CodePoint(s)</b>: 1F605
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Face With Sweat</b>' in string format, '😅' is ready for display.
-								</returns>
-						</property>
-
-						<property name="RollingOnTheFloorLaughing">
-								<summary>
-										<b>Name</b>: Rolling On The Floor Laughing, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤣, <b>Decimal Code(s)</b>: (129315), <b>CodePoint(s)</b>: 1F923
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Rolling On The Floor Laughing</b>' in string format, '🤣' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithTearsOfJoy">
-								<summary>
-										<b>Name</b>: Face With Tears Of Joy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😂, <b>Decimal Code(s)</b>: (128514), <b>CodePoint(s)</b>: 1F602
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Tears Of Joy</b>' in string format, '😂' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SlightlySmilingFace">
-								<summary>
-										<b>Name</b>: Slightly Smiling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🙂, <b>Decimal Code(s)</b>: (128578), <b>CodePoint(s)</b>: 1F642
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Slightly Smiling Face</b>' in string format, '🙂' is ready for display.
-								</returns>
-						</property>
-
-						<property name="UpsideDownFace">
-								<summary>
-										<b>Name</b>: Upside-Down Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🙃, <b>Decimal Code(s)</b>: (128579), <b>CodePoint(s)</b>: 1F643
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Upside-Down Face</b>' in string format, '🙃' is ready for display.
-								</returns>
-						</property>
-
-						<property name="MeltingFace">
-								<summary>
-										<b>Name</b>: Melting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫠, <b>Decimal Code(s)</b>: (129760), <b>CodePoint(s)</b>: 1FAE0
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Melting Face</b>' in string format, '🫠' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WinkingFace">
-								<summary>
-										<b>Name</b>: Winking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😉, <b>Decimal Code(s)</b>: (128521), <b>CodePoint(s)</b>: 1F609
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Winking Face</b>' in string format, '😉' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithSmilingEyes">
-								<summary>
-										<b>Name</b>: Smiling Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😊, <b>Decimal Code(s)</b>: (128522), <b>CodePoint(s)</b>: 1F60A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Smiling Eyes</b>' in string format, '😊' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithHalo">
-								<summary>
-										<b>Name</b>: Smiling Face With Halo, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😇, <b>Decimal Code(s)</b>: (128519), <b>CodePoint(s)</b>: 1F607
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Halo</b>' in string format, '😇' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithHearts">
-								<summary>
-										<b>Name</b>: Smiling Face With Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥰, <b>Decimal Code(s)</b>: (129392), <b>CodePoint(s)</b>: 1F970
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Hearts</b>' in string format, '🥰' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithHeartEyes">
-								<summary>
-										<b>Name</b>: Smiling Face With Heart-Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😍, <b>Decimal Code(s)</b>: (128525), <b>CodePoint(s)</b>: 1F60D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Heart-Eyes</b>' in string format, '😍' is ready for display.
-								</returns>
-						</property>
-
-						<property name="StarStruck">
-								<summary>
-										<b>Name</b>: Star-Struck, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤩, <b>Decimal Code(s)</b>: (129321), <b>CodePoint(s)</b>: 1F929
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Star-Struck</b>' in string format, '🤩' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceBlowingAKiss">
-								<summary>
-										<b>Name</b>: Face Blowing A Kiss, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😘, <b>Decimal Code(s)</b>: (128536), <b>CodePoint(s)</b>: 1F618
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Blowing A Kiss</b>' in string format, '😘' is ready for display.
-								</returns>
-						</property>
-
-						<property name="KissingFace">
-								<summary>
-										<b>Name</b>: Kissing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😗, <b>Decimal Code(s)</b>: (128535), <b>CodePoint(s)</b>: 1F617
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Kissing Face</b>' in string format, '😗' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFace">
-								<summary>
-										<b>Name</b>: Smiling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: ☺️, <b>Decimal Code(s)</b>: (9786, 65039), <b>CodePoint(s)</b>: 263A FE0F, <b>Unqualified CodePoint(s)</b>: 263A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face</b>' in string format, '☺️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="KissingFaceWithClosedEyes">
-								<summary>
-										<b>Name</b>: Kissing Face With Closed Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😚, <b>Decimal Code(s)</b>: (128538), <b>CodePoint(s)</b>: 1F61A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Kissing Face With Closed Eyes</b>' in string format, '😚' is ready for display.
-								</returns>
-						</property>
-
-						<property name="KissingFaceWithSmilingEyes">
-								<summary>
-										<b>Name</b>: Kissing Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😙, <b>Decimal Code(s)</b>: (128537), <b>CodePoint(s)</b>: 1F619
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Kissing Face With Smiling Eyes</b>' in string format, '😙' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithTear">
-								<summary>
-										<b>Name</b>: Smiling Face With Tear, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E13.0<br/>
-										<b>EmojiCharacter</b>: 🥲, <b>Decimal Code(s)</b>: (129394), <b>CodePoint(s)</b>: 1F972
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Tear</b>' in string format, '🥲' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceSavoringFood">
-								<summary>
-										<b>Name</b>: Face Savoring Food, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😋, <b>Decimal Code(s)</b>: (128523), <b>CodePoint(s)</b>: 1F60B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Savoring Food</b>' in string format, '😋' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithTongue">
-								<summary>
-										<b>Name</b>: Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😛, <b>Decimal Code(s)</b>: (128539), <b>CodePoint(s)</b>: 1F61B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Tongue</b>' in string format, '😛' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WinkingFaceWithTongue">
-								<summary>
-										<b>Name</b>: Winking Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😜, <b>Decimal Code(s)</b>: (128540), <b>CodePoint(s)</b>: 1F61C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Winking Face With Tongue</b>' in string format, '😜' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ZanyFace">
-								<summary>
-										<b>Name</b>: Zany Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤪, <b>Decimal Code(s)</b>: (129322), <b>CodePoint(s)</b>: 1F92A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Zany Face</b>' in string format, '🤪' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SquintingFaceWithTongue">
-								<summary>
-										<b>Name</b>: Squinting Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😝, <b>Decimal Code(s)</b>: (128541), <b>CodePoint(s)</b>: 1F61D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Squinting Face With Tongue</b>' in string format, '😝' is ready for display.
-								</returns>
-						</property>
-
-						<property name="MoneyMouthFace">
-								<summary>
-										<b>Name</b>: Money-Mouth Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤑, <b>Decimal Code(s)</b>: (129297), <b>CodePoint(s)</b>: 1F911
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Money-Mouth Face</b>' in string format, '🤑' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithOpenHands">
-								<summary>
-										<b>Name</b>: Smiling Face With Open Hands, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤗, <b>Decimal Code(s)</b>: (129303), <b>CodePoint(s)</b>: 1F917
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Open Hands</b>' in string format, '🤗' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithHandOverMouth">
-								<summary>
-										<b>Name</b>: Face With Hand Over Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤭, <b>Decimal Code(s)</b>: (129325), <b>CodePoint(s)</b>: 1F92D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Hand Over Mouth</b>' in string format, '🤭' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithOpenEyesAndHandOverMouth">
-								<summary>
-										<b>Name</b>: Face With Open Eyes And Hand Over Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫢, <b>Decimal Code(s)</b>: (129762), <b>CodePoint(s)</b>: 1FAE2
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Open Eyes And Hand Over Mouth</b>' in string format, '🫢' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithPeekingEye">
-								<summary>
-										<b>Name</b>: Face With Peeking Eye, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫣, <b>Decimal Code(s)</b>: (129763), <b>CodePoint(s)</b>: 1FAE3
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Peeking Eye</b>' in string format, '🫣' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ShushingFace">
-								<summary>
-										<b>Name</b>: Shushing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤫, <b>Decimal Code(s)</b>: (129323), <b>CodePoint(s)</b>: 1F92B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Shushing Face</b>' in string format, '🤫' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ThinkingFace">
-								<summary>
-										<b>Name</b>: Thinking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤔, <b>Decimal Code(s)</b>: (129300), <b>CodePoint(s)</b>: 1F914
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Thinking Face</b>' in string format, '🤔' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SalutingFace">
-								<summary>
-										<b>Name</b>: Saluting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫡, <b>Decimal Code(s)</b>: (129761), <b>CodePoint(s)</b>: 1FAE1
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Saluting Face</b>' in string format, '🫡' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ZipperMouthFace">
-								<summary>
-										<b>Name</b>: Zipper-Mouth Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤐, <b>Decimal Code(s)</b>: (129296), <b>CodePoint(s)</b>: 1F910
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Zipper-Mouth Face</b>' in string format, '🤐' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithRaisedEyebrow">
-								<summary>
-										<b>Name</b>: Face With Raised Eyebrow, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤨, <b>Decimal Code(s)</b>: (129320), <b>CodePoint(s)</b>: 1F928
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Raised Eyebrow</b>' in string format, '🤨' is ready for display.
-								</returns>
-						</property>
-
-						<property name="NeutralFace">
-								<summary>
-										<b>Name</b>: Neutral Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.7<br/>
-										<b>EmojiCharacter</b>: 😐, <b>Decimal Code(s)</b>: (128528), <b>CodePoint(s)</b>: 1F610
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Neutral Face</b>' in string format, '😐' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ExpressionlessFace">
-								<summary>
-										<b>Name</b>: Expressionless Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😑, <b>Decimal Code(s)</b>: (128529), <b>CodePoint(s)</b>: 1F611
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Expressionless Face</b>' in string format, '😑' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithoutMouth">
-								<summary>
-										<b>Name</b>: Face Without Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😶, <b>Decimal Code(s)</b>: (128566), <b>CodePoint(s)</b>: 1F636
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Without Mouth</b>' in string format, '😶' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DottedLineFace">
-								<summary>
-										<b>Name</b>: Dotted Line Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫥, <b>Decimal Code(s)</b>: (129765), <b>CodePoint(s)</b>: 1FAE5
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Dotted Line Face</b>' in string format, '🫥' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceInClouds">
-								<summary>
-										<b>Name</b>: Face In Clouds, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E13.1<br/>
-										<b>EmojiCharacter</b>: 😶‍🌫️, <b>Decimal Code(s)</b>: (128566, 8205, 127787, 65039), <b>CodePoint(s)</b>: 1F636 200D 1F32B FE0F, <b>Unqualified CodePoint(s)</b>: 1F636 200D 1F32B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face In Clouds</b>' in string format, '😶‍🌫️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmirkingFace">
-								<summary>
-										<b>Name</b>: Smirking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😏, <b>Decimal Code(s)</b>: (128527), <b>CodePoint(s)</b>: 1F60F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smirking Face</b>' in string format, '😏' is ready for display.
-								</returns>
-						</property>
-
-						<property name="UnamusedFace">
-								<summary>
-										<b>Name</b>: Unamused Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😒, <b>Decimal Code(s)</b>: (128530), <b>CodePoint(s)</b>: 1F612
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Unamused Face</b>' in string format, '😒' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithRollingEyes">
-								<summary>
-										<b>Name</b>: Face With Rolling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🙄, <b>Decimal Code(s)</b>: (128580), <b>CodePoint(s)</b>: 1F644
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Rolling Eyes</b>' in string format, '🙄' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrimacingFace">
-								<summary>
-										<b>Name</b>: Grimacing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😬, <b>Decimal Code(s)</b>: (128556), <b>CodePoint(s)</b>: 1F62C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grimacing Face</b>' in string format, '😬' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceExhaling">
-								<summary>
-										<b>Name</b>: Face Exhaling, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E13.1<br/>
-										<b>EmojiCharacter</b>: 😮‍💨, <b>Decimal Code(s)</b>: (128558, 8205, 128168), <b>CodePoint(s)</b>: 1F62E 200D 1F4A8
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Exhaling</b>' in string format, '😮‍💨' is ready for display.
-								</returns>
-						</property>
-
-						<property name="LyingFace">
-								<summary>
-										<b>Name</b>: Lying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤥, <b>Decimal Code(s)</b>: (129317), <b>CodePoint(s)</b>: 1F925
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Lying Face</b>' in string format, '🤥' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ShakingFace">
-								<summary>
-										<b>Name</b>: Shaking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.0<br/>
-										<b>EmojiCharacter</b>: 🫨, <b>Decimal Code(s)</b>: (129768), <b>CodePoint(s)</b>: 1FAE8
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Shaking Face</b>' in string format, '🫨' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeadShakingHorizontally">
-								<summary>
-										<b>Name</b>: Head Shaking Horizontally, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.1<br/>
-										<b>EmojiCharacter</b>: 🙂‍↔️, <b>Decimal Code(s)</b>: (128578, 8205, 8596, 65039), <b>CodePoint(s)</b>: 1F642 200D 2194 FE0F, <b>Unqualified CodePoint(s)</b>: 1F642 200D 2194
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Head Shaking Horizontally</b>' in string format, '🙂‍↔️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeadShakingVertically">
-								<summary>
-										<b>Name</b>: Head Shaking Vertically, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.1<br/>
-										<b>EmojiCharacter</b>: 🙂‍↕️, <b>Decimal Code(s)</b>: (128578, 8205, 8597, 65039), <b>CodePoint(s)</b>: 1F642 200D 2195 FE0F, <b>Unqualified CodePoint(s)</b>: 1F642 200D 2195
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Head Shaking Vertically</b>' in string format, '🙂‍↕️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="RelievedFace">
-								<summary>
-										<b>Name</b>: Relieved Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😌, <b>Decimal Code(s)</b>: (128524), <b>CodePoint(s)</b>: 1F60C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Relieved Face</b>' in string format, '😌' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PensiveFace">
-								<summary>
-										<b>Name</b>: Pensive Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😔, <b>Decimal Code(s)</b>: (128532), <b>CodePoint(s)</b>: 1F614
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Pensive Face</b>' in string format, '😔' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SleepyFace">
-								<summary>
-										<b>Name</b>: Sleepy Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😪, <b>Decimal Code(s)</b>: (128554), <b>CodePoint(s)</b>: 1F62A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sleepy Face</b>' in string format, '😪' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DroolingFace">
-								<summary>
-										<b>Name</b>: Drooling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤤, <b>Decimal Code(s)</b>: (129316), <b>CodePoint(s)</b>: 1F924
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Drooling Face</b>' in string format, '🤤' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SleepingFace">
-								<summary>
-										<b>Name</b>: Sleeping Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😴, <b>Decimal Code(s)</b>: (128564), <b>CodePoint(s)</b>: 1F634
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sleeping Face</b>' in string format, '😴' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithBagsUnderEyes">
-								<summary>
-										<b>Name</b>: Face With Bags Under Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E16.0<br/>
-										<b>EmojiCharacter</b>: 🫩, <b>Decimal Code(s)</b>: (129769), <b>CodePoint(s)</b>: 1FAE9
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Bags Under Eyes</b>' in string format, '🫩' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithMedicalMask">
-								<summary>
-										<b>Name</b>: Face With Medical Mask, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😷, <b>Decimal Code(s)</b>: (128567), <b>CodePoint(s)</b>: 1F637
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Medical Mask</b>' in string format, '😷' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithThermometer">
-								<summary>
-										<b>Name</b>: Face With Thermometer, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤒, <b>Decimal Code(s)</b>: (129298), <b>CodePoint(s)</b>: 1F912
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Thermometer</b>' in string format, '🤒' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithHeadBandage">
-								<summary>
-										<b>Name</b>: Face With Head-Bandage, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤕, <b>Decimal Code(s)</b>: (129301), <b>CodePoint(s)</b>: 1F915
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Head-Bandage</b>' in string format, '🤕' is ready for display.
-								</returns>
-						</property>
-
-						<property name="NauseatedFace">
-								<summary>
-										<b>Name</b>: Nauseated Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤢, <b>Decimal Code(s)</b>: (129314), <b>CodePoint(s)</b>: 1F922
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Nauseated Face</b>' in string format, '🤢' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceVomiting">
-								<summary>
-										<b>Name</b>: Face Vomiting, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤮, <b>Decimal Code(s)</b>: (129326), <b>CodePoint(s)</b>: 1F92E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Vomiting</b>' in string format, '🤮' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SneezingFace">
-								<summary>
-										<b>Name</b>: Sneezing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤧, <b>Decimal Code(s)</b>: (129319), <b>CodePoint(s)</b>: 1F927
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sneezing Face</b>' in string format, '🤧' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HotFace">
-								<summary>
-										<b>Name</b>: Hot Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥵, <b>Decimal Code(s)</b>: (129397), <b>CodePoint(s)</b>: 1F975
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Hot Face</b>' in string format, '🥵' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ColdFace">
-								<summary>
-										<b>Name</b>: Cold Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥶, <b>Decimal Code(s)</b>: (129398), <b>CodePoint(s)</b>: 1F976
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Cold Face</b>' in string format, '🥶' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WoozyFace">
-								<summary>
-										<b>Name</b>: Woozy Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥴, <b>Decimal Code(s)</b>: (129396), <b>CodePoint(s)</b>: 1F974
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Woozy Face</b>' in string format, '🥴' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithCrossedOutEyes">
-								<summary>
-										<b>Name</b>: Face With Crossed-Out Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😵, <b>Decimal Code(s)</b>: (128565), <b>CodePoint(s)</b>: 1F635
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Crossed-Out Eyes</b>' in string format, '😵' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithSpiralEyes">
-								<summary>
-										<b>Name</b>: Face With Spiral Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E13.1<br/>
-										<b>EmojiCharacter</b>: 😵‍💫, <b>Decimal Code(s)</b>: (128565, 8205, 128171), <b>CodePoint(s)</b>: 1F635 200D 1F4AB
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Spiral Eyes</b>' in string format, '😵‍💫' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ExplodingHead">
-								<summary>
-										<b>Name</b>: Exploding Head, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤯, <b>Decimal Code(s)</b>: (129327), <b>CodePoint(s)</b>: 1F92F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Exploding Head</b>' in string format, '🤯' is ready for display.
-								</returns>
-						</property>
-
-						<property name="CowboyHatFace">
-								<summary>
-										<b>Name</b>: Cowboy Hat Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤠, <b>Decimal Code(s)</b>: (129312), <b>CodePoint(s)</b>: 1F920
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Cowboy Hat Face</b>' in string format, '🤠' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PartyingFace">
-								<summary>
-										<b>Name</b>: Partying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥳, <b>Decimal Code(s)</b>: (129395), <b>CodePoint(s)</b>: 1F973
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Partying Face</b>' in string format, '🥳' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DisguisedFace">
-								<summary>
-										<b>Name</b>: Disguised Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E13.0<br/>
-										<b>EmojiCharacter</b>: 🥸, <b>Decimal Code(s)</b>: (129400), <b>CodePoint(s)</b>: 1F978
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Disguised Face</b>' in string format, '🥸' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithSunglasses">
-								<summary>
-										<b>Name</b>: Smiling Face With Sunglasses, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😎, <b>Decimal Code(s)</b>: (128526), <b>CodePoint(s)</b>: 1F60E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Sunglasses</b>' in string format, '😎' is ready for display.
-								</returns>
-						</property>
-
-						<property name="NerdFace">
-								<summary>
-										<b>Name</b>: Nerd Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤓, <b>Decimal Code(s)</b>: (129299), <b>CodePoint(s)</b>: 1F913
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Nerd Face</b>' in string format, '🤓' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithMonocle">
-								<summary>
-										<b>Name</b>: Face With Monocle, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🧐, <b>Decimal Code(s)</b>: (129488), <b>CodePoint(s)</b>: 1F9D0
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Monocle</b>' in string format, '🧐' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ConfusedFace">
-								<summary>
-										<b>Name</b>: Confused Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😕, <b>Decimal Code(s)</b>: (128533), <b>CodePoint(s)</b>: 1F615
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Confused Face</b>' in string format, '😕' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithDiagonalMouth">
-								<summary>
-										<b>Name</b>: Face With Diagonal Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🫤, <b>Decimal Code(s)</b>: (129764), <b>CodePoint(s)</b>: 1FAE4
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Diagonal Mouth</b>' in string format, '🫤' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WorriedFace">
-								<summary>
-										<b>Name</b>: Worried Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😟, <b>Decimal Code(s)</b>: (128543), <b>CodePoint(s)</b>: 1F61F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Worried Face</b>' in string format, '😟' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SlightlyFrowningFace">
-								<summary>
-										<b>Name</b>: Slightly Frowning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🙁, <b>Decimal Code(s)</b>: (128577), <b>CodePoint(s)</b>: 1F641
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Slightly Frowning Face</b>' in string format, '🙁' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FrowningFace">
-								<summary>
-										<b>Name</b>: Frowning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.7<br/>
-										<b>EmojiCharacter</b>: ☹️, <b>Decimal Code(s)</b>: (9785, 65039), <b>CodePoint(s)</b>: 2639 FE0F, <b>Unqualified CodePoint(s)</b>: 2639
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Frowning Face</b>' in string format, '☹️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithOpenMouth">
-								<summary>
-										<b>Name</b>: Face With Open Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😮, <b>Decimal Code(s)</b>: (128558), <b>CodePoint(s)</b>: 1F62E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Open Mouth</b>' in string format, '😮' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HushedFace">
-								<summary>
-										<b>Name</b>: Hushed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😯, <b>Decimal Code(s)</b>: (128559), <b>CodePoint(s)</b>: 1F62F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Hushed Face</b>' in string format, '😯' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AstonishedFace">
-								<summary>
-										<b>Name</b>: Astonished Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😲, <b>Decimal Code(s)</b>: (128562), <b>CodePoint(s)</b>: 1F632
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Astonished Face</b>' in string format, '😲' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FlushedFace">
-								<summary>
-										<b>Name</b>: Flushed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😳, <b>Decimal Code(s)</b>: (128563), <b>CodePoint(s)</b>: 1F633
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Flushed Face</b>' in string format, '😳' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PleadingFace">
-								<summary>
-										<b>Name</b>: Pleading Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E11.0<br/>
-										<b>EmojiCharacter</b>: 🥺, <b>Decimal Code(s)</b>: (129402), <b>CodePoint(s)</b>: 1F97A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Pleading Face</b>' in string format, '🥺' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceHoldingBackTears">
-								<summary>
-										<b>Name</b>: Face Holding Back Tears, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E14.0<br/>
-										<b>EmojiCharacter</b>: 🥹, <b>Decimal Code(s)</b>: (129401), <b>CodePoint(s)</b>: 1F979
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Holding Back Tears</b>' in string format, '🥹' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FrowningFaceWithOpenMouth">
-								<summary>
-										<b>Name</b>: Frowning Face With Open Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😦, <b>Decimal Code(s)</b>: (128550), <b>CodePoint(s)</b>: 1F626
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Frowning Face With Open Mouth</b>' in string format, '😦' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AnguishedFace">
-								<summary>
-										<b>Name</b>: Anguished Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😧, <b>Decimal Code(s)</b>: (128551), <b>CodePoint(s)</b>: 1F627
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Anguished Face</b>' in string format, '😧' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FearfulFace">
-								<summary>
-										<b>Name</b>: Fearful Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😨, <b>Decimal Code(s)</b>: (128552), <b>CodePoint(s)</b>: 1F628
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Fearful Face</b>' in string format, '😨' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AnxiousFaceWithSweat">
-								<summary>
-										<b>Name</b>: Anxious Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😰, <b>Decimal Code(s)</b>: (128560), <b>CodePoint(s)</b>: 1F630
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Anxious Face With Sweat</b>' in string format, '😰' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SadButRelievedFace">
-								<summary>
-										<b>Name</b>: Sad But Relieved Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😥, <b>Decimal Code(s)</b>: (128549), <b>CodePoint(s)</b>: 1F625
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sad But Relieved Face</b>' in string format, '😥' is ready for display.
-								</returns>
-						</property>
-
-						<property name="CryingFace">
-								<summary>
-										<b>Name</b>: Crying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😢, <b>Decimal Code(s)</b>: (128546), <b>CodePoint(s)</b>: 1F622
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Crying Face</b>' in string format, '😢' is ready for display.
-								</returns>
-						</property>
-
-						<property name="LoudlyCryingFace">
-								<summary>
-										<b>Name</b>: Loudly Crying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😭, <b>Decimal Code(s)</b>: (128557), <b>CodePoint(s)</b>: 1F62D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Loudly Crying Face</b>' in string format, '😭' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceScreamingInFear">
-								<summary>
-										<b>Name</b>: Face Screaming In Fear, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😱, <b>Decimal Code(s)</b>: (128561), <b>CodePoint(s)</b>: 1F631
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face Screaming In Fear</b>' in string format, '😱' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ConfoundedFace">
-								<summary>
-										<b>Name</b>: Confounded Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😖, <b>Decimal Code(s)</b>: (128534), <b>CodePoint(s)</b>: 1F616
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Confounded Face</b>' in string format, '😖' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PerseveringFace">
-								<summary>
-										<b>Name</b>: Persevering Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😣, <b>Decimal Code(s)</b>: (128547), <b>CodePoint(s)</b>: 1F623
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Persevering Face</b>' in string format, '😣' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DisappointedFace">
-								<summary>
-										<b>Name</b>: Disappointed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😞, <b>Decimal Code(s)</b>: (128542), <b>CodePoint(s)</b>: 1F61E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Disappointed Face</b>' in string format, '😞' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DowncastFaceWithSweat">
-								<summary>
-										<b>Name</b>: Downcast Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😓, <b>Decimal Code(s)</b>: (128531), <b>CodePoint(s)</b>: 1F613
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Downcast Face With Sweat</b>' in string format, '😓' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WearyFace">
-								<summary>
-										<b>Name</b>: Weary Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😩, <b>Decimal Code(s)</b>: (128553), <b>CodePoint(s)</b>: 1F629
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Weary Face</b>' in string format, '😩' is ready for display.
-								</returns>
-						</property>
-
-						<property name="TiredFace">
-								<summary>
-										<b>Name</b>: Tired Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😫, <b>Decimal Code(s)</b>: (128555), <b>CodePoint(s)</b>: 1F62B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Tired Face</b>' in string format, '😫' is ready for display.
-								</returns>
-						</property>
-
-						<property name="YawningFace">
-								<summary>
-										<b>Name</b>: Yawning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E12.0<br/>
-										<b>EmojiCharacter</b>: 🥱, <b>Decimal Code(s)</b>: (129393), <b>CodePoint(s)</b>: 1F971
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Yawning Face</b>' in string format, '🥱' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithSteamFromNose">
-								<summary>
-										<b>Name</b>: Face With Steam From Nose, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😤, <b>Decimal Code(s)</b>: (128548), <b>CodePoint(s)</b>: 1F624
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Steam From Nose</b>' in string format, '😤' is ready for display.
-								</returns>
-						</property>
-
-						<property name="EnragedFace">
-								<summary>
-										<b>Name</b>: Enraged Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😡, <b>Decimal Code(s)</b>: (128545), <b>CodePoint(s)</b>: 1F621
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Enraged Face</b>' in string format, '😡' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AngryFace">
-								<summary>
-										<b>Name</b>: Angry Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😠, <b>Decimal Code(s)</b>: (128544), <b>CodePoint(s)</b>: 1F620
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Angry Face</b>' in string format, '😠' is ready for display.
-								</returns>
-						</property>
-
-						<property name="FaceWithSymbolsOnMouth">
-								<summary>
-										<b>Name</b>: Face With Symbols On Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🤬, <b>Decimal Code(s)</b>: (129324), <b>CodePoint(s)</b>: 1F92C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Face With Symbols On Mouth</b>' in string format, '🤬' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingFaceWithHorns">
-								<summary>
-										<b>Name</b>: Smiling Face With Horns, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 😈, <b>Decimal Code(s)</b>: (128520), <b>CodePoint(s)</b>: 1F608
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Face With Horns</b>' in string format, '😈' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AngryFaceWithHorns">
-								<summary>
-										<b>Name</b>: Angry Face With Horns, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👿, <b>Decimal Code(s)</b>: (128127), <b>CodePoint(s)</b>: 1F47F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Angry Face With Horns</b>' in string format, '👿' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Skull">
-								<summary>
-										<b>Name</b>: Skull, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💀, <b>Decimal Code(s)</b>: (128128), <b>CodePoint(s)</b>: 1F480
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Skull</b>' in string format, '💀' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SkullAndCrossbones">
-								<summary>
-										<b>Name</b>: Skull And Crossbones, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: ☠️, <b>Decimal Code(s)</b>: (9760, 65039), <b>CodePoint(s)</b>: 2620 FE0F, <b>Unqualified CodePoint(s)</b>: 2620
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Skull And Crossbones</b>' in string format, '☠️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PileOfPoo">
-								<summary>
-										<b>Name</b>: Pile Of Poo, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💩, <b>Decimal Code(s)</b>: (128169), <b>CodePoint(s)</b>: 1F4A9
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Pile Of Poo</b>' in string format, '💩' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ClownFace">
-								<summary>
-										<b>Name</b>: Clown Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🤡, <b>Decimal Code(s)</b>: (129313), <b>CodePoint(s)</b>: 1F921
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Clown Face</b>' in string format, '🤡' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Ogre">
-								<summary>
-										<b>Name</b>: Ogre, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👹, <b>Decimal Code(s)</b>: (128121), <b>CodePoint(s)</b>: 1F479
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Ogre</b>' in string format, '👹' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Goblin">
-								<summary>
-										<b>Name</b>: Goblin, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👺, <b>Decimal Code(s)</b>: (128122), <b>CodePoint(s)</b>: 1F47A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Goblin</b>' in string format, '👺' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Ghost">
-								<summary>
-										<b>Name</b>: Ghost, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👻, <b>Decimal Code(s)</b>: (128123), <b>CodePoint(s)</b>: 1F47B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Ghost</b>' in string format, '👻' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Alien">
-								<summary>
-										<b>Name</b>: Alien, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👽, <b>Decimal Code(s)</b>: (128125), <b>CodePoint(s)</b>: 1F47D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Alien</b>' in string format, '👽' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AlienMonster">
-								<summary>
-										<b>Name</b>: Alien Monster, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 👾, <b>Decimal Code(s)</b>: (128126), <b>CodePoint(s)</b>: 1F47E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Alien Monster</b>' in string format, '👾' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Robot">
-								<summary>
-										<b>Name</b>: Robot, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 🤖, <b>Decimal Code(s)</b>: (129302), <b>CodePoint(s)</b>: 1F916
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Robot</b>' in string format, '🤖' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningCat">
-								<summary>
-										<b>Name</b>: Grinning Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😺, <b>Decimal Code(s)</b>: (128570), <b>CodePoint(s)</b>: 1F63A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Cat</b>' in string format, '😺' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrinningCatWithSmilingEyes">
-								<summary>
-										<b>Name</b>: Grinning Cat With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😸, <b>Decimal Code(s)</b>: (128568), <b>CodePoint(s)</b>: 1F638
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grinning Cat With Smiling Eyes</b>' in string format, '😸' is ready for display.
-								</returns>
-						</property>
-
-						<property name="CatWithTearsOfJoy">
-								<summary>
-										<b>Name</b>: Cat With Tears Of Joy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😹, <b>Decimal Code(s)</b>: (128569), <b>CodePoint(s)</b>: 1F639
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Cat With Tears Of Joy</b>' in string format, '😹' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SmilingCatWithHeartEyes">
-								<summary>
-										<b>Name</b>: Smiling Cat With Heart-Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😻, <b>Decimal Code(s)</b>: (128571), <b>CodePoint(s)</b>: 1F63B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Smiling Cat With Heart-Eyes</b>' in string format, '😻' is ready for display.
-								</returns>
-						</property>
-
-						<property name="CatWithWrySmile">
-								<summary>
-										<b>Name</b>: Cat With Wry Smile, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😼, <b>Decimal Code(s)</b>: (128572), <b>CodePoint(s)</b>: 1F63C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Cat With Wry Smile</b>' in string format, '😼' is ready for display.
-								</returns>
-						</property>
-
-						<property name="KissingCat">
-								<summary>
-										<b>Name</b>: Kissing Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😽, <b>Decimal Code(s)</b>: (128573), <b>CodePoint(s)</b>: 1F63D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Kissing Cat</b>' in string format, '😽' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WearyCat">
-								<summary>
-										<b>Name</b>: Weary Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 🙀, <b>Decimal Code(s)</b>: (128576), <b>CodePoint(s)</b>: 1F640
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Weary Cat</b>' in string format, '🙀' is ready for display.
-								</returns>
-						</property>
-
-						<property name="CryingCat">
-								<summary>
-										<b>Name</b>: Crying Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😿, <b>Decimal Code(s)</b>: (128575), <b>CodePoint(s)</b>: 1F63F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Crying Cat</b>' in string format, '😿' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PoutingCat">
-								<summary>
-										<b>Name</b>: Pouting Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 😾, <b>Decimal Code(s)</b>: (128574), <b>CodePoint(s)</b>: 1F63E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Pouting Cat</b>' in string format, '😾' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SeeNoEvilMonkey">
-								<summary>
-										<b>Name</b>: See-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 🙈, <b>Decimal Code(s)</b>: (128584), <b>CodePoint(s)</b>: 1F648
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>See-No-Evil Monkey</b>' in string format, '🙈' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HearNoEvilMonkey">
-								<summary>
-										<b>Name</b>: Hear-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 🙉, <b>Decimal Code(s)</b>: (128585), <b>CodePoint(s)</b>: 1F649
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Hear-No-Evil Monkey</b>' in string format, '🙉' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SpeakNoEvilMonkey">
-								<summary>
-										<b>Name</b>: Speak-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 🙊, <b>Decimal Code(s)</b>: (128586), <b>CodePoint(s)</b>: 1F64A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Speak-No-Evil Monkey</b>' in string format, '🙊' is ready for display.
-								</returns>
-						</property>
-
-						<property name="LoveLetter">
-								<summary>
-										<b>Name</b>: Love Letter, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💌, <b>Decimal Code(s)</b>: (128140), <b>CodePoint(s)</b>: 1F48C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Love Letter</b>' in string format, '💌' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeartWithArrow">
-								<summary>
-										<b>Name</b>: Heart With Arrow, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💘, <b>Decimal Code(s)</b>: (128152), <b>CodePoint(s)</b>: 1F498
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Heart With Arrow</b>' in string format, '💘' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeartWithRibbon">
-								<summary>
-										<b>Name</b>: Heart With Ribbon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💝, <b>Decimal Code(s)</b>: (128157), <b>CodePoint(s)</b>: 1F49D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Heart With Ribbon</b>' in string format, '💝' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SparklingHeart">
-								<summary>
-										<b>Name</b>: Sparkling Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💖, <b>Decimal Code(s)</b>: (128150), <b>CodePoint(s)</b>: 1F496
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sparkling Heart</b>' in string format, '💖' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GrowingHeart">
-								<summary>
-										<b>Name</b>: Growing Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💗, <b>Decimal Code(s)</b>: (128151), <b>CodePoint(s)</b>: 1F497
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Growing Heart</b>' in string format, '💗' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BeatingHeart">
-								<summary>
-										<b>Name</b>: Beating Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💓, <b>Decimal Code(s)</b>: (128147), <b>CodePoint(s)</b>: 1F493
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Beating Heart</b>' in string format, '💓' is ready for display.
-								</returns>
-						</property>
-
-						<property name="RevolvingHearts">
-								<summary>
-										<b>Name</b>: Revolving Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💞, <b>Decimal Code(s)</b>: (128158), <b>CodePoint(s)</b>: 1F49E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Revolving Hearts</b>' in string format, '💞' is ready for display.
-								</returns>
-						</property>
-
-						<property name="TwoHearts">
-								<summary>
-										<b>Name</b>: Two Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💕, <b>Decimal Code(s)</b>: (128149), <b>CodePoint(s)</b>: 1F495
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Two Hearts</b>' in string format, '💕' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeartDecoration">
-								<summary>
-										<b>Name</b>: Heart Decoration, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💟, <b>Decimal Code(s)</b>: (128159), <b>CodePoint(s)</b>: 1F49F
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Heart Decoration</b>' in string format, '💟' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeartExclamation">
-								<summary>
-										<b>Name</b>: Heart Exclamation, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: ❣️, <b>Decimal Code(s)</b>: (10083, 65039), <b>CodePoint(s)</b>: 2763 FE0F, <b>Unqualified CodePoint(s)</b>: 2763
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Heart Exclamation</b>' in string format, '❣️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BrokenHeart">
-								<summary>
-										<b>Name</b>: Broken Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💔, <b>Decimal Code(s)</b>: (128148), <b>CodePoint(s)</b>: 1F494
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Broken Heart</b>' in string format, '💔' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HeartOnFire">
-								<summary>
-										<b>Name</b>: Heart On Fire, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E13.1<br/>
-										<b>EmojiCharacter</b>: ❤️‍🔥, <b>Decimal Code(s)</b>: (10084, 65039, 8205, 128293), <b>CodePoint(s)</b>: 2764 FE0F 200D 1F525, <b>Unqualified CodePoint(s)</b>: 2764 200D 1F525
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Heart On Fire</b>' in string format, '❤️‍🔥' is ready for display.
-								</returns>
-						</property>
-
-						<property name="MendingHeart">
-								<summary>
-										<b>Name</b>: Mending Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E13.1<br/>
-										<b>EmojiCharacter</b>: ❤️‍🩹, <b>Decimal Code(s)</b>: (10084, 65039, 8205, 129657), <b>CodePoint(s)</b>: 2764 FE0F 200D 1FA79, <b>Unqualified CodePoint(s)</b>: 2764 200D 1FA79
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Mending Heart</b>' in string format, '❤️‍🩹' is ready for display.
-								</returns>
-						</property>
-
-						<property name="RedHeart">
-								<summary>
-										<b>Name</b>: Red Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: ❤️, <b>Decimal Code(s)</b>: (10084, 65039), <b>CodePoint(s)</b>: 2764 FE0F, <b>Unqualified CodePoint(s)</b>: 2764
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Red Heart</b>' in string format, '❤️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PinkHeart">
-								<summary>
-										<b>Name</b>: Pink Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
-										<b>EmojiCharacter</b>: 🩷, <b>Decimal Code(s)</b>: (129655), <b>CodePoint(s)</b>: 1FA77
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Pink Heart</b>' in string format, '🩷' is ready for display.
-								</returns>
-						</property>
-
-						<property name="OrangeHeart">
-								<summary>
-										<b>Name</b>: Orange Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E5.0<br/>
-										<b>EmojiCharacter</b>: 🧡, <b>Decimal Code(s)</b>: (129505), <b>CodePoint(s)</b>: 1F9E1
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Orange Heart</b>' in string format, '🧡' is ready for display.
-								</returns>
-						</property>
-
-						<property name="YellowHeart">
-								<summary>
-										<b>Name</b>: Yellow Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💛, <b>Decimal Code(s)</b>: (128155), <b>CodePoint(s)</b>: 1F49B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Yellow Heart</b>' in string format, '💛' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GreenHeart">
-								<summary>
-										<b>Name</b>: Green Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💚, <b>Decimal Code(s)</b>: (128154), <b>CodePoint(s)</b>: 1F49A
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Green Heart</b>' in string format, '💚' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BlueHeart">
-								<summary>
-										<b>Name</b>: Blue Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💙, <b>Decimal Code(s)</b>: (128153), <b>CodePoint(s)</b>: 1F499
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Blue Heart</b>' in string format, '💙' is ready for display.
-								</returns>
-						</property>
-
-						<property name="LightBlueHeart">
-								<summary>
-										<b>Name</b>: Light Blue Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
-										<b>EmojiCharacter</b>: 🩵, <b>Decimal Code(s)</b>: (129653), <b>CodePoint(s)</b>: 1FA75
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Light Blue Heart</b>' in string format, '🩵' is ready for display.
-								</returns>
-						</property>
-
-						<property name="PurpleHeart">
-								<summary>
-										<b>Name</b>: Purple Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💜, <b>Decimal Code(s)</b>: (128156), <b>CodePoint(s)</b>: 1F49C
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Purple Heart</b>' in string format, '💜' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BrownHeart">
-								<summary>
-										<b>Name</b>: Brown Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E12.0<br/>
-										<b>EmojiCharacter</b>: 🤎, <b>Decimal Code(s)</b>: (129294), <b>CodePoint(s)</b>: 1F90E
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Brown Heart</b>' in string format, '🤎' is ready for display.
-								</returns>
-						</property>
-
-						<property name="BlackHeart">
-								<summary>
-										<b>Name</b>: Black Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E3.0<br/>
-										<b>EmojiCharacter</b>: 🖤, <b>Decimal Code(s)</b>: (128420), <b>CodePoint(s)</b>: 1F5A4
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Black Heart</b>' in string format, '🖤' is ready for display.
-								</returns>
-						</property>
-
-						<property name="GreyHeart">
-								<summary>
-										<b>Name</b>: Grey Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
-										<b>EmojiCharacter</b>: 🩶, <b>Decimal Code(s)</b>: (129654), <b>CodePoint(s)</b>: 1FA76
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Grey Heart</b>' in string format, '🩶' is ready for display.
-								</returns>
-						</property>
-
-						<property name="WhiteHeart">
-								<summary>
-										<b>Name</b>: White Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E12.0<br/>
-										<b>EmojiCharacter</b>: 🤍, <b>Decimal Code(s)</b>: (129293), <b>CodePoint(s)</b>: 1F90D
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>White Heart</b>' in string format, '🤍' is ready for display.
-								</returns>
-						</property>
-
-						<property name="KissMark">
-								<summary>
-										<b>Name</b>: Kiss Mark, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💋, <b>Decimal Code(s)</b>: (128139), <b>CodePoint(s)</b>: 1F48B
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Kiss Mark</b>' in string format, '💋' is ready for display.
-								</returns>
-						</property>
-
-						<property name="HundredPoints">
-								<summary>
-										<b>Name</b>: Hundred Points, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💯, <b>Decimal Code(s)</b>: (128175), <b>CodePoint(s)</b>: 1F4AF
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Hundred Points</b>' in string format, '💯' is ready for display.
-								</returns>
-						</property>
-
-						<property name="AngerSymbol">
-								<summary>
-										<b>Name</b>: Anger Symbol, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💢, <b>Decimal Code(s)</b>: (128162), <b>CodePoint(s)</b>: 1F4A2
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Anger Symbol</b>' in string format, '💢' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Collision">
-								<summary>
-										<b>Name</b>: Collision, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💥, <b>Decimal Code(s)</b>: (128165), <b>CodePoint(s)</b>: 1F4A5
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Collision</b>' in string format, '💥' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Dizzy">
-								<summary>
-										<b>Name</b>: Dizzy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💫, <b>Decimal Code(s)</b>: (128171), <b>CodePoint(s)</b>: 1F4AB
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Dizzy</b>' in string format, '💫' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SweatDroplets">
-								<summary>
-										<b>Name</b>: Sweat Droplets, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💦, <b>Decimal Code(s)</b>: (128166), <b>CodePoint(s)</b>: 1F4A6
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Sweat Droplets</b>' in string format, '💦' is ready for display.
-								</returns>
-						</property>
-
-						<property name="DashingAway">
-								<summary>
-										<b>Name</b>: Dashing Away, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💨, <b>Decimal Code(s)</b>: (128168), <b>CodePoint(s)</b>: 1F4A8
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Dashing Away</b>' in string format, '💨' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Hole">
-								<summary>
-										<b>Name</b>: Hole, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.7<br/>
-										<b>EmojiCharacter</b>: 🕳️, <b>Decimal Code(s)</b>: (128371, 65039), <b>CodePoint(s)</b>: 1F573 FE0F, <b>Unqualified CodePoint(s)</b>: 1F573
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Hole</b>' in string format, '🕳️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="SpeechBalloon">
-								<summary>
-										<b>Name</b>: Speech Balloon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💬, <b>Decimal Code(s)</b>: (128172), <b>CodePoint(s)</b>: 1F4AC
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Speech Balloon</b>' in string format, '💬' is ready for display.
-								</returns>
-						</property>
-
-						<property name="EyeInSpeechBubble">
-								<summary>
-										<b>Name</b>: Eye In Speech Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E2.0<br/>
-										<b>EmojiCharacter</b>: 👁️‍🗨️, <b>Decimal Code(s)</b>: (128065, 65039, 8205, 128488, 65039), <b>CodePoint(s)</b>: 1F441 FE0F 200D 1F5E8 FE0F, <b>Unqualified CodePoint(s)</b>: 1F441 200D 1F5E8
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Eye In Speech Bubble</b>' in string format, '👁️‍🗨️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="LeftSpeechBubble">
-								<summary>
-										<b>Name</b>: Left Speech Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E2.0<br/>
-										<b>EmojiCharacter</b>: 🗨️, <b>Decimal Code(s)</b>: (128488, 65039), <b>CodePoint(s)</b>: 1F5E8 FE0F, <b>Unqualified CodePoint(s)</b>: 1F5E8
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Left Speech Bubble</b>' in string format, '🗨️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="RightAngerBubble">
-								<summary>
-										<b>Name</b>: Right Anger Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.7<br/>
-										<b>EmojiCharacter</b>: 🗯️, <b>Decimal Code(s)</b>: (128495, 65039), <b>CodePoint(s)</b>: 1F5EF FE0F, <b>Unqualified CodePoint(s)</b>: 1F5EF
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Right Anger Bubble</b>' in string format, '🗯️' is ready for display.
-								</returns>
-						</property>
-
-						<property name="ThoughtBalloon">
-								<summary>
-										<b>Name</b>: Thought Balloon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E1.0<br/>
-										<b>EmojiCharacter</b>: 💭, <b>Decimal Code(s)</b>: (128173), <b>CodePoint(s)</b>: 1F4AD
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Thought Balloon</b>' in string format, '💭' is ready for display.
-								</returns>
-						</property>
-
-						<property name="Zzz">
-								<summary>
-										<b>Name</b>: Zzz, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
-										<b>EmojiCharacter</b>: 💤, <b>Decimal Code(s)</b>: (128164), <b>CodePoint(s)</b>: 1F4A4
-								</summary>
-								<returns>
-										Returns the unicode emoji symbol for '<b>Zzz</b>' in string format, '💤' is ready for display.
-								</returns>
-						</property>
-				</properties>
-		</class>
+    <class name="SmileysEmotion">
+        <summary>
+            File Updated: 07/24/2025 18:26:57:0221 (UTC)<br/>
+            All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively owned by <a href="https://unicode.org">unicode.org</a><br/>
+            Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
+            EmojiSmileysEmotion, created by chizl.com © 1997-2025 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
+            Group: Smileys &amp; Emotion, (16) Subgroups, (169) Emojis<br/>
+        </summary>
+        <returns></returns>
+        <properties>
+            <property name="GrinningFace">
+                <summary>
+                    <b>Name</b>: Grinning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😀, <b>Decimal Code(s)</b>: (128512), <b>CodePoint(s)</b>: 1F600
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Face</b>' in string format, '😀' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningFaceWithBigEyes">
+                <summary>
+                    <b>Name</b>: Grinning Face With Big Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😃, <b>Decimal Code(s)</b>: (128515), <b>CodePoint(s)</b>: 1F603
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Face With Big Eyes</b>' in string format, '😃' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningFaceWithSmilingEyes">
+                <summary>
+                    <b>Name</b>: Grinning Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😄, <b>Decimal Code(s)</b>: (128516), <b>CodePoint(s)</b>: 1F604
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Face With Smiling Eyes</b>' in string format, '😄' is ready for display.
+                </returns>
+            </property>
+            <property name="BeamingFaceWithSmilingEyes">
+                <summary>
+                    <b>Name</b>: Beaming Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😁, <b>Decimal Code(s)</b>: (128513), <b>CodePoint(s)</b>: 1F601
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Beaming Face With Smiling Eyes</b>' in string format, '😁' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningSquintingFace">
+                <summary>
+                    <b>Name</b>: Grinning Squinting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😆, <b>Decimal Code(s)</b>: (128518), <b>CodePoint(s)</b>: 1F606
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Squinting Face</b>' in string format, '😆' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningFaceWithSweat">
+                <summary>
+                    <b>Name</b>: Grinning Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😅, <b>Decimal Code(s)</b>: (128517), <b>CodePoint(s)</b>: 1F605
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Face With Sweat</b>' in string format, '😅' is ready for display.
+                </returns>
+            </property>
+            <property name="RollingOnTheFloorLaughing">
+                <summary>
+                    <b>Name</b>: Rolling On The Floor Laughing, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤣, <b>Decimal Code(s)</b>: (129315), <b>CodePoint(s)</b>: 1F923
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Rolling On The Floor Laughing</b>' in string format, '🤣' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithTearsOfJoy">
+                <summary>
+                    <b>Name</b>: Face With Tears Of Joy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😂, <b>Decimal Code(s)</b>: (128514), <b>CodePoint(s)</b>: 1F602
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Tears Of Joy</b>' in string format, '😂' is ready for display.
+                </returns>
+            </property>
+            <property name="SlightlySmilingFace">
+                <summary>
+                    <b>Name</b>: Slightly Smiling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🙂, <b>Decimal Code(s)</b>: (128578), <b>CodePoint(s)</b>: 1F642
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Slightly Smiling Face</b>' in string format, '🙂' is ready for display.
+                </returns>
+            </property>
+            <property name="UpsideDownFace">
+                <summary>
+                    <b>Name</b>: Upside-Down Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🙃, <b>Decimal Code(s)</b>: (128579), <b>CodePoint(s)</b>: 1F643
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Upside-Down Face</b>' in string format, '🙃' is ready for display.
+                </returns>
+            </property>
+            <property name="MeltingFace">
+                <summary>
+                    <b>Name</b>: Melting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫠, <b>Decimal Code(s)</b>: (129760), <b>CodePoint(s)</b>: 1FAE0
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Melting Face</b>' in string format, '🫠' is ready for display.
+                </returns>
+            </property>
+            <property name="WinkingFace">
+                <summary>
+                    <b>Name</b>: Winking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😉, <b>Decimal Code(s)</b>: (128521), <b>CodePoint(s)</b>: 1F609
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Winking Face</b>' in string format, '😉' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithSmilingEyes">
+                <summary>
+                    <b>Name</b>: Smiling Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😊, <b>Decimal Code(s)</b>: (128522), <b>CodePoint(s)</b>: 1F60A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Smiling Eyes</b>' in string format, '😊' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithHalo">
+                <summary>
+                    <b>Name</b>: Smiling Face With Halo, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Smiling, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😇, <b>Decimal Code(s)</b>: (128519), <b>CodePoint(s)</b>: 1F607
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Halo</b>' in string format, '😇' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithHearts">
+                <summary>
+                    <b>Name</b>: Smiling Face With Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥰, <b>Decimal Code(s)</b>: (129392), <b>CodePoint(s)</b>: 1F970
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Hearts</b>' in string format, '🥰' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithHeartEyes">
+                <summary>
+                    <b>Name</b>: Smiling Face With Heart-Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😍, <b>Decimal Code(s)</b>: (128525), <b>CodePoint(s)</b>: 1F60D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Heart-Eyes</b>' in string format, '😍' is ready for display.
+                </returns>
+            </property>
+            <property name="StarStruck">
+                <summary>
+                    <b>Name</b>: Star-Struck, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤩, <b>Decimal Code(s)</b>: (129321), <b>CodePoint(s)</b>: 1F929
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Star-Struck</b>' in string format, '🤩' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceBlowingAKiss">
+                <summary>
+                    <b>Name</b>: Face Blowing A Kiss, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😘, <b>Decimal Code(s)</b>: (128536), <b>CodePoint(s)</b>: 1F618
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Blowing A Kiss</b>' in string format, '😘' is ready for display.
+                </returns>
+            </property>
+            <property name="KissingFace">
+                <summary>
+                    <b>Name</b>: Kissing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😗, <b>Decimal Code(s)</b>: (128535), <b>CodePoint(s)</b>: 1F617
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Kissing Face</b>' in string format, '😗' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFace">
+                <summary>
+                    <b>Name</b>: Smiling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: ☺️, <b>Decimal Code(s)</b>: (9786, 65039), <b>CodePoint(s)</b>: 263A FE0F, <b>Unqualified CodePoint(s)</b>: 263A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face</b>' in string format, '☺️' is ready for display.
+                </returns>
+            </property>
+            <property name="KissingFaceWithClosedEyes">
+                <summary>
+                    <b>Name</b>: Kissing Face With Closed Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😚, <b>Decimal Code(s)</b>: (128538), <b>CodePoint(s)</b>: 1F61A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Kissing Face With Closed Eyes</b>' in string format, '😚' is ready for display.
+                </returns>
+            </property>
+            <property name="KissingFaceWithSmilingEyes">
+                <summary>
+                    <b>Name</b>: Kissing Face With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😙, <b>Decimal Code(s)</b>: (128537), <b>CodePoint(s)</b>: 1F619
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Kissing Face With Smiling Eyes</b>' in string format, '😙' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithTear">
+                <summary>
+                    <b>Name</b>: Smiling Face With Tear, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Affection, <b>Version</b>: E13.0<br/>
+                    <b>EmojiCharacter</b>: 🥲, <b>Decimal Code(s)</b>: (129394), <b>CodePoint(s)</b>: 1F972
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Tear</b>' in string format, '🥲' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceSavoringFood">
+                <summary>
+                    <b>Name</b>: Face Savoring Food, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😋, <b>Decimal Code(s)</b>: (128523), <b>CodePoint(s)</b>: 1F60B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Savoring Food</b>' in string format, '😋' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithTongue">
+                <summary>
+                    <b>Name</b>: Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😛, <b>Decimal Code(s)</b>: (128539), <b>CodePoint(s)</b>: 1F61B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Tongue</b>' in string format, '😛' is ready for display.
+                </returns>
+            </property>
+            <property name="WinkingFaceWithTongue">
+                <summary>
+                    <b>Name</b>: Winking Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😜, <b>Decimal Code(s)</b>: (128540), <b>CodePoint(s)</b>: 1F61C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Winking Face With Tongue</b>' in string format, '😜' is ready for display.
+                </returns>
+            </property>
+            <property name="ZanyFace">
+                <summary>
+                    <b>Name</b>: Zany Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤪, <b>Decimal Code(s)</b>: (129322), <b>CodePoint(s)</b>: 1F92A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Zany Face</b>' in string format, '🤪' is ready for display.
+                </returns>
+            </property>
+            <property name="SquintingFaceWithTongue">
+                <summary>
+                    <b>Name</b>: Squinting Face With Tongue, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😝, <b>Decimal Code(s)</b>: (128541), <b>CodePoint(s)</b>: 1F61D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Squinting Face With Tongue</b>' in string format, '😝' is ready for display.
+                </returns>
+            </property>
+            <property name="MoneyMouthFace">
+                <summary>
+                    <b>Name</b>: Money-Mouth Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Tongue, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤑, <b>Decimal Code(s)</b>: (129297), <b>CodePoint(s)</b>: 1F911
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Money-Mouth Face</b>' in string format, '🤑' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithOpenHands">
+                <summary>
+                    <b>Name</b>: Smiling Face With Open Hands, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤗, <b>Decimal Code(s)</b>: (129303), <b>CodePoint(s)</b>: 1F917
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Open Hands</b>' in string format, '🤗' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithHandOverMouth">
+                <summary>
+                    <b>Name</b>: Face With Hand Over Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤭, <b>Decimal Code(s)</b>: (129325), <b>CodePoint(s)</b>: 1F92D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Hand Over Mouth</b>' in string format, '🤭' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithOpenEyesAndHandOverMouth">
+                <summary>
+                    <b>Name</b>: Face With Open Eyes And Hand Over Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫢, <b>Decimal Code(s)</b>: (129762), <b>CodePoint(s)</b>: 1FAE2
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Open Eyes And Hand Over Mouth</b>' in string format, '🫢' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithPeekingEye">
+                <summary>
+                    <b>Name</b>: Face With Peeking Eye, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫣, <b>Decimal Code(s)</b>: (129763), <b>CodePoint(s)</b>: 1FAE3
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Peeking Eye</b>' in string format, '🫣' is ready for display.
+                </returns>
+            </property>
+            <property name="ShushingFace">
+                <summary>
+                    <b>Name</b>: Shushing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤫, <b>Decimal Code(s)</b>: (129323), <b>CodePoint(s)</b>: 1F92B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Shushing Face</b>' in string format, '🤫' is ready for display.
+                </returns>
+            </property>
+            <property name="ThinkingFace">
+                <summary>
+                    <b>Name</b>: Thinking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤔, <b>Decimal Code(s)</b>: (129300), <b>CodePoint(s)</b>: 1F914
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Thinking Face</b>' in string format, '🤔' is ready for display.
+                </returns>
+            </property>
+            <property name="SalutingFace">
+                <summary>
+                    <b>Name</b>: Saluting Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hand, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫡, <b>Decimal Code(s)</b>: (129761), <b>CodePoint(s)</b>: 1FAE1
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Saluting Face</b>' in string format, '🫡' is ready for display.
+                </returns>
+            </property>
+            <property name="ZipperMouthFace">
+                <summary>
+                    <b>Name</b>: Zipper-Mouth Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤐, <b>Decimal Code(s)</b>: (129296), <b>CodePoint(s)</b>: 1F910
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Zipper-Mouth Face</b>' in string format, '🤐' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithRaisedEyebrow">
+                <summary>
+                    <b>Name</b>: Face With Raised Eyebrow, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤨, <b>Decimal Code(s)</b>: (129320), <b>CodePoint(s)</b>: 1F928
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Raised Eyebrow</b>' in string format, '🤨' is ready for display.
+                </returns>
+            </property>
+            <property name="NeutralFace">
+                <summary>
+                    <b>Name</b>: Neutral Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.7<br/>
+                    <b>EmojiCharacter</b>: 😐, <b>Decimal Code(s)</b>: (128528), <b>CodePoint(s)</b>: 1F610
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Neutral Face</b>' in string format, '😐' is ready for display.
+                </returns>
+            </property>
+            <property name="ExpressionlessFace">
+                <summary>
+                    <b>Name</b>: Expressionless Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😑, <b>Decimal Code(s)</b>: (128529), <b>CodePoint(s)</b>: 1F611
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Expressionless Face</b>' in string format, '😑' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithoutMouth">
+                <summary>
+                    <b>Name</b>: Face Without Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😶, <b>Decimal Code(s)</b>: (128566), <b>CodePoint(s)</b>: 1F636
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Without Mouth</b>' in string format, '😶' is ready for display.
+                </returns>
+            </property>
+            <property name="DottedLineFace">
+                <summary>
+                    <b>Name</b>: Dotted Line Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫥, <b>Decimal Code(s)</b>: (129765), <b>CodePoint(s)</b>: 1FAE5
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Dotted Line Face</b>' in string format, '🫥' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceInClouds">
+                <summary>
+                    <b>Name</b>: Face In Clouds, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E13.1<br/>
+                    <b>EmojiCharacter</b>: 😶‍🌫️, <b>Decimal Code(s)</b>: (128566, 8205, 127787, 65039), <b>CodePoint(s)</b>: 1F636 200D 1F32B FE0F, <b>Unqualified CodePoint(s)</b>: 1F636 200D 1F32B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face In Clouds</b>' in string format, '😶‍🌫️' is ready for display.
+                </returns>
+            </property>
+            <property name="SmirkingFace">
+                <summary>
+                    <b>Name</b>: Smirking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😏, <b>Decimal Code(s)</b>: (128527), <b>CodePoint(s)</b>: 1F60F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smirking Face</b>' in string format, '😏' is ready for display.
+                </returns>
+            </property>
+            <property name="UnamusedFace">
+                <summary>
+                    <b>Name</b>: Unamused Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😒, <b>Decimal Code(s)</b>: (128530), <b>CodePoint(s)</b>: 1F612
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Unamused Face</b>' in string format, '😒' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithRollingEyes">
+                <summary>
+                    <b>Name</b>: Face With Rolling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🙄, <b>Decimal Code(s)</b>: (128580), <b>CodePoint(s)</b>: 1F644
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Rolling Eyes</b>' in string format, '🙄' is ready for display.
+                </returns>
+            </property>
+            <property name="GrimacingFace">
+                <summary>
+                    <b>Name</b>: Grimacing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😬, <b>Decimal Code(s)</b>: (128556), <b>CodePoint(s)</b>: 1F62C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grimacing Face</b>' in string format, '😬' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceExhaling">
+                <summary>
+                    <b>Name</b>: Face Exhaling, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E13.1<br/>
+                    <b>EmojiCharacter</b>: 😮‍💨, <b>Decimal Code(s)</b>: (128558, 8205, 128168), <b>CodePoint(s)</b>: 1F62E 200D 1F4A8
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Exhaling</b>' in string format, '😮‍💨' is ready for display.
+                </returns>
+            </property>
+            <property name="LyingFace">
+                <summary>
+                    <b>Name</b>: Lying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤥, <b>Decimal Code(s)</b>: (129317), <b>CodePoint(s)</b>: 1F925
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Lying Face</b>' in string format, '🤥' is ready for display.
+                </returns>
+            </property>
+            <property name="ShakingFace">
+                <summary>
+                    <b>Name</b>: Shaking Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.0<br/>
+                    <b>EmojiCharacter</b>: 🫨, <b>Decimal Code(s)</b>: (129768), <b>CodePoint(s)</b>: 1FAE8
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Shaking Face</b>' in string format, '🫨' is ready for display.
+                </returns>
+            </property>
+            <property name="HeadShakingHorizontally">
+                <summary>
+                    <b>Name</b>: Head Shaking Horizontally, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.1<br/>
+                    <b>EmojiCharacter</b>: 🙂‍↔️, <b>Decimal Code(s)</b>: (128578, 8205, 8596, 65039), <b>CodePoint(s)</b>: 1F642 200D 2194 FE0F, <b>Unqualified CodePoint(s)</b>: 1F642 200D 2194
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Head Shaking Horizontally</b>' in string format, '🙂‍↔️' is ready for display.
+                </returns>
+            </property>
+            <property name="HeadShakingVertically">
+                <summary>
+                    <b>Name</b>: Head Shaking Vertically, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Neutral-Skeptical, <b>Version</b>: E15.1<br/>
+                    <b>EmojiCharacter</b>: 🙂‍↕️, <b>Decimal Code(s)</b>: (128578, 8205, 8597, 65039), <b>CodePoint(s)</b>: 1F642 200D 2195 FE0F, <b>Unqualified CodePoint(s)</b>: 1F642 200D 2195
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Head Shaking Vertically</b>' in string format, '🙂‍↕️' is ready for display.
+                </returns>
+            </property>
+            <property name="RelievedFace">
+                <summary>
+                    <b>Name</b>: Relieved Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😌, <b>Decimal Code(s)</b>: (128524), <b>CodePoint(s)</b>: 1F60C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Relieved Face</b>' in string format, '😌' is ready for display.
+                </returns>
+            </property>
+            <property name="PensiveFace">
+                <summary>
+                    <b>Name</b>: Pensive Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😔, <b>Decimal Code(s)</b>: (128532), <b>CodePoint(s)</b>: 1F614
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Pensive Face</b>' in string format, '😔' is ready for display.
+                </returns>
+            </property>
+            <property name="SleepyFace">
+                <summary>
+                    <b>Name</b>: Sleepy Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😪, <b>Decimal Code(s)</b>: (128554), <b>CodePoint(s)</b>: 1F62A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sleepy Face</b>' in string format, '😪' is ready for display.
+                </returns>
+            </property>
+            <property name="DroolingFace">
+                <summary>
+                    <b>Name</b>: Drooling Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤤, <b>Decimal Code(s)</b>: (129316), <b>CodePoint(s)</b>: 1F924
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Drooling Face</b>' in string format, '🤤' is ready for display.
+                </returns>
+            </property>
+            <property name="SleepingFace">
+                <summary>
+                    <b>Name</b>: Sleeping Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😴, <b>Decimal Code(s)</b>: (128564), <b>CodePoint(s)</b>: 1F634
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sleeping Face</b>' in string format, '😴' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithBagsUnderEyes">
+                <summary>
+                    <b>Name</b>: Face With Bags Under Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Sleepy, <b>Version</b>: E16.0<br/>
+                    <b>EmojiCharacter</b>: 🫩, <b>Decimal Code(s)</b>: (129769), <b>CodePoint(s)</b>: 1FAE9
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Bags Under Eyes</b>' in string format, '🫩' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithMedicalMask">
+                <summary>
+                    <b>Name</b>: Face With Medical Mask, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😷, <b>Decimal Code(s)</b>: (128567), <b>CodePoint(s)</b>: 1F637
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Medical Mask</b>' in string format, '😷' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithThermometer">
+                <summary>
+                    <b>Name</b>: Face With Thermometer, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤒, <b>Decimal Code(s)</b>: (129298), <b>CodePoint(s)</b>: 1F912
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Thermometer</b>' in string format, '🤒' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithHeadBandage">
+                <summary>
+                    <b>Name</b>: Face With Head-Bandage, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤕, <b>Decimal Code(s)</b>: (129301), <b>CodePoint(s)</b>: 1F915
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Head-Bandage</b>' in string format, '🤕' is ready for display.
+                </returns>
+            </property>
+            <property name="NauseatedFace">
+                <summary>
+                    <b>Name</b>: Nauseated Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤢, <b>Decimal Code(s)</b>: (129314), <b>CodePoint(s)</b>: 1F922
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Nauseated Face</b>' in string format, '🤢' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceVomiting">
+                <summary>
+                    <b>Name</b>: Face Vomiting, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤮, <b>Decimal Code(s)</b>: (129326), <b>CodePoint(s)</b>: 1F92E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Vomiting</b>' in string format, '🤮' is ready for display.
+                </returns>
+            </property>
+            <property name="SneezingFace">
+                <summary>
+                    <b>Name</b>: Sneezing Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤧, <b>Decimal Code(s)</b>: (129319), <b>CodePoint(s)</b>: 1F927
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sneezing Face</b>' in string format, '🤧' is ready for display.
+                </returns>
+            </property>
+            <property name="HotFace">
+                <summary>
+                    <b>Name</b>: Hot Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥵, <b>Decimal Code(s)</b>: (129397), <b>CodePoint(s)</b>: 1F975
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Hot Face</b>' in string format, '🥵' is ready for display.
+                </returns>
+            </property>
+            <property name="ColdFace">
+                <summary>
+                    <b>Name</b>: Cold Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥶, <b>Decimal Code(s)</b>: (129398), <b>CodePoint(s)</b>: 1F976
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Cold Face</b>' in string format, '🥶' is ready for display.
+                </returns>
+            </property>
+            <property name="WoozyFace">
+                <summary>
+                    <b>Name</b>: Woozy Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥴, <b>Decimal Code(s)</b>: (129396), <b>CodePoint(s)</b>: 1F974
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Woozy Face</b>' in string format, '🥴' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithCrossedOutEyes">
+                <summary>
+                    <b>Name</b>: Face With Crossed-Out Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😵, <b>Decimal Code(s)</b>: (128565), <b>CodePoint(s)</b>: 1F635
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Crossed-Out Eyes</b>' in string format, '😵' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithSpiralEyes">
+                <summary>
+                    <b>Name</b>: Face With Spiral Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E13.1<br/>
+                    <b>EmojiCharacter</b>: 😵‍💫, <b>Decimal Code(s)</b>: (128565, 8205, 128171), <b>CodePoint(s)</b>: 1F635 200D 1F4AB
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Spiral Eyes</b>' in string format, '😵‍💫' is ready for display.
+                </returns>
+            </property>
+            <property name="ExplodingHead">
+                <summary>
+                    <b>Name</b>: Exploding Head, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Unwell, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤯, <b>Decimal Code(s)</b>: (129327), <b>CodePoint(s)</b>: 1F92F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Exploding Head</b>' in string format, '🤯' is ready for display.
+                </returns>
+            </property>
+            <property name="CowboyHatFace">
+                <summary>
+                    <b>Name</b>: Cowboy Hat Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤠, <b>Decimal Code(s)</b>: (129312), <b>CodePoint(s)</b>: 1F920
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Cowboy Hat Face</b>' in string format, '🤠' is ready for display.
+                </returns>
+            </property>
+            <property name="PartyingFace">
+                <summary>
+                    <b>Name</b>: Partying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥳, <b>Decimal Code(s)</b>: (129395), <b>CodePoint(s)</b>: 1F973
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Partying Face</b>' in string format, '🥳' is ready for display.
+                </returns>
+            </property>
+            <property name="DisguisedFace">
+                <summary>
+                    <b>Name</b>: Disguised Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Hat, <b>Version</b>: E13.0<br/>
+                    <b>EmojiCharacter</b>: 🥸, <b>Decimal Code(s)</b>: (129400), <b>CodePoint(s)</b>: 1F978
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Disguised Face</b>' in string format, '🥸' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithSunglasses">
+                <summary>
+                    <b>Name</b>: Smiling Face With Sunglasses, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😎, <b>Decimal Code(s)</b>: (128526), <b>CodePoint(s)</b>: 1F60E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Sunglasses</b>' in string format, '😎' is ready for display.
+                </returns>
+            </property>
+            <property name="NerdFace">
+                <summary>
+                    <b>Name</b>: Nerd Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤓, <b>Decimal Code(s)</b>: (129299), <b>CodePoint(s)</b>: 1F913
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Nerd Face</b>' in string format, '🤓' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithMonocle">
+                <summary>
+                    <b>Name</b>: Face With Monocle, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Glasses, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🧐, <b>Decimal Code(s)</b>: (129488), <b>CodePoint(s)</b>: 1F9D0
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Monocle</b>' in string format, '🧐' is ready for display.
+                </returns>
+            </property>
+            <property name="ConfusedFace">
+                <summary>
+                    <b>Name</b>: Confused Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😕, <b>Decimal Code(s)</b>: (128533), <b>CodePoint(s)</b>: 1F615
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Confused Face</b>' in string format, '😕' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithDiagonalMouth">
+                <summary>
+                    <b>Name</b>: Face With Diagonal Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🫤, <b>Decimal Code(s)</b>: (129764), <b>CodePoint(s)</b>: 1FAE4
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Diagonal Mouth</b>' in string format, '🫤' is ready for display.
+                </returns>
+            </property>
+            <property name="WorriedFace">
+                <summary>
+                    <b>Name</b>: Worried Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😟, <b>Decimal Code(s)</b>: (128543), <b>CodePoint(s)</b>: 1F61F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Worried Face</b>' in string format, '😟' is ready for display.
+                </returns>
+            </property>
+            <property name="SlightlyFrowningFace">
+                <summary>
+                    <b>Name</b>: Slightly Frowning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🙁, <b>Decimal Code(s)</b>: (128577), <b>CodePoint(s)</b>: 1F641
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Slightly Frowning Face</b>' in string format, '🙁' is ready for display.
+                </returns>
+            </property>
+            <property name="FrowningFace">
+                <summary>
+                    <b>Name</b>: Frowning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.7<br/>
+                    <b>EmojiCharacter</b>: ☹️, <b>Decimal Code(s)</b>: (9785, 65039), <b>CodePoint(s)</b>: 2639 FE0F, <b>Unqualified CodePoint(s)</b>: 2639
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Frowning Face</b>' in string format, '☹️' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithOpenMouth">
+                <summary>
+                    <b>Name</b>: Face With Open Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😮, <b>Decimal Code(s)</b>: (128558), <b>CodePoint(s)</b>: 1F62E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Open Mouth</b>' in string format, '😮' is ready for display.
+                </returns>
+            </property>
+            <property name="HushedFace">
+                <summary>
+                    <b>Name</b>: Hushed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😯, <b>Decimal Code(s)</b>: (128559), <b>CodePoint(s)</b>: 1F62F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Hushed Face</b>' in string format, '😯' is ready for display.
+                </returns>
+            </property>
+            <property name="AstonishedFace">
+                <summary>
+                    <b>Name</b>: Astonished Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😲, <b>Decimal Code(s)</b>: (128562), <b>CodePoint(s)</b>: 1F632
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Astonished Face</b>' in string format, '😲' is ready for display.
+                </returns>
+            </property>
+            <property name="FlushedFace">
+                <summary>
+                    <b>Name</b>: Flushed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😳, <b>Decimal Code(s)</b>: (128563), <b>CodePoint(s)</b>: 1F633
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Flushed Face</b>' in string format, '😳' is ready for display.
+                </returns>
+            </property>
+            <property name="PleadingFace">
+                <summary>
+                    <b>Name</b>: Pleading Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E11.0<br/>
+                    <b>EmojiCharacter</b>: 🥺, <b>Decimal Code(s)</b>: (129402), <b>CodePoint(s)</b>: 1F97A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Pleading Face</b>' in string format, '🥺' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceHoldingBackTears">
+                <summary>
+                    <b>Name</b>: Face Holding Back Tears, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E14.0<br/>
+                    <b>EmojiCharacter</b>: 🥹, <b>Decimal Code(s)</b>: (129401), <b>CodePoint(s)</b>: 1F979
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Holding Back Tears</b>' in string format, '🥹' is ready for display.
+                </returns>
+            </property>
+            <property name="FrowningFaceWithOpenMouth">
+                <summary>
+                    <b>Name</b>: Frowning Face With Open Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😦, <b>Decimal Code(s)</b>: (128550), <b>CodePoint(s)</b>: 1F626
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Frowning Face With Open Mouth</b>' in string format, '😦' is ready for display.
+                </returns>
+            </property>
+            <property name="AnguishedFace">
+                <summary>
+                    <b>Name</b>: Anguished Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😧, <b>Decimal Code(s)</b>: (128551), <b>CodePoint(s)</b>: 1F627
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Anguished Face</b>' in string format, '😧' is ready for display.
+                </returns>
+            </property>
+            <property name="FearfulFace">
+                <summary>
+                    <b>Name</b>: Fearful Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😨, <b>Decimal Code(s)</b>: (128552), <b>CodePoint(s)</b>: 1F628
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Fearful Face</b>' in string format, '😨' is ready for display.
+                </returns>
+            </property>
+            <property name="AnxiousFaceWithSweat">
+                <summary>
+                    <b>Name</b>: Anxious Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😰, <b>Decimal Code(s)</b>: (128560), <b>CodePoint(s)</b>: 1F630
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Anxious Face With Sweat</b>' in string format, '😰' is ready for display.
+                </returns>
+            </property>
+            <property name="SadButRelievedFace">
+                <summary>
+                    <b>Name</b>: Sad But Relieved Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😥, <b>Decimal Code(s)</b>: (128549), <b>CodePoint(s)</b>: 1F625
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sad But Relieved Face</b>' in string format, '😥' is ready for display.
+                </returns>
+            </property>
+            <property name="CryingFace">
+                <summary>
+                    <b>Name</b>: Crying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😢, <b>Decimal Code(s)</b>: (128546), <b>CodePoint(s)</b>: 1F622
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Crying Face</b>' in string format, '😢' is ready for display.
+                </returns>
+            </property>
+            <property name="LoudlyCryingFace">
+                <summary>
+                    <b>Name</b>: Loudly Crying Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😭, <b>Decimal Code(s)</b>: (128557), <b>CodePoint(s)</b>: 1F62D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Loudly Crying Face</b>' in string format, '😭' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceScreamingInFear">
+                <summary>
+                    <b>Name</b>: Face Screaming In Fear, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😱, <b>Decimal Code(s)</b>: (128561), <b>CodePoint(s)</b>: 1F631
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face Screaming In Fear</b>' in string format, '😱' is ready for display.
+                </returns>
+            </property>
+            <property name="ConfoundedFace">
+                <summary>
+                    <b>Name</b>: Confounded Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😖, <b>Decimal Code(s)</b>: (128534), <b>CodePoint(s)</b>: 1F616
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Confounded Face</b>' in string format, '😖' is ready for display.
+                </returns>
+            </property>
+            <property name="PerseveringFace">
+                <summary>
+                    <b>Name</b>: Persevering Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😣, <b>Decimal Code(s)</b>: (128547), <b>CodePoint(s)</b>: 1F623
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Persevering Face</b>' in string format, '😣' is ready for display.
+                </returns>
+            </property>
+            <property name="DisappointedFace">
+                <summary>
+                    <b>Name</b>: Disappointed Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😞, <b>Decimal Code(s)</b>: (128542), <b>CodePoint(s)</b>: 1F61E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Disappointed Face</b>' in string format, '😞' is ready for display.
+                </returns>
+            </property>
+            <property name="DowncastFaceWithSweat">
+                <summary>
+                    <b>Name</b>: Downcast Face With Sweat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😓, <b>Decimal Code(s)</b>: (128531), <b>CodePoint(s)</b>: 1F613
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Downcast Face With Sweat</b>' in string format, '😓' is ready for display.
+                </returns>
+            </property>
+            <property name="WearyFace">
+                <summary>
+                    <b>Name</b>: Weary Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😩, <b>Decimal Code(s)</b>: (128553), <b>CodePoint(s)</b>: 1F629
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Weary Face</b>' in string format, '😩' is ready for display.
+                </returns>
+            </property>
+            <property name="TiredFace">
+                <summary>
+                    <b>Name</b>: Tired Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😫, <b>Decimal Code(s)</b>: (128555), <b>CodePoint(s)</b>: 1F62B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Tired Face</b>' in string format, '😫' is ready for display.
+                </returns>
+            </property>
+            <property name="YawningFace">
+                <summary>
+                    <b>Name</b>: Yawning Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Concerned, <b>Version</b>: E12.0<br/>
+                    <b>EmojiCharacter</b>: 🥱, <b>Decimal Code(s)</b>: (129393), <b>CodePoint(s)</b>: 1F971
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Yawning Face</b>' in string format, '🥱' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithSteamFromNose">
+                <summary>
+                    <b>Name</b>: Face With Steam From Nose, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😤, <b>Decimal Code(s)</b>: (128548), <b>CodePoint(s)</b>: 1F624
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Steam From Nose</b>' in string format, '😤' is ready for display.
+                </returns>
+            </property>
+            <property name="EnragedFace">
+                <summary>
+                    <b>Name</b>: Enraged Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😡, <b>Decimal Code(s)</b>: (128545), <b>CodePoint(s)</b>: 1F621
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Enraged Face</b>' in string format, '😡' is ready for display.
+                </returns>
+            </property>
+            <property name="AngryFace">
+                <summary>
+                    <b>Name</b>: Angry Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😠, <b>Decimal Code(s)</b>: (128544), <b>CodePoint(s)</b>: 1F620
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Angry Face</b>' in string format, '😠' is ready for display.
+                </returns>
+            </property>
+            <property name="FaceWithSymbolsOnMouth">
+                <summary>
+                    <b>Name</b>: Face With Symbols On Mouth, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🤬, <b>Decimal Code(s)</b>: (129324), <b>CodePoint(s)</b>: 1F92C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Face With Symbols On Mouth</b>' in string format, '🤬' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingFaceWithHorns">
+                <summary>
+                    <b>Name</b>: Smiling Face With Horns, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 😈, <b>Decimal Code(s)</b>: (128520), <b>CodePoint(s)</b>: 1F608
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Face With Horns</b>' in string format, '😈' is ready for display.
+                </returns>
+            </property>
+            <property name="AngryFaceWithHorns">
+                <summary>
+                    <b>Name</b>: Angry Face With Horns, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👿, <b>Decimal Code(s)</b>: (128127), <b>CodePoint(s)</b>: 1F47F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Angry Face With Horns</b>' in string format, '👿' is ready for display.
+                </returns>
+            </property>
+            <property name="Skull">
+                <summary>
+                    <b>Name</b>: Skull, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💀, <b>Decimal Code(s)</b>: (128128), <b>CodePoint(s)</b>: 1F480
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Skull</b>' in string format, '💀' is ready for display.
+                </returns>
+            </property>
+            <property name="SkullAndCrossbones">
+                <summary>
+                    <b>Name</b>: Skull And Crossbones, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Negative, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: ☠️, <b>Decimal Code(s)</b>: (9760, 65039), <b>CodePoint(s)</b>: 2620 FE0F, <b>Unqualified CodePoint(s)</b>: 2620
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Skull And Crossbones</b>' in string format, '☠️' is ready for display.
+                </returns>
+            </property>
+            <property name="PileOfPoo">
+                <summary>
+                    <b>Name</b>: Pile Of Poo, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💩, <b>Decimal Code(s)</b>: (128169), <b>CodePoint(s)</b>: 1F4A9
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Pile Of Poo</b>' in string format, '💩' is ready for display.
+                </returns>
+            </property>
+            <property name="ClownFace">
+                <summary>
+                    <b>Name</b>: Clown Face, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🤡, <b>Decimal Code(s)</b>: (129313), <b>CodePoint(s)</b>: 1F921
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Clown Face</b>' in string format, '🤡' is ready for display.
+                </returns>
+            </property>
+            <property name="Ogre">
+                <summary>
+                    <b>Name</b>: Ogre, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👹, <b>Decimal Code(s)</b>: (128121), <b>CodePoint(s)</b>: 1F479
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Ogre</b>' in string format, '👹' is ready for display.
+                </returns>
+            </property>
+            <property name="Goblin">
+                <summary>
+                    <b>Name</b>: Goblin, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👺, <b>Decimal Code(s)</b>: (128122), <b>CodePoint(s)</b>: 1F47A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Goblin</b>' in string format, '👺' is ready for display.
+                </returns>
+            </property>
+            <property name="Ghost">
+                <summary>
+                    <b>Name</b>: Ghost, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👻, <b>Decimal Code(s)</b>: (128123), <b>CodePoint(s)</b>: 1F47B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Ghost</b>' in string format, '👻' is ready for display.
+                </returns>
+            </property>
+            <property name="Alien">
+                <summary>
+                    <b>Name</b>: Alien, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👽, <b>Decimal Code(s)</b>: (128125), <b>CodePoint(s)</b>: 1F47D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Alien</b>' in string format, '👽' is ready for display.
+                </returns>
+            </property>
+            <property name="AlienMonster">
+                <summary>
+                    <b>Name</b>: Alien Monster, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 👾, <b>Decimal Code(s)</b>: (128126), <b>CodePoint(s)</b>: 1F47E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Alien Monster</b>' in string format, '👾' is ready for display.
+                </returns>
+            </property>
+            <property name="Robot">
+                <summary>
+                    <b>Name</b>: Robot, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Face-Costume, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 🤖, <b>Decimal Code(s)</b>: (129302), <b>CodePoint(s)</b>: 1F916
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Robot</b>' in string format, '🤖' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningCat">
+                <summary>
+                    <b>Name</b>: Grinning Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😺, <b>Decimal Code(s)</b>: (128570), <b>CodePoint(s)</b>: 1F63A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Cat</b>' in string format, '😺' is ready for display.
+                </returns>
+            </property>
+            <property name="GrinningCatWithSmilingEyes">
+                <summary>
+                    <b>Name</b>: Grinning Cat With Smiling Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😸, <b>Decimal Code(s)</b>: (128568), <b>CodePoint(s)</b>: 1F638
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grinning Cat With Smiling Eyes</b>' in string format, '😸' is ready for display.
+                </returns>
+            </property>
+            <property name="CatWithTearsOfJoy">
+                <summary>
+                    <b>Name</b>: Cat With Tears Of Joy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😹, <b>Decimal Code(s)</b>: (128569), <b>CodePoint(s)</b>: 1F639
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Cat With Tears Of Joy</b>' in string format, '😹' is ready for display.
+                </returns>
+            </property>
+            <property name="SmilingCatWithHeartEyes">
+                <summary>
+                    <b>Name</b>: Smiling Cat With Heart-Eyes, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😻, <b>Decimal Code(s)</b>: (128571), <b>CodePoint(s)</b>: 1F63B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Smiling Cat With Heart-Eyes</b>' in string format, '😻' is ready for display.
+                </returns>
+            </property>
+            <property name="CatWithWrySmile">
+                <summary>
+                    <b>Name</b>: Cat With Wry Smile, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😼, <b>Decimal Code(s)</b>: (128572), <b>CodePoint(s)</b>: 1F63C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Cat With Wry Smile</b>' in string format, '😼' is ready for display.
+                </returns>
+            </property>
+            <property name="KissingCat">
+                <summary>
+                    <b>Name</b>: Kissing Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😽, <b>Decimal Code(s)</b>: (128573), <b>CodePoint(s)</b>: 1F63D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Kissing Cat</b>' in string format, '😽' is ready for display.
+                </returns>
+            </property>
+            <property name="WearyCat">
+                <summary>
+                    <b>Name</b>: Weary Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 🙀, <b>Decimal Code(s)</b>: (128576), <b>CodePoint(s)</b>: 1F640
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Weary Cat</b>' in string format, '🙀' is ready for display.
+                </returns>
+            </property>
+            <property name="CryingCat">
+                <summary>
+                    <b>Name</b>: Crying Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😿, <b>Decimal Code(s)</b>: (128575), <b>CodePoint(s)</b>: 1F63F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Crying Cat</b>' in string format, '😿' is ready for display.
+                </returns>
+            </property>
+            <property name="PoutingCat">
+                <summary>
+                    <b>Name</b>: Pouting Cat, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Cat-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 😾, <b>Decimal Code(s)</b>: (128574), <b>CodePoint(s)</b>: 1F63E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Pouting Cat</b>' in string format, '😾' is ready for display.
+                </returns>
+            </property>
+            <property name="SeeNoEvilMonkey">
+                <summary>
+                    <b>Name</b>: See-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 🙈, <b>Decimal Code(s)</b>: (128584), <b>CodePoint(s)</b>: 1F648
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>See-No-Evil Monkey</b>' in string format, '🙈' is ready for display.
+                </returns>
+            </property>
+            <property name="HearNoEvilMonkey">
+                <summary>
+                    <b>Name</b>: Hear-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 🙉, <b>Decimal Code(s)</b>: (128585), <b>CodePoint(s)</b>: 1F649
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Hear-No-Evil Monkey</b>' in string format, '🙉' is ready for display.
+                </returns>
+            </property>
+            <property name="SpeakNoEvilMonkey">
+                <summary>
+                    <b>Name</b>: Speak-No-Evil Monkey, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Monkey-Face, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 🙊, <b>Decimal Code(s)</b>: (128586), <b>CodePoint(s)</b>: 1F64A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Speak-No-Evil Monkey</b>' in string format, '🙊' is ready for display.
+                </returns>
+            </property>
+            <property name="LoveLetter">
+                <summary>
+                    <b>Name</b>: Love Letter, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💌, <b>Decimal Code(s)</b>: (128140), <b>CodePoint(s)</b>: 1F48C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Love Letter</b>' in string format, '💌' is ready for display.
+                </returns>
+            </property>
+            <property name="HeartWithArrow">
+                <summary>
+                    <b>Name</b>: Heart With Arrow, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💘, <b>Decimal Code(s)</b>: (128152), <b>CodePoint(s)</b>: 1F498
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Heart With Arrow</b>' in string format, '💘' is ready for display.
+                </returns>
+            </property>
+            <property name="HeartWithRibbon">
+                <summary>
+                    <b>Name</b>: Heart With Ribbon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💝, <b>Decimal Code(s)</b>: (128157), <b>CodePoint(s)</b>: 1F49D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Heart With Ribbon</b>' in string format, '💝' is ready for display.
+                </returns>
+            </property>
+            <property name="SparklingHeart">
+                <summary>
+                    <b>Name</b>: Sparkling Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💖, <b>Decimal Code(s)</b>: (128150), <b>CodePoint(s)</b>: 1F496
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sparkling Heart</b>' in string format, '💖' is ready for display.
+                </returns>
+            </property>
+            <property name="GrowingHeart">
+                <summary>
+                    <b>Name</b>: Growing Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💗, <b>Decimal Code(s)</b>: (128151), <b>CodePoint(s)</b>: 1F497
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Growing Heart</b>' in string format, '💗' is ready for display.
+                </returns>
+            </property>
+            <property name="BeatingHeart">
+                <summary>
+                    <b>Name</b>: Beating Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💓, <b>Decimal Code(s)</b>: (128147), <b>CodePoint(s)</b>: 1F493
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Beating Heart</b>' in string format, '💓' is ready for display.
+                </returns>
+            </property>
+            <property name="RevolvingHearts">
+                <summary>
+                    <b>Name</b>: Revolving Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💞, <b>Decimal Code(s)</b>: (128158), <b>CodePoint(s)</b>: 1F49E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Revolving Hearts</b>' in string format, '💞' is ready for display.
+                </returns>
+            </property>
+            <property name="TwoHearts">
+                <summary>
+                    <b>Name</b>: Two Hearts, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💕, <b>Decimal Code(s)</b>: (128149), <b>CodePoint(s)</b>: 1F495
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Two Hearts</b>' in string format, '💕' is ready for display.
+                </returns>
+            </property>
+            <property name="HeartDecoration">
+                <summary>
+                    <b>Name</b>: Heart Decoration, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💟, <b>Decimal Code(s)</b>: (128159), <b>CodePoint(s)</b>: 1F49F
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Heart Decoration</b>' in string format, '💟' is ready for display.
+                </returns>
+            </property>
+            <property name="HeartExclamation">
+                <summary>
+                    <b>Name</b>: Heart Exclamation, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: ❣️, <b>Decimal Code(s)</b>: (10083, 65039), <b>CodePoint(s)</b>: 2763 FE0F, <b>Unqualified CodePoint(s)</b>: 2763
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Heart Exclamation</b>' in string format, '❣️' is ready for display.
+                </returns>
+            </property>
+            <property name="BrokenHeart">
+                <summary>
+                    <b>Name</b>: Broken Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💔, <b>Decimal Code(s)</b>: (128148), <b>CodePoint(s)</b>: 1F494
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Broken Heart</b>' in string format, '💔' is ready for display.
+                </returns>
+            </property>
+            <property name="HeartOnFire">
+                <summary>
+                    <b>Name</b>: Heart On Fire, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E13.1<br/>
+                    <b>EmojiCharacter</b>: ❤️‍🔥, <b>Decimal Code(s)</b>: (10084, 65039, 8205, 128293), <b>CodePoint(s)</b>: 2764 FE0F 200D 1F525, <b>Unqualified CodePoint(s)</b>: 2764 200D 1F525
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Heart On Fire</b>' in string format, '❤️‍🔥' is ready for display.
+                </returns>
+            </property>
+            <property name="MendingHeart">
+                <summary>
+                    <b>Name</b>: Mending Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E13.1<br/>
+                    <b>EmojiCharacter</b>: ❤️‍🩹, <b>Decimal Code(s)</b>: (10084, 65039, 8205, 129657), <b>CodePoint(s)</b>: 2764 FE0F 200D 1FA79, <b>Unqualified CodePoint(s)</b>: 2764 200D 1FA79
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Mending Heart</b>' in string format, '❤️‍🩹' is ready for display.
+                </returns>
+            </property>
+            <property name="RedHeart">
+                <summary>
+                    <b>Name</b>: Red Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: ❤️, <b>Decimal Code(s)</b>: (10084, 65039), <b>CodePoint(s)</b>: 2764 FE0F, <b>Unqualified CodePoint(s)</b>: 2764
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Red Heart</b>' in string format, '❤️' is ready for display.
+                </returns>
+            </property>
+            <property name="PinkHeart">
+                <summary>
+                    <b>Name</b>: Pink Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
+                    <b>EmojiCharacter</b>: 🩷, <b>Decimal Code(s)</b>: (129655), <b>CodePoint(s)</b>: 1FA77
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Pink Heart</b>' in string format, '🩷' is ready for display.
+                </returns>
+            </property>
+            <property name="OrangeHeart">
+                <summary>
+                    <b>Name</b>: Orange Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E5.0<br/>
+                    <b>EmojiCharacter</b>: 🧡, <b>Decimal Code(s)</b>: (129505), <b>CodePoint(s)</b>: 1F9E1
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Orange Heart</b>' in string format, '🧡' is ready for display.
+                </returns>
+            </property>
+            <property name="YellowHeart">
+                <summary>
+                    <b>Name</b>: Yellow Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💛, <b>Decimal Code(s)</b>: (128155), <b>CodePoint(s)</b>: 1F49B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Yellow Heart</b>' in string format, '💛' is ready for display.
+                </returns>
+            </property>
+            <property name="GreenHeart">
+                <summary>
+                    <b>Name</b>: Green Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💚, <b>Decimal Code(s)</b>: (128154), <b>CodePoint(s)</b>: 1F49A
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Green Heart</b>' in string format, '💚' is ready for display.
+                </returns>
+            </property>
+            <property name="BlueHeart">
+                <summary>
+                    <b>Name</b>: Blue Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💙, <b>Decimal Code(s)</b>: (128153), <b>CodePoint(s)</b>: 1F499
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Blue Heart</b>' in string format, '💙' is ready for display.
+                </returns>
+            </property>
+            <property name="LightBlueHeart">
+                <summary>
+                    <b>Name</b>: Light Blue Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
+                    <b>EmojiCharacter</b>: 🩵, <b>Decimal Code(s)</b>: (129653), <b>CodePoint(s)</b>: 1FA75
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Light Blue Heart</b>' in string format, '🩵' is ready for display.
+                </returns>
+            </property>
+            <property name="PurpleHeart">
+                <summary>
+                    <b>Name</b>: Purple Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💜, <b>Decimal Code(s)</b>: (128156), <b>CodePoint(s)</b>: 1F49C
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Purple Heart</b>' in string format, '💜' is ready for display.
+                </returns>
+            </property>
+            <property name="BrownHeart">
+                <summary>
+                    <b>Name</b>: Brown Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E12.0<br/>
+                    <b>EmojiCharacter</b>: 🤎, <b>Decimal Code(s)</b>: (129294), <b>CodePoint(s)</b>: 1F90E
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Brown Heart</b>' in string format, '🤎' is ready for display.
+                </returns>
+            </property>
+            <property name="BlackHeart">
+                <summary>
+                    <b>Name</b>: Black Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E3.0<br/>
+                    <b>EmojiCharacter</b>: 🖤, <b>Decimal Code(s)</b>: (128420), <b>CodePoint(s)</b>: 1F5A4
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Black Heart</b>' in string format, '🖤' is ready for display.
+                </returns>
+            </property>
+            <property name="GreyHeart">
+                <summary>
+                    <b>Name</b>: Grey Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E15.0<br/>
+                    <b>EmojiCharacter</b>: 🩶, <b>Decimal Code(s)</b>: (129654), <b>CodePoint(s)</b>: 1FA76
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Grey Heart</b>' in string format, '🩶' is ready for display.
+                </returns>
+            </property>
+            <property name="WhiteHeart">
+                <summary>
+                    <b>Name</b>: White Heart, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Heart, <b>Version</b>: E12.0<br/>
+                    <b>EmojiCharacter</b>: 🤍, <b>Decimal Code(s)</b>: (129293), <b>CodePoint(s)</b>: 1F90D
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>White Heart</b>' in string format, '🤍' is ready for display.
+                </returns>
+            </property>
+            <property name="KissMark">
+                <summary>
+                    <b>Name</b>: Kiss Mark, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💋, <b>Decimal Code(s)</b>: (128139), <b>CodePoint(s)</b>: 1F48B
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Kiss Mark</b>' in string format, '💋' is ready for display.
+                </returns>
+            </property>
+            <property name="HundredPoints">
+                <summary>
+                    <b>Name</b>: Hundred Points, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💯, <b>Decimal Code(s)</b>: (128175), <b>CodePoint(s)</b>: 1F4AF
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Hundred Points</b>' in string format, '💯' is ready for display.
+                </returns>
+            </property>
+            <property name="AngerSymbol">
+                <summary>
+                    <b>Name</b>: Anger Symbol, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💢, <b>Decimal Code(s)</b>: (128162), <b>CodePoint(s)</b>: 1F4A2
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Anger Symbol</b>' in string format, '💢' is ready for display.
+                </returns>
+            </property>
+            <property name="Collision">
+                <summary>
+                    <b>Name</b>: Collision, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💥, <b>Decimal Code(s)</b>: (128165), <b>CodePoint(s)</b>: 1F4A5
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Collision</b>' in string format, '💥' is ready for display.
+                </returns>
+            </property>
+            <property name="Dizzy">
+                <summary>
+                    <b>Name</b>: Dizzy, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💫, <b>Decimal Code(s)</b>: (128171), <b>CodePoint(s)</b>: 1F4AB
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Dizzy</b>' in string format, '💫' is ready for display.
+                </returns>
+            </property>
+            <property name="SweatDroplets">
+                <summary>
+                    <b>Name</b>: Sweat Droplets, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💦, <b>Decimal Code(s)</b>: (128166), <b>CodePoint(s)</b>: 1F4A6
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Sweat Droplets</b>' in string format, '💦' is ready for display.
+                </returns>
+            </property>
+            <property name="DashingAway">
+                <summary>
+                    <b>Name</b>: Dashing Away, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💨, <b>Decimal Code(s)</b>: (128168), <b>CodePoint(s)</b>: 1F4A8
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Dashing Away</b>' in string format, '💨' is ready for display.
+                </returns>
+            </property>
+            <property name="Hole">
+                <summary>
+                    <b>Name</b>: Hole, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.7<br/>
+                    <b>EmojiCharacter</b>: 🕳️, <b>Decimal Code(s)</b>: (128371, 65039), <b>CodePoint(s)</b>: 1F573 FE0F, <b>Unqualified CodePoint(s)</b>: 1F573
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Hole</b>' in string format, '🕳️' is ready for display.
+                </returns>
+            </property>
+            <property name="SpeechBalloon">
+                <summary>
+                    <b>Name</b>: Speech Balloon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💬, <b>Decimal Code(s)</b>: (128172), <b>CodePoint(s)</b>: 1F4AC
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Speech Balloon</b>' in string format, '💬' is ready for display.
+                </returns>
+            </property>
+            <property name="EyeInSpeechBubble">
+                <summary>
+                    <b>Name</b>: Eye In Speech Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E2.0<br/>
+                    <b>EmojiCharacter</b>: 👁️‍🗨️, <b>Decimal Code(s)</b>: (128065, 65039, 8205, 128488, 65039), <b>CodePoint(s)</b>: 1F441 FE0F 200D 1F5E8 FE0F, <b>Unqualified CodePoint(s)</b>: 1F441 200D 1F5E8
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Eye In Speech Bubble</b>' in string format, '👁️‍🗨️' is ready for display.
+                </returns>
+            </property>
+            <property name="LeftSpeechBubble">
+                <summary>
+                    <b>Name</b>: Left Speech Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E2.0<br/>
+                    <b>EmojiCharacter</b>: 🗨️, <b>Decimal Code(s)</b>: (128488, 65039), <b>CodePoint(s)</b>: 1F5E8 FE0F, <b>Unqualified CodePoint(s)</b>: 1F5E8
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Left Speech Bubble</b>' in string format, '🗨️' is ready for display.
+                </returns>
+            </property>
+            <property name="RightAngerBubble">
+                <summary>
+                    <b>Name</b>: Right Anger Bubble, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.7<br/>
+                    <b>EmojiCharacter</b>: 🗯️, <b>Decimal Code(s)</b>: (128495, 65039), <b>CodePoint(s)</b>: 1F5EF FE0F, <b>Unqualified CodePoint(s)</b>: 1F5EF
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Right Anger Bubble</b>' in string format, '🗯️' is ready for display.
+                </returns>
+            </property>
+            <property name="ThoughtBalloon">
+                <summary>
+                    <b>Name</b>: Thought Balloon, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E1.0<br/>
+                    <b>EmojiCharacter</b>: 💭, <b>Decimal Code(s)</b>: (128173), <b>CodePoint(s)</b>: 1F4AD
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Thought Balloon</b>' in string format, '💭' is ready for display.
+                </returns>
+            </property>
+            <property name="Zzz">
+                <summary>
+                    <b>Name</b>: Zzz, <b>Group</b>: Smileys &amp; Emotion, <b>SubGroup</b>: Emotion, <b>Version</b>: E0.6<br/>
+                    <b>EmojiCharacter</b>: 💤, <b>Decimal Code(s)</b>: (128164), <b>CodePoint(s)</b>: 1F4A4
+                </summary>
+                <returns>
+                    Returns the unicode emoji symbol for '<b>Zzz</b>' in string format, '💤' is ready for display.
+                </returns>
+            </property>
+        </properties>
+    </class>
 </extradoc>
