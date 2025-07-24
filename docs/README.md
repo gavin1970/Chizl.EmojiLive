@@ -17,7 +17,7 @@ Each Emoji has detailed properties.  This library works with Console.Write() or 
 The library can return to you a 64x64 full color png image of the Unicode character.
 
 **IMPORTANT NOTICE**: Even though this library can return PNG images of the Emoji through EmojiPngImage property, not all images come back with <u>TONE</u>.  Also found, Emoji like PeopleBody.FamilyWomanWomanGirlGirl only show one woman.<br/>
-Using only the EmojiCharacter property in console, will show <u>TONE</u> and both Form Labels using Emoji foht will see the complex Emoji.  Label's can't show the color, but will display the character in font-color selected.  It's not apparent at this time why images are missing this feature.  It is something that we are aware of and being researched.
+Using only the EmojiCharacter property in console, will show <u>TONE</u> and both Form Labels using Emoji font's will see the complex Emoji.  Label's can't show the color, but will display the character in the foreground color selected for the label.  It's not apparent at this time why images are missing this feature.  It is something that I'm aware of and it's being researched.
 
 ## List of Properties:
 - string Group - `Emoji group name, set by unicode.org`
