@@ -13,7 +13,11 @@ This is quick access to the following structs, with sub-groups, and a total of 4
 - Symbols, (14) Subgroups, (224) fully-qualified Emoji
 - Flags, (3) Subgroups, (270) fully-qualified Emoji
 
- Each Emoji has detailed properties.  This library works with Console.Write() or Form Display with use of EmojiPngImage.  The library can return to you a 64x64 full color png image of the Unicode character.
+Each Emoji has detailed properties.  This library works with Console.Write() or Form Display with use of EmojiPngImage.<br/>
+The library can return to you a 64x64 full color png image of the Unicode character.
+
+**IMPORTANT NOTICE**: Even though this library can return PNG images of the Emoji through EmojiPngImage property, not all images come back with <u>TONE</u>.  Also found, Emoji like PeopleBody.FamilyWomanWomanGirlGirl only show one woman.<br/>
+Using only the EmojiCharacter property in console, will show <u>TONE</u> and both Form Labels using Emoji foht will see the complex Emoji.  Label's can't show the color, but will display the character in font-color selected.  It's not apparent at this time why images are missing this feature.  It is something that we are aware of and being researched.
 
 ## List of Properties:
 - string Group - `Emoji group name, set by unicode.org`
@@ -23,7 +27,7 @@ This is quick access to the following structs, with sub-groups, and a total of 4
 - string Version - `Emoji version, set by unicode.org`
 - string CodePoints - `All Emoji code points, set by unicode.org`
 - string UnqualifiedCodePoints - `Shortest Unqualifed Emoji code points, set by unicode.org`
-- byte[] EmojiPngImage - `Emoji Image byte array in PNG format.`
+- byte[] EmojiPngImage - `Emoji 64x64 Image byte array in PNG format.`
 - int EmojiDisplayWidth - `Display width is the actual width on screen of this Emoji.  Where length could be 12, display width might be only 1.`
 - string EmojiCharacter - `Emoji unicode character as combined code points`
 - string UnqualifiedEmojiCharacter - `Shortest unqualified Emoji unicode character as combined code points`

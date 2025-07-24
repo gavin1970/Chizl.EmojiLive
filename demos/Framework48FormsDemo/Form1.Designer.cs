@@ -36,6 +36,7 @@
             this.lblFromLib = new System.Windows.Forms.Label();
             this.cbGroup = new System.Windows.Forms.ComboBox();
             this.cbEmoji = new System.Windows.Forms.ComboBox();
+            this.lblEmoji = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picFileDisp)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLibDisp)).BeginInit();
             this.SuspendLayout();
@@ -103,13 +104,6 @@
             this.cbGroup.Dock = System.Windows.Forms.DockStyle.Top;
             this.cbGroup.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbGroup.FormattingEnabled = true;
-            this.cbGroup.Items.AddRange(new object[] {
-            "EmojiActivities",
-            "EmojiAnimalsNature",
-            "EmojiBasicLatin",
-            "EmojiFlags",
-            "EmojiFoodDrink",
-            "EmojiObjects"});
             this.cbGroup.Location = new System.Drawing.Point(0, 0);
             this.cbGroup.Name = "cbGroup";
             this.cbGroup.Size = new System.Drawing.Size(446, 21);
@@ -127,12 +121,23 @@
             this.cbEmoji.TabIndex = 8;
             this.cbEmoji.SelectedIndexChanged += new System.EventHandler(this.cbEmoji_SelectedIndexChanged);
             // 
+            // lblEmoji
+            // 
+            this.lblEmoji.AutoSize = true;
+            this.lblEmoji.Font = new System.Drawing.Font("Segoe UI Emoji", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEmoji.Location = new System.Drawing.Point(45, 79);
+            this.lblEmoji.Name = "lblEmoji";
+            this.lblEmoji.Size = new System.Drawing.Size(67, 28);
+            this.lblEmoji.TabIndex = 9;
+            this.lblEmoji.Text = "label1";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.ClientSize = new System.Drawing.Size(446, 333);
+            this.Controls.Add(this.lblEmoji);
             this.Controls.Add(this.cbEmoji);
             this.Controls.Add(this.cbGroup);
             this.Controls.Add(this.lblFromLib);
@@ -146,10 +151,12 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picFileDisp)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLibDisp)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -162,6 +169,7 @@
         private System.Windows.Forms.Label lblFromLib;
         private System.Windows.Forms.ComboBox cbGroup;
         private System.Windows.Forms.ComboBox cbEmoji;
+        private System.Windows.Forms.Label lblEmoji;
     }
 }
 
