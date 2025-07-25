@@ -19,12 +19,22 @@ namespace ConsoleDemo
                 EmojiTravelPlaces.TenOclock, EmojiTravelPlaces.TenThirty, EmojiTravelPlaces.ElevenOclock, EmojiTravelPlaces.ElevenThirty,
                 EmojiTravelPlaces.TwelveOclock
         };
-        
+
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
+            var emoJackOLantern = EmojiActivities.JackOLantern;
+            var emoFilePath = $".\\";
+            var emoFileName = $"{emoJackOLantern.Name}.png";
 
-            DisplayEmoji(EmojiActivities.JackOLantern, false);
+            DisplayEmoji(emoJackOLantern, false);
+            if (emoJackOLantern.SaveEmoji(emoFilePath, emoFileName, EmojiImageFormat.Png, true))
+            {
+                var fgClr = Console.ForegroundColor;
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"'{emoFilePath}{emoFileName}' has been created.");
+                Console.ForegroundColor = fgClr;
+            }
 
             while (true)
             {
@@ -130,8 +140,6 @@ namespace ConsoleDemo
 
                     if (fq)
                         DisplayEmoji(emoji, true);
-
-                    //Console.WriteLine($"- [{emoji.EmojiCharacter}]> {emoji.Name} \"{emoji.FullName}\"\t\t - ({emoji.CodePoints}), Length: {emoji.Length}, Screen Width: {emoji.EmojiDisplayWidth}");
 
                     if (emoji.HasUnqualifiedCharacter && nq)
                     {

@@ -4,6 +4,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.InteropServices;
+using System.IO;
 
 namespace Chizl.EmojiLive
 {
@@ -72,6 +73,26 @@ namespace Chizl.EmojiLive
         Punctuation = 1024,
     }
 
+    /// <summary>
+    /// This is the same values as SKEncodedImageFormat, but instead of requiring users of this libray to install SkiaSharp, I've remapping it internally.
+    /// </summary>
+    public enum EmojiImageFormat
+    {
+        Bmp = SKEncodedImageFormat.Bmp,
+        Gif = SKEncodedImageFormat.Gif,
+        Ico = SKEncodedImageFormat.Ico,
+        Jpeg = SKEncodedImageFormat.Jpeg,
+        Png = SKEncodedImageFormat.Png,
+        Wbmp = SKEncodedImageFormat.Wbmp,
+        Webp = SKEncodedImageFormat.Webp,
+        Pkm = SKEncodedImageFormat.Pkm,
+        Ktx = SKEncodedImageFormat.Ktx,
+        Astc = SKEncodedImageFormat.Astc,
+        Dng = SKEncodedImageFormat.Dng,
+        Heif = SKEncodedImageFormat.Heif,
+        Avif = SKEncodedImageFormat.Avif,
+        Jpegxl = SKEncodedImageFormat.Jpegxl
+    }
 
     /// <summary>
     /// Emoji object provides Name, Group, Subgroup, Code, Unicode version, Qualified and Unqualified unicode character to be used within a console or form.
@@ -292,6 +313,137 @@ namespace Chizl.EmojiLive
         /// True if Unqualified or Minimal-Qualified character exists.
         /// </summary>
         public bool HasUnqualifiedCharacter => !string.IsNullOrWhiteSpace(_unQualifiedcodePoints);
+        #endregion
+
+        #region Public Methods
+        /// <summary>
+        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used.
+        /// </summary>
+        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages).  Filename will default to '{{Emoji.Name}}.png'</param>
+        /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
+        /// <returns></returns>
+        public bool SaveEmoji(string fullPath, bool overWrite = true) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite);
+        private bool FileDirSetup(string fullPath, string fileName, bool overWrite, EmojiImageFormat imageFormat, out string fullFilePath)
+        {
+            fullFilePath = string.Empty;
+            var ext = $".{imageFormat}".ToLower();
+            //if filename is null, fill it with emoji name and add extension.
+            if (string.IsNullOrWhiteSpace(fileName))
+                fileName = $"{this.Name}{ext}";
+            else
+                fileName = $"{Path.GetFileNameWithoutExtension(fileName)}{ext}";
+
+            if (string.IsNullOrWhiteSpace(fullPath))
+                fullPath = ".\\";
+
+            try
+            {
+                if (File.Exists(fullPath))
+                    fullPath = Path.GetDirectoryName(fullPath);
+
+                fullFilePath = Path.Combine(fullPath, fileName);
+
+                //make sure user didn't pass full filename and path, if so, clean it up.
+                if (File.Exists(fullFilePath))
+                {
+                    if (overWrite)
+                        File.Delete(fullFilePath);
+                    else
+                        return true;
+                }
+            }
+            catch (IOException iox)
+            {
+                throw new IOException($"While checking existance of '{fullPath}' an IO excetpion was " +
+                                      $"thrown (check inner exception for details):\n{iox.Message}", iox);
+            }
+            catch (Exception ex)
+            {
+                throw new IOException($"(Code: FE): Unexpected exception. Check inner exception for details:\n{ex.Message}", ex);
+            }
+
+            try
+            {
+                if (!Directory.Exists(fullPath))
+                    Directory.CreateDirectory(fullPath);
+            }
+            catch (IOException iox)
+            {
+                throw new IOException($"While attempting to create directory '{fullPath}', an IO excetpion was " +
+                                      $"thrown (check inner exception for details):\n{iox.Message}", iox);
+            }
+            catch (Exception ex)
+            {
+                throw new IOException($"(Code: DCD): Unexpected exception. Check inner exception for details:\n{ex.Message}", ex);
+            }
+
+            try
+            {
+                if (overWrite && File.Exists(fullFilePath))
+                    File.Delete(fullFilePath);
+            }
+            catch (IOException iox)
+            {
+                throw new IOException($"While attempting to delete '{fileName}' if exists, an IO excetpion was " +
+                                      $"thrown (check inner exception for details):\n{iox.Message}", iox);
+            }
+            catch (Exception ex)
+            {
+                throw new IOException($"(Code: FD): Unexpected exception. Check inner exception for details:\n{ex.Message}", ex);
+            }
+
+            return File.Exists(fullFilePath);
+        }
+
+        /// <summary>
+        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used. 
+        /// </summary>
+        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
+        /// <param name="fileName">Filename: if null name will default to '{{Emoji.Name}}.png'.</param>
+        /// <param name="imageFormat"></param>
+        /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
+        /// <returns></returns>
+        /// <exception cref="InvalidDataException"></exception>
+        public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true)
+        {
+            //true is returned only if file exists.
+            var retVal = FileDirSetup(fullPath, fileName, overWrite, imageFormat, out string fullFilePath);
+            //if file doesn't exist
+            if (retVal)
+                return !retVal; //did not save, because file already exists with no overWrite
+
+            // 1. Create an SKBitmap from the byte array
+            //    Assuming imageData is already in a format that SkiaSharp can decode (like PNG, JPG, etc.)
+            using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage))
+            {
+                if (bitmap == null)
+                {
+                    // Handle the case where decoding fails (e.g., invalid image data)
+                    throw new InvalidDataException("Could not decode image data.");
+                }
+
+                //conversion, so end users didn't have to add SkiaSharp to their project to use EmojiLive.
+                var format = (SKEncodedImageFormat)imageFormat;
+
+                // 2. Convert the SKBitmap to an SKImage
+                using (SKImage image = SKImage.FromBitmap(bitmap))
+                {
+                    // 3. Encode the SKImage as PNG
+                    //    The parameterless Encode() method defaults to PNG format if empty.
+                    using (SKData encoded = image.Encode(format, 100))
+                    {
+                        // 4. Save the encoded image data to the specified output path
+                        using (FileStream stream = new FileStream(fullFilePath, FileMode.Create, FileAccess.Write))
+                        {
+                            encoded.SaveTo(stream);
+                            retVal = true;
+                        }
+                    }
+                }
+            }
+
+            return retVal;
+        }
         #endregion
 
         #region Private Helper (Existing methods)

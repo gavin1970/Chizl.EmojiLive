@@ -83,11 +83,14 @@ namespace Framework48FormsDemo
         {
             if (_emoji.EmojiPngImage != null)
             {
+                // Option 1: Use the Internal Save
+                //      _emoji.SaveEmoji(".\\", _emoji.Name, EmojiImageFormat.Png, true);
+                //
+                // Option 2:  Do It Your Self
                 using (MemoryStream ms = new MemoryStream(_emoji.EmojiPngImage))
                 {
                     if (!File.Exists(_fileName))
                     {
-                        //var strImg = Image.FromStream(ms);
                         using (var strImg = Image.FromStream(ms))
                             strImg.Save(_fileName, ImageFormat.Png);
                     }
