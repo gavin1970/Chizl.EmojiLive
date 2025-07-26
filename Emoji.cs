@@ -1,10 +1,10 @@
 ﻿using System;
+using System.IO;
 using SkiaSharp;
 using System.Text;
 using System.Diagnostics;
 using System.Globalization;
 using System.Runtime.InteropServices;
-using System.IO;
 
 namespace Chizl.EmojiLive
 {
@@ -74,7 +74,7 @@ namespace Chizl.EmojiLive
     }
 
     /// <summary>
-    /// This is the same values as SKEncodedImageFormat, but instead of requiring users of this libray to install SkiaSharp, I've remapping it internally.
+    /// Wrapper for SKEncodedImageFormat.  Created so users are not required to install SkiaSharp.  It's remapped internally.
     /// </summary>
     public enum EmojiImageFormat
     {
@@ -95,7 +95,7 @@ namespace Chizl.EmojiLive
     }
 
     /// <summary>
-    /// Emoji object provides Name, Group, Subgroup, Code, Unicode version, Qualified and Unqualified unicode character to be used within a console or form.
+    /// Emoji object provides Name, Group, Subgroup, Code, Unicode version, Qualified and Unqualified unicode character to be used within a console or windoes form.
     /// </summary>
     public sealed class Emoji
     {
@@ -106,24 +106,20 @@ namespace Chizl.EmojiLive
         private string _group = string.Empty;
         private string _subGroup = string.Empty;
         private string _codePoints = string.Empty;
-        private string _emojiCharacter = string.Empty; // Populated by ConvertToEmojiCharacter
+        private string _emojiCharacter = string.Empty;
         private string _errorMessage = string.Empty;
         private string _unQualifiedcodePoints = string.Empty;
-        private string _unQualifiedEmojiCharacter = string.Empty; // Populated by ConvertToEmojiCharacter
-        //private EmojiRenderInfo _verify = EmojiRenderInfo.Empty;
-
-        private bool _rendersVerified;
-        private bool _usesZWJ;
-        private bool _usesVariationSelector;
-        private bool _usesKeycapCombiner;
-        private bool _isSingleCodepoint;
-        private bool _rendersAsImage;
-
+        private string _unQualifiedEmojiCharacter = string.Empty;
+        private bool _rendersVerified = false;
+        private bool _usesZWJ = false;
+        private bool _usesVariationSelector = false;
+        private bool _usesKeycapCombiner = false;
+        private bool _isSingleCodepoint = false;
+        private bool _rendersAsImage = false;
+        private bool _fullyQualified = true;
         private int _displayWidth;
         private int _length = 0;
         private int[] _utf32Codes = new int[1] { 0 };
-        private bool _fullyQualified = true;
-
         private ByteFlag[] _byteFlags = { ByteFlag.None };
 
         // Only used when static property Emoji.Empty is used.
@@ -354,20 +350,22 @@ namespace Chizl.EmojiLive
 
         #region Public Methods
         /// <summary>
-        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used.
+        /// Will save the current emoji to the specified file path.<br/>
+        /// Filename: will default to '{{Emoji.Name}}.{{ImageFormat}}'
+        /// ImageFormat: will default to 'EmojiImageFormat.Png'
         /// </summary>
-        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages).  Filename will default to '{{Emoji.Name}}.png'</param>
+        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
         /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
         /// <returns></returns>
         public bool SaveEmoji(string fullPath, bool overWrite = true) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite);
         /// <summary>
-        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used. 
+        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used.
         /// </summary>
         /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
         /// <param name="fileName">Filename: if null name will default to '{{Emoji.Name}}.png'.</param>
-        /// <param name="imageFormat"></param>
-        /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
-        /// <returns></returns>
+        /// <param name="imageFormat">Multiple formats to choose from.  File extension will be replaced with format type.</param>
+        /// <param name="overWrite">(Optional) Overwrite existing file. Default: true - will Overwrite existing file if exists.</param>
+        /// <returns>If save was success or file already exists when overWrite is false.</returns>
         /// <exception cref="InvalidDataException"></exception>
         public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true)
         {
