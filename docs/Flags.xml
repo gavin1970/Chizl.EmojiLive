@@ -119,11 +119,11 @@
             </property>
             <property name="FlagAntiguaBarbuda">
                 <summary>
-                    <b>Name</b>: Flag: Antigua & Barbuda, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Antigua &amp; Barbuda, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇦🇬, <b>Decimal Code(s)</b>: (127462, 127468), <b>CodePoint(s)</b>: 1F1E6 1F1EC
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Antigua & Barbuda</b>' in string format, '🇦🇬' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Antigua &amp; Barbuda</b>' in string format, '🇦🇬' is ready for display.
                 </returns>
             </property>
             <property name="FlagAnguilla">
@@ -236,11 +236,11 @@
             </property>
             <property name="FlagBosniaHerzegovina">
                 <summary>
-                    <b>Name</b>: Flag: Bosnia & Herzegovina, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Bosnia &amp; Herzegovina, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇧🇦, <b>Decimal Code(s)</b>: (127463, 127462), <b>CodePoint(s)</b>: 1F1E7 1F1E6
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Bosnia & Herzegovina</b>' in string format, '🇧🇦' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Bosnia &amp; Herzegovina</b>' in string format, '🇧🇦' is ready for display.
                 </returns>
             </property>
             <property name="FlagBarbados">
@@ -677,11 +677,11 @@
             </property>
             <property name="FlagCeutaMelilla">
                 <summary>
-                    <b>Name</b>: Flag: Ceuta & Melilla, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Ceuta &amp; Melilla, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇪🇦, <b>Decimal Code(s)</b>: (127466, 127462), <b>CodePoint(s)</b>: 1F1EA 1F1E6
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Ceuta & Melilla</b>' in string format, '🇪🇦' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Ceuta &amp; Melilla</b>' in string format, '🇪🇦' is ready for display.
                 </returns>
             </property>
             <property name="FlagEcuador">
@@ -938,11 +938,11 @@
             </property>
             <property name="FlagSouthGeorgiaSouthSandwichIslands">
                 <summary>
-                    <b>Name</b>: Flag: South Georgia & South Sandwich Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: South Georgia &amp; South Sandwich Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇬🇸, <b>Decimal Code(s)</b>: (127468, 127480), <b>CodePoint(s)</b>: 1F1EC 1F1F8
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: South Georgia & South Sandwich Islands</b>' in string format, '🇬🇸' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: South Georgia &amp; South Sandwich Islands</b>' in string format, '🇬🇸' is ready for display.
                 </returns>
             </property>
             <property name="FlagGuatemala">
@@ -992,11 +992,11 @@
             </property>
             <property name="FlagHeardMcdonaldIslands">
                 <summary>
-                    <b>Name</b>: Flag: Heard & Mcdonald Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Heard &amp; Mcdonald Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇭🇲, <b>Decimal Code(s)</b>: (127469, 127474), <b>CodePoint(s)</b>: 1F1ED 1F1F2
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Heard & Mcdonald Islands</b>' in string format, '🇭🇲' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Heard &amp; Mcdonald Islands</b>' in string format, '🇭🇲' is ready for display.
                 </returns>
             </property>
             <property name="FlagHonduras">
@@ -1217,11 +1217,11 @@
             </property>
             <property name="FlagStKittsNevis">
                 <summary>
-                    <b>Name</b>: Flag: St. Kitts & Nevis, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: St. Kitts &amp; Nevis, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇰🇳, <b>Decimal Code(s)</b>: (127472, 127475), <b>CodePoint(s)</b>: 1F1F0 1F1F3
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: St. Kitts & Nevis</b>' in string format, '🇰🇳' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: St. Kitts &amp; Nevis</b>' in string format, '🇰🇳' is ready for display.
                 </returns>
             </property>
             <property name="FlagNorthKorea">
@@ -1757,11 +1757,11 @@
             </property>
             <property name="FlagStPierreMiquelon">
                 <summary>
-                    <b>Name</b>: Flag: St. Pierre & Miquelon, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: St. Pierre &amp; Miquelon, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇵🇲, <b>Decimal Code(s)</b>: (127477, 127474), <b>CodePoint(s)</b>: 1F1F5 1F1F2
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: St. Pierre & Miquelon</b>' in string format, '🇵🇲' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: St. Pierre &amp; Miquelon</b>' in string format, '🇵🇲' is ready for display.
                 </returns>
             </property>
             <property name="FlagPitcairnIslands">
@@ -1946,11 +1946,11 @@
             </property>
             <property name="FlagSvalbardJanMayen">
                 <summary>
-                    <b>Name</b>: Flag: Svalbard & Jan Mayen, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Svalbard &amp; Jan Mayen, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇸🇯, <b>Decimal Code(s)</b>: (127480, 127471), <b>CodePoint(s)</b>: 1F1F8 1F1EF
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Svalbard & Jan Mayen</b>' in string format, '🇸🇯' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Svalbard &amp; Jan Mayen</b>' in string format, '🇸🇯' is ready for display.
                 </returns>
             </property>
             <property name="FlagSlovakia">
@@ -2018,11 +2018,11 @@
             </property>
             <property name="FlagSOTomPrNcipe">
                 <summary>
-                    <b>Name</b>: Flag: São Tomé & Príncipe, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: São Tomé &amp; Príncipe, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇸🇹, <b>Decimal Code(s)</b>: (127480, 127481), <b>CodePoint(s)</b>: 1F1F8 1F1F9
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: São Tomé & Príncipe</b>' in string format, '🇸🇹' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: São Tomé &amp; Príncipe</b>' in string format, '🇸🇹' is ready for display.
                 </returns>
             </property>
             <property name="FlagElSalvador">
@@ -2072,11 +2072,11 @@
             </property>
             <property name="FlagTurksCaicosIslands">
                 <summary>
-                    <b>Name</b>: Flag: Turks & Caicos Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Turks &amp; Caicos Islands, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇹🇨, <b>Decimal Code(s)</b>: (127481, 127464), <b>CodePoint(s)</b>: 1F1F9 1F1E8
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Turks & Caicos Islands</b>' in string format, '🇹🇨' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Turks &amp; Caicos Islands</b>' in string format, '🇹🇨' is ready for display.
                 </returns>
             </property>
             <property name="FlagChad">
@@ -2180,11 +2180,11 @@
             </property>
             <property name="FlagTrinidadTobago">
                 <summary>
-                    <b>Name</b>: Flag: Trinidad & Tobago, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Trinidad &amp; Tobago, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇹🇹, <b>Decimal Code(s)</b>: (127481, 127481), <b>CodePoint(s)</b>: 1F1F9 1F1F9
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Trinidad & Tobago</b>' in string format, '🇹🇹' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Trinidad &amp; Tobago</b>' in string format, '🇹🇹' is ready for display.
                 </returns>
             </property>
             <property name="FlagTuvalu">
@@ -2288,11 +2288,11 @@
             </property>
             <property name="FlagStVincentGrenadines">
                 <summary>
-                    <b>Name</b>: Flag: St. Vincent & Grenadines, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: St. Vincent &amp; Grenadines, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇻🇨, <b>Decimal Code(s)</b>: (127483, 127464), <b>CodePoint(s)</b>: 1F1FB 1F1E8
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: St. Vincent & Grenadines</b>' in string format, '🇻🇨' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: St. Vincent &amp; Grenadines</b>' in string format, '🇻🇨' is ready for display.
                 </returns>
             </property>
             <property name="FlagVenezuela">
@@ -2342,11 +2342,11 @@
             </property>
             <property name="FlagWallisFutuna">
                 <summary>
-                    <b>Name</b>: Flag: Wallis & Futuna, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
+                    <b>Name</b>: Flag: Wallis &amp; Futuna, <b>Group</b>: Flags, <b>SubGroup</b>: Country-Flag, <b>Version</b>: E2.0<br/>
                     <b>EmojiCharacter</b>: 🇼🇫, <b>Decimal Code(s)</b>: (127484, 127467), <b>CodePoint(s)</b>: 1F1FC 1F1EB
                 </summary>
                 <returns>
-                    Returns the unicode emoji symbol for '<b>Flag: Wallis & Futuna</b>' in string format, '🇼🇫' is ready for display.
+                    Returns the unicode emoji symbol for '<b>Flag: Wallis &amp; Futuna</b>' in string format, '🇼🇫' is ready for display.
                 </returns>
             </property>
             <property name="FlagSamoa">
