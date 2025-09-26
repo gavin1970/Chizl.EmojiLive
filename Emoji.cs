@@ -8,6 +8,9 @@ using System.Runtime.InteropServices;
 
 namespace Chizl.EmojiLive
 {
+    /// <summary>
+    /// ByteFlag represents Each Emoji Byte, which could have one or more Flag.
+    /// </summary>
     [Flags]
     public enum ByteFlag
     {
@@ -78,19 +81,61 @@ namespace Chizl.EmojiLive
     /// </summary>
     public enum EmojiImageFormat
     {
+        /// <summary>
+        /// Bpm map to SKEncodedImageFormat.Bmp
+        /// </summary>
         Bmp = SKEncodedImageFormat.Bmp,
+        /// <summary>
+        /// Gif map to SKEncodedImageFormat.Gif
+        /// </summary>
         Gif = SKEncodedImageFormat.Gif,
+        /// <summary>
+        /// Ico map to SKEncodedImageFormat.Ico
+        /// </summary>
         Ico = SKEncodedImageFormat.Ico,
+        /// <summary>
+        /// Jpeg map to SKEncodedImageFormat.Jpeg
+        /// </summary>
         Jpeg = SKEncodedImageFormat.Jpeg,
+        /// <summary>
+        /// Png map to SKEncodedImageFormat.Png
+        /// </summary>
         Png = SKEncodedImageFormat.Png,
+        /// <summary>
+        /// Wbmp map to SKEncodedImageFormat.Wbmp
+        /// </summary>
         Wbmp = SKEncodedImageFormat.Wbmp,
+        /// <summary>
+        /// Webp map to SKEncodedImageFormat.Webp
+        /// </summary>
         Webp = SKEncodedImageFormat.Webp,
+        /// <summary>
+        /// Pkm map to SKEncodedImageFormat.Pkm
+        /// </summary>
         Pkm = SKEncodedImageFormat.Pkm,
+        /// <summary>
+        /// Ktx map to SKEncodedImageFormat.Ktx
+        /// </summary>
         Ktx = SKEncodedImageFormat.Ktx,
+        /// <summary>
+        /// Astc map to SKEncodedImageFormat.Astc
+        /// </summary>
         Astc = SKEncodedImageFormat.Astc,
+        /// <summary>
+        /// Dng map to SKEncodedImageFormat.Dng
+        /// </summary>
         Dng = SKEncodedImageFormat.Dng,
+        /// <summary>
+        /// Heif map to SKEncodedImageFormat.Heif
+        /// </summary>
         Heif = SKEncodedImageFormat.Heif,
+        /// <summary>
+        /// Avif map to SKEncodedImageFormat.Avif
+        /// </summary>
         Avif = SKEncodedImageFormat.Avif,
+        /// <summary>
+        /// Jpegxl map to SKEncodedImageFormat.Jpegxl
+        /// </summary>
         Jpegxl = SKEncodedImageFormat.Jpegxl
     }
 
@@ -122,12 +167,33 @@ namespace Chizl.EmojiLive
         private int[] _utf32Codes = new int[1] { 0 };
         private ByteFlag[] _byteFlags = { ByteFlag.None };
 
-        // Only used when static property Emoji.Empty is used.
+        /// <summary>
+        /// Only used when static property Emoji.Empty is used.
+        /// </summary>
         private Emoji() { IsEmpty = true; }
-        // Default constructor overloads (keep existing)
+        /// <summary>
+        /// Default constructor overloads (keep existing)
+        /// </summary>
+        /// <param name="group"></param>
+        /// <param name="subGroup"></param>
+        /// <param name="name"></param>
+        /// <param name="fullName"></param>
+        /// <param name="version"></param>
+        /// <param name="codePoints"></param>
+        /// <param name="unQualifiedcodePoints"></param>
         public Emoji(string group, string subGroup, string name, string fullName, string version, string codePoints, string unQualifiedcodePoints)
            : this(group, subGroup, name, fullName, version, true, codePoints, unQualifiedcodePoints) { }
-        // Primary constructor
+        /// <summary>
+        /// Primary constructor
+        /// </summary>
+        /// <param name="group"></param>
+        /// <param name="subGroup"></param>
+        /// <param name="name"></param>
+        /// <param name="fullName"></param>
+        /// <param name="version"></param>
+        /// <param name="fullyQualified"></param>
+        /// <param name="codePoints"></param>
+        /// <param name="unQualifiedcodePoints"></param>
         public Emoji(string group, string subGroup, string name, string fullName, string version, bool fullyQualified, string codePoints, string unQualifiedcodePoints)
         {
             _group = group;
@@ -273,7 +339,7 @@ namespace Chizl.EmojiLive
         ///     var allSurrogates = EmojiPeopleBody.WomanMediumLightSkinToneBeard.HasFlag(ByteFlag.HighSurrogate | ByteFlag.LowSurrogate);<br/>
         /// </code>
         /// </summary>
-        /// <param name="flag">One or Multiple ByteFlags</param>
+        /// <param name="flags">One or Multiple ByteFlags</param>
         /// <returns>
         /// True if all passed flags are found within the emoji.<br/>
         /// False if one or more flags passed in aren't found.
@@ -539,6 +605,7 @@ namespace Chizl.EmojiLive
         /// handle multiple code points for a single emoji.
         /// </summary>
         /// <param name="codePoints">Hex string of codepoints, each byte seperated by a space.</param>
+        /// <param name="qualified">Flag stating if points are considered qualified or not.</param>
         private void ConvertToEmojiCharacter(string codePoints, bool qualified)
         {
             if (string.IsNullOrWhiteSpace(codePoints))
@@ -639,9 +706,27 @@ namespace Chizl.EmojiLive
         #endregion
 
         #region Public Overrides (Existing methods)
+        /// <summary>
+        /// Verifies if 2 Emoji Structure have the same CodePoints.
+        /// </summary>
+        /// <param name="other">Emoji structure</param>
+        /// <returns>true: has the same codepoints.</returns>
         public bool Equals(Emoji other) => this.CodePoints.Equals(other.CodePoints);
+        /// <summary>
+        /// Override, to get HashCode from CodePoints
+        /// </summary>
+        /// <returns>int, representing HashCode from CodePoints.</returns>
         public override int GetHashCode() => this.CodePoints.GetHashCode();
+        /// <summary>
+        /// Override, Verifies if 2 Emoji Structure have the same CodePoints.
+        /// </summary>
+        /// <param name="obj">Emoji structure</param>
+        /// <returns>true: has the same codepoints.</returns>
         public override bool Equals(object obj) => obj is Emoji other && Equals(other);
+        /// <summary>
+        /// Override, default value, will return EmojiCharacter property value.
+        /// </summary>
+        /// <returns></returns>
         public override string ToString() => this.EmojiCharacter;
         #endregion
 
