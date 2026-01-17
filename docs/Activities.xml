@@ -2,8 +2,10 @@
 <extradoc>
     <class name="Activities">
         <summary>
-            All copyrights, versions, codes, codepoints, naming, groups, and subgroups for each Emoji are respectively <a href="https://unicode.org">unicode.org</a><br/>
-            Versioning might not be the latest, but can be quickly updated and regenerated for all Emoji when requested.<br/>
+            Emoji data (names, groupings, code points, sequences, versions) is respectively derived from <a href="https://unicode.org">unicode.org</a>® data files<br/>
+            (UTS #51 / Unicode Emoji), © Unicode, Inc. and licensed under the Unicode License v3.<br/>
+            See: https://www.unicode.org/terms_of_use.html and https://www.unicode.org/license.txt<br/>
+            This library packages generated, strongly-typed emoji structs and helper APIs.<br/>
             EmojiActivities, created by chizl.com © 1997-2026 - <a href="https://github.com/gavin1970">github/gavin1970</a><br/>
             Group: Activities, (5) Subgroups, (85) Emojis<br/>
         </summary>
