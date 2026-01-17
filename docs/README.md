@@ -69,6 +69,7 @@ Using only the EmojiCharacter property in console, will show <u>TONE</u> and bot
 - net48
 - net8.0
 - net9.0
+- net10.0
  
 ## Dependencies
 - Nuget: SkiaSharp
