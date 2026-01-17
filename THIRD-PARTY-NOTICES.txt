@@ -2,7 +2,9 @@
 
 This package includes components and data derived from third party sources.
 
+------------------------
 Unicode® Emoji Data
+------------------------
 
 Emoji metadata used in this package (names, groupings, code points, sequences, versions)
 is derived from Unicode® data files (UTS #51 / Unicode Emoji), © Unicode, Inc.
@@ -21,3 +23,19 @@ Source Unicode data files used (not shipped in this package, but used to generat
 
 The generated C# emoji structs and associated XML documentation in this package
 are created from those Unicode data files via build tools.
+
+------------------------
+SkiaSharp
+------------------------
+
+This project may use SkiaSharp for optional emoji rendering / PNG generation.
+
+SkiaSharp is a cross-platform 2D graphics API for .NET, based on Google's Skia Graphics Library.
+Project: https://github.com/mono/SkiaSharp
+License: MIT
+License text: https://github.com/mono/SkiaSharp/blob/main/LICENSE.md
+
+Note: SkiaSharp is based on the Skia Graphics Library:
+Project: https://github.com/google/skia
+License: BSD-3-Clause
+License text: https://github.com/google/skia/blob/main/LICENSE
