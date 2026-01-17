@@ -4581,6 +4581,11 @@ Group: Travel & Places, Subgroup: Sky & Weather
 Total (10) Groups w/ (4098) Emojis captured.
 ```
 
+### Third-Party Notices
+
+This project includes data derived from Unicode® Emoji data files.
+See [`THIRD-PARTY-NOTICES.txt`](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/THIRD-PARTY-NOTICES.txt) for full attribution and license details.
+
 ## Links
 [Home Page](http://www.chizl.com/)<br />
 [License](https://github.com/gavin1970/Chizl.TextConverter/blob/master/LICENSE.md)
