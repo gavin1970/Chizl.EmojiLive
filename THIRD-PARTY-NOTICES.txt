@@ -1,0 +1,12 @@
+﻿This product includes data derived from Unicode® Emoji data files
+(UTS #51 / Unicode Emoji), © Unicode, Inc.
+
+Unicode data files are licensed under the Unicode License v3.
+See:
+https://www.unicode.org/license.txt
+https://www.unicode.org/terms_of_use.html
+
+Source files used include (but are not limited to):
+- emoji-test.txt
+- emoji-sequences.txt
+- Unicode code charts
