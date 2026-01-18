@@ -18,9 +18,9 @@
 				<FileVersion>6.01.17.2120</FileVersion>
 				<Version>6.01.17.0</Version>
 				<AssemblyVersion>5.08.0.0</AssemblyVersion>
-				<PackageReadmeFile>README.md</PackageReadmeFile>
+				<PackageReadmeFile>docs\README.md</PackageReadmeFile>
 				<ApplicationIcon>docs\EmojiLive.ico</ApplicationIcon>
-				<PackageIcon>EmojiLive.png</PackageIcon>
+				<PackageIcon>docs\EmojiLive.png</PackageIcon>
 		</PropertyGroup>
 
 		<ItemGroup>
@@ -30,10 +30,11 @@
 		</ItemGroup>
 		
 		<ItemGroup>
-				<None Include="docs\README.md" Pack="true" PackagePath="\" />
-				<None Include="docs\license.md" Pack="true" PackagePath="\" />
-				<None Include="docs\EmojiLive.png" Pack="True" PackagePath="\" />
-				<None Include="docs\EmojiLive.ico" Pack="true" PackagePath="\" />
+				<None Include="docs\README.md" Pack="true" />
+				<None Include="docs\license.md" Pack="true" />
+				<None Include="docs\EmojiLive.png" Pack="True" />
+				<None Include="docs\EmojiLive.ico" Pack="true" />
+				<None Include="THIRD-PARTY-NOTICES.txt" Pack="true" />
 		</ItemGroup>
 
 		<ItemGroup>
