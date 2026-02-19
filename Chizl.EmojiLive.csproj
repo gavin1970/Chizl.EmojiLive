@@ -30,11 +30,10 @@
 		</ItemGroup>
 		
 		<ItemGroup>
-				<None Include="docs\README.md" Pack="true" />
-				<None Include="docs\license.md" Pack="true" />
-				<None Include="docs\EmojiLive.png" Pack="True" />
-				<None Include="docs\EmojiLive.ico" Pack="true" />
-				<None Include="THIRD-PARTY-NOTICES.txt" Pack="true" />
+				<None Include="docs\license.md" Pack="true" PackagePath="\" />
+				<None Include="docs\EmojiLive.png" Pack="true" PackagePath="\" />
+				<None Include="docs\EmojiLive.ico" Pack="true" PackagePath="\" />
+				<None Include="THIRD-PARTY-NOTICES.txt" Pack="true" PackagePath="\" />
 		</ItemGroup>
 
 		<ItemGroup>
@@ -43,5 +42,9 @@
 		
 		<ItemGroup>
 		  <Folder Include="groups\" />
+		</ItemGroup>
+		
+		<ItemGroup>
+		  <None Update="README.md" Pack="true" PackagePath="\" />
 		</ItemGroup>
 </Project>
