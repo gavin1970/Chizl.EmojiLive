@@ -15,12 +15,26 @@
 				<Company>Chizl.com</Company>
 				<Copyright>© 2025 chizl.com</Copyright>
 				<PackageTags>fully-qualified;emoji;library;in-console;on-desktop;core;standard;framework;no-deps</PackageTags>
+				<AssemblyVersion>6.0.0.0</AssemblyVersion>
+				<!-- Path +1 for each deploy to Nuget. -->
+				<Version>6.01.17.1</Version>
+				<!-- [Year-2020].Month.Day.HHmm (UTC). -->
 				<FileVersion>6.01.17.2120</FileVersion>
-				<Version>6.01.17.0</Version>
-				<AssemblyVersion>5.08.0.0</AssemblyVersion>
-				<PackageReadmeFile>docs\README.md</PackageReadmeFile>
-				<ApplicationIcon>docs\EmojiLive.ico</ApplicationIcon>
-				<PackageIcon>docs\EmojiLive.png</PackageIcon>
+				<!-- Uses by audit and system monitors. -->
+				<InformationalVersion>6.01.17.2120</InformationalVersion>
+
+				<!-- NuGet Package Metadata -->
+				<PackageReadmeFile>README.md</PackageReadmeFile>
+				<Description>A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** organized into 10 major groups with detailed metadata and 64x64 PNG image support.</Description>
+				<PackageProjectUrl>https://github.com/gavin1970/Chizl.EmojiLive</PackageProjectUrl>
+				<RepositoryUrl>https://github.com/gavin1970/Chizl.EmojiLive</RepositoryUrl>
+				<RepositoryType>git</RepositoryType>
+				<PackageLicenseExpression>MIT</PackageLicenseExpression>
+				<PackageIcon>ChizlEmojiLive.png</PackageIcon>
+				<PackageReleaseNotes>See https://github.com/gavin1970/Chizl.EmojiLive/releases</PackageReleaseNotes>
+				<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+				<ApplicationIcon>EmojiLive.ico</ApplicationIcon>
+				<PackageIcon>EmojiLive.png</PackageIcon>
 		</PropertyGroup>
 
 		<ItemGroup>
@@ -30,9 +44,9 @@
 		</ItemGroup>
 		
 		<ItemGroup>
-				<None Include="docs\license.md" Pack="true" PackagePath="\" />
-				<None Include="docs\EmojiLive.png" Pack="true" PackagePath="\" />
-				<None Include="docs\EmojiLive.ico" Pack="true" PackagePath="\" />
+				<None Include="README.md" Pack="true" PackagePath="\" />
+				<None Include="EmojiLive.png" Pack="true" PackagePath="\" />
+				<None Include="EmojiLive.ico" Pack="true" PackagePath="\" />
 				<None Include="THIRD-PARTY-NOTICES.txt" Pack="true" PackagePath="\" />
 		</ItemGroup>
 
