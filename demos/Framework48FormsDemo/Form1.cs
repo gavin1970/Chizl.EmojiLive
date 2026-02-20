@@ -36,9 +36,9 @@ namespace Framework48FormsDemo
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             _emoji = null;
-            picFileDisp.Image = null;
-            picFileDisp.ImageLocation = null;
-            picFileDisp.Dispose();
+            //picFileDisp.Image = null;
+            //picFileDisp.ImageLocation = null;
+            //picFileDisp.Dispose();
             picLibDisp.Image = null;
             picLibDisp.ImageLocation = null;
             picLibDisp.Dispose();
@@ -52,15 +52,15 @@ namespace Framework48FormsDemo
             }
 
             var files = Directory.GetFiles(".\\", "*.png");
-            if (files.Length > 0 && 
-                MessageBox.Show($"There were '{files.Length}' png files created.\nDo you want to delete them?\n{(new string('-', 30))}\n- {string.Join("\n- ", files)}", 
-                                "Delete", 
-                                MessageBoxButtons.YesNo, 
+            if (files.Length > 0 &&
+                MessageBox.Show($"There were '{files.Length}' png files created.\nDo you want to delete them?\n{(new string('-', 30))}\n- {string.Join("\n- ", files)}",
+                                "Delete",
+                                MessageBoxButtons.YesNo,
                                 MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 foreach (var file in files)
                 {
-                    try { File.Delete(file); } 
+                    try { File.Delete(file); }
                     catch { /* if fails, ignore */ }
                 }
             }
@@ -71,23 +71,29 @@ namespace Framework48FormsDemo
             {
                 //done this way, because Image.FromFile(), holds the handle open and it can not be release or disposed.
                 Image img = Image.FromStream(new MemoryStream(File.ReadAllBytes(_fileName)));
-                picFileDisp.Image = img;
-                
-                lblFromFile.Text = $"'{_emoji.FullName}' found..";
-                picFileDisp.Invalidate();
+                picLibDisp.Image = img;
+
+                lblFromLib.Text = $"'{_emoji.FullName}' found..";
+                picLibDisp.Invalidate();
             }
             else
-                lblFromFile.Text = $"'{_fileName}' not found.";
+                lblFromLib.Text = $"'{_fileName}' not found.";
         }
         private void btnCreateFromLib_Click(object sender, EventArgs e)
         {
-            if (_emoji.EmojiPngImage != null)
+            lblFromLib.Text = "";
+            int pxSize = GetImageSize();
+            var imgBytes = _emoji.EmojiPngImage(pxSize);
+            if (imgBytes != null)
             {
+                if(File.Exists(_fileName))
+                    File.Delete(_fileName);
+
                 // Option 1: Use the Internal Save
-                //      _emoji.SaveEmoji(".\\", _emoji.Name, EmojiImageFormat.Png, true);
+                //  _emoji.SaveEmoji(".\\", _emoji.Name, EmojiImageFormat.Png, true, pxSize);
                 //
                 // Option 2:  Do It Your Self
-                using (MemoryStream ms = new MemoryStream(_emoji.EmojiPngImage))
+                using (MemoryStream ms = new MemoryStream(imgBytes))
                 {
                     if (!File.Exists(_fileName))
                     {
@@ -95,6 +101,7 @@ namespace Framework48FormsDemo
                             strImg.Save(_fileName, ImageFormat.Png);
                     }
 
+                    picLibDisp.Size = new Size(pxSize, pxSize);
                     picLibDisp.Image = Image.FromStream(ms);
                 }
 
@@ -109,11 +116,6 @@ namespace Framework48FormsDemo
         private void ResetLabels()
         {
             lblFromLib.Text = "";
-            lblFromLib.Left = 0;
-            lblFromLib.Width = this.Width;
-            lblFromFile.Text = "";
-            lblFromFile.Left = 0;
-            lblFromFile.Width = this.Width;
 
             cbGroup.Items.Clear();
             foreach (var t in _emojiGroupsTypes.OrderBy(o => o.Name))
@@ -129,9 +131,9 @@ namespace Framework48FormsDemo
         private void cbEmoji_SelectedIndexChanged(object sender, EventArgs e)
         {
             var selText = cbEmoji.Items[cbEmoji.SelectedIndex].ToString();
-            foreach(var prop in _properties)
+            foreach (var prop in _properties)
             {
-                if(selText.Equals(prop.Name))
+                if (selText.Equals(prop.Name))
                 {
                     _emoji = (Emoji)prop.GetValue(_strucType);
                     LoadEmoji(_emoji);
@@ -157,6 +159,16 @@ namespace Framework48FormsDemo
             _fileName = $"./{_emoji.Name}.png";
             btnCreateFromLib.Enabled = true;
         }
-
+        private int GetImageSize()
+        {
+            int pxSize = 64;
+            if (ImageSizeComboBox.SelectedIndex >= 0)
+            {
+                var pxFound = ImageSizeComboBox.Text.Split(new char[] { 'x' });
+                if (int.TryParse(pxFound[0].Trim(), out int size))
+                    pxSize = size;
+            }
+            return pxSize;
+        }
     }
 }

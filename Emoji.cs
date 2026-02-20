@@ -1,10 +1,12 @@
-﻿using System;
-using System.IO;
-using SkiaSharp;
-using System.Text;
+﻿using SkiaSharp;
+using SkiaSharp.HarfBuzz; // You'll need this package
+using System;
 using System.Diagnostics;
 using System.Globalization;
+using System.IO;
+using System.Linq;
 using System.Runtime.InteropServices;
+using System.Text;
 
 namespace Chizl.EmojiLive
 {
@@ -294,7 +296,7 @@ namespace Chizl.EmojiLive
         /// The image is loaded by its <see cref="Name"/> property (e.g., "GrinningFace").
         /// Returns null if the image resource is not found.
         /// </summary>
-        public byte[] EmojiPngImage => UnicodeImageRenderer.RenderToPng(_emojiCharacter);
+        public byte[] EmojiPngImage(int pxSize = 64) => UnicodeImageRenderer.RenderToPng(_emojiCharacter, pxSize);
         /// <summary>
         /// Display width is the actual width on screen of this Emoji.  Where length could be 12, display width might be only 1.
         /// </summary>
@@ -423,7 +425,7 @@ namespace Chizl.EmojiLive
         /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
         /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
         /// <returns></returns>
-        public bool SaveEmoji(string fullPath, bool overWrite = true) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite);
+        public bool SaveEmoji(string fullPath, bool overWrite = true, int pxSize = 64) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite, pxSize);
         /// <summary>
         /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used.
         /// </summary>
@@ -433,7 +435,7 @@ namespace Chizl.EmojiLive
         /// <param name="overWrite">(Optional) Overwrite existing file. Default: true - will Overwrite existing file if exists.</param>
         /// <returns>If save was success or file already exists when overWrite is false.</returns>
         /// <exception cref="InvalidDataException"></exception>
-        public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true)
+        public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true, int pxSize = 64)
         {
             //true is returned only if file exists.
             var retVal = FileDirSetup(fullPath, fileName, overWrite, imageFormat, out string fullFilePath);
@@ -443,7 +445,7 @@ namespace Chizl.EmojiLive
 
             // 1. Create an SKBitmap from the byte array
             //    Assuming imageData is already in a format that SkiaSharp can decode (like PNG, JPG, etc.)
-            using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage))
+            using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage(pxSize)))
             {
                 if (bitmap == null)
                 {
@@ -819,6 +821,7 @@ namespace Chizl.EmojiLive
 
                 return false; // Likely rendered as fallback glyph
             }
+
             /// <summary>
             /// Renders a Unicode string (e.g., emoji) to a PNG image and returns the image as a byte array.
             /// </summary>
@@ -827,37 +830,44 @@ namespace Chizl.EmojiLive
                 if (string.IsNullOrEmpty(text))
                     throw new ArgumentNullException(nameof(text));
 
+                // pixel padding
+                var pixPad = 2;
+
                 string fontFamily = GetPlatformEmojiFont();
 
+                // 1. Initialize Typeface and Font (Where the size now lives)
                 using (var typeface = SKTypeface.FromFamilyName(fontFamily))
-                using (var font = new SKFont(typeface, fontSize))
-                using (var paint = new SKPaint { IsAntialias = true })
+                using (var font = new SKFont(typeface, fontSize - (pixPad*2), 1, 0))
+                using (var paint = new SKPaint() { IsAntialias = true }) // Paint is now just for styles/colors
+                using (var shaper = new SKShaper(typeface))
                 {
+                    // 2. Measure using the font object instead of the paint object
                     SKRect bounds;
                     font.MeasureText(text, out bounds, paint);
 
-                    int width = (int)Math.Ceiling(bounds.Width) + 4;
-                    int height = (int)Math.Ceiling(bounds.Height) + 4;
-
-                    using (var bitmap = new SKBitmap(width, height))
+                    using (var bitmap = new SKBitmap(fontSize, fontSize))
                     using (var canvas = new SKCanvas(bitmap))
                     {
                         canvas.Clear(SKColors.Transparent);
 
-                        float x = -bounds.Left + 2;
-                        float y = -bounds.Top + 2;
+                        // 3. Calculate positioning based on font metrics
+                        float x = (-bounds.Left) + pixPad;
+                        float y = (-bounds.Top) + pixPad;
 
-                        canvas.DrawText(text, x, y, font, paint);
+                        // 4. Use the non-obsolete DrawShapedText overload
+                        // This requires: Shaper, String, X, Y, TextAlign, Font, and Paint
+                        canvas.DrawShapedText(shaper, text, x, y, SKTextAlign.Left, font, paint);
                         canvas.Flush();
 
                         using (var image = SKImage.FromBitmap(bitmap))
                         using (var data = image.Encode(SKEncodedImageFormat.Png, 100))
                         {
-                            return data.ToArray(); // Returns in-memory PNG
+                            return data.ToArray();
                         }
                     }
                 }
             }
+
             /// <summary>
             /// Get Font name by OS
             /// </summary>

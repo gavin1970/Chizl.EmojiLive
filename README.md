@@ -173,7 +173,7 @@ emoji.SaveEmoji(
 ## ⚠️ Known Limitations
 
 ### PNG Image Rendering
-Not all emoji features are perfectly represented in PNG format:
+Not all emoji features are perfectly represented based on your OS, icu.dll, icuuc.dll, or icuin.dll versions.  If any image is not rendering correctly, please create an issue with details about your environment and the specific emoji(s) affected and we will investigate.
 
 - **Skin Tone Variations**: Some skin tone combinations may not render correctly in PNG
 - **Complex Emojis**: Family emojis (e.g., 👩‍👩‍👧‍👧) may only show partial characters in PNG
