@@ -1,8 +1,10 @@
 ﻿# Chizl.EmojiLive
 
 [![NuGet Version](https://img.shields.io/nuget/v/Chizl.EmojiLive.svg)](https://www.nuget.org/packages/Chizl.EmojiLive/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/LICENSE.md)
-[![NuGet Downloads](https://img.shields.io/nuget/dt/Chizl.EmojiLive)](https://www.nuget.org/packages/Chizl.EmojiLive/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/LICENSE.md)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Chizl.EmojiLive)](https://www.nuget.org/packages/Chizl.EmojiLive/)<br/>
+[![Target Frameworks](https://img.shields.io/badge/target%20frameworks-netstandard2.0%20%7C%20netstandard2.1%20%7C%20net471%20%7C%20net472%20%7C%20net48%20%7C%20net481%20%7C%20net8.0%20%7C%20net9.0%20%7C%20net10.0-purple)](https://dotnet.microsoft.com/)
+
 
 A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** organized into 10 major groups with detailed metadata and 64x64 PNG image support.
 
