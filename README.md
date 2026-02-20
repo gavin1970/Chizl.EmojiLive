@@ -228,7 +228,8 @@ foreach (var emoji in foodEmojis)
 - .NET 10.0
 
 ### Dependencies
-- **SkiaSharp** - Cross-platform 2D graphics library for image rendering and saving
+- **SkiaSharp** - Cross-platform 2D graphics library for image rendering and saving.
+- **SkiaSharp.HarfBuzz** - Text shaping library for advanced text rendering complex emojis.
 
 ### Data Source
 All emoji data is auto-generated from official Unicode specifications and maintained by Chizl's internal tooling.
