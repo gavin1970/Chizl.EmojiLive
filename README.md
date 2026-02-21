@@ -15,7 +15,7 @@ A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** or
 
 - ✅ **4,098 Fully-Qualified Emojis** - Complete Unicode emoji set
 - 📦 **10 Major Groups** - Organized into logical categories (Smileys, People, Animals, Food, Travel, Activities, Objects, Symbols, Flags, Basic Latin)
-- 🖼️ **Built-in PNG Images** - 64x64 color PNG images for each emoji
+- 🖼️ **Built-in PNG Images** - 16x16 to 512x512 color PNG images for each emoji
 - 📊 **Rich Metadata** - Name, group, subgroup, version, code points, and more
 - 🎨 **Cross-Platform** - Works with Console, WinForms, WPF, and more
 - 💾 **Save to Disk** - Export emojis as PNG files using SkiaSharp
@@ -98,7 +98,7 @@ Console.WriteLine($"Uses Variation Selector: {emoji.UsesVariationSelector}");
 | `Version` | `string` | Unicode version (e.g., "E0.6") |
 | `CodePoints` | `string` | All emoji code points |
 | `UnqualifiedCodePoints` | `string` | Shortest unqualified code points |
-| `EmojiPngImage` | `byte[]` | 64x64 PNG image as byte array |
+| `EmojiPngImage` | `byte[]` | 16x16->512x512 PNG image as byte array |
 | `EmojiDisplayWidth` | `int` | Actual width on screen |
 | `EmojiCharacter` | `string` | Unicode character representation |
 | `UnqualifiedEmojiCharacter` | `string` | Shortest unqualified character |
