@@ -418,33 +418,34 @@ namespace Chizl.EmojiLive
 
         #region Public Methods
         /// <summary>
-        /// Will save the current emoji to the specified file path.<br/>
-        /// Filename: will default to '{{Emoji.Name}}.{{ImageFormat}}'
-        /// ImageFormat: will default to 'EmojiImageFormat.Png'
+        /// Saves the emoji image to the specified file path.
         /// </summary>
-        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
-        /// <param name="overWrite">(Optional) Overwrite, Default: true - will Overwrite existing file it exists or not.</param>
-        /// <returns></returns>
+        /// <param name="fullPath">The full file path where the emoji image will be saved.</param>
+        /// <param name="overWrite">Indicates whether to overwrite the file if it already exists.</param>
+        /// <param name="pxSize">The size of the emoji image in pixels.</param>
+        /// <returns>true if the emoji image was saved successfully; otherwise, false.</returns>
         public bool SaveEmoji(string fullPath, bool overWrite = true, int pxSize = 64) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite, pxSize);
+
         /// <summary>
-        /// Will save the current emoji to the specified file path.  If fileName is left null, Emoji.Name will be used.
+        /// Saves the emoji image to the specified file path.
         /// </summary>
-        /// <param name="fullPath">Path only without filename.  (e.g. c:\\myimages, .\\myimages)</param>
+        /// <param name="fullPath">The full file path where the emoji image will be saved.</param>
         /// <param name="fileName">Filename: if null name will default to '{{Emoji.Name}}.png'.</param>
         /// <param name="imageFormat">Multiple formats to choose from.  File extension will be replaced with format type.</param>
-        /// <param name="overWrite">(Optional) Overwrite existing file. Default: true - will Overwrite existing file if exists.</param>
-        /// <returns>If save was success or file already exists when overWrite is false.</returns>
+        /// <param name="overWrite">Indicates whether to overwrite the file if it already exists.</param>
+        /// <param name="pxSize">The size of the emoji image in pixels.</param>
+        /// <returns>true if the emoji image was saved successfully; otherwise, false.</returns>
         /// <exception cref="InvalidDataException"></exception>
         public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true, int pxSize = 64)
         {
-            //true is returned only if file exists.
+            // true is returned only if file exists.
             var retVal = FileDirSetup(fullPath, fileName, overWrite, imageFormat, out string fullFilePath);
-            //if file doesn't exist
+            // If file doesn't exist
             if (retVal)
                 return !retVal; //did not save, because file already exists with no overWrite
 
-            // 1. Create an SKBitmap from the byte array
-            //    Assuming imageData is already in a format that SkiaSharp can decode (like PNG, JPG, etc.)
+            // Create an SKBitmap from the byte array
+            // Assuming imageData is already in a format that SkiaSharp can decode (like PNG, JPG, etc.)
             using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage(pxSize)))
             {
                 if (bitmap == null)
@@ -453,17 +454,17 @@ namespace Chizl.EmojiLive
                     throw new InvalidDataException("Could not decode image data.");
                 }
 
-                //conversion, so end users didn't have to add SkiaSharp to their project to use EmojiLive.
+                // Conversion, so end users didn't have to add SkiaSharp to their project to use EmojiLive.
                 var format = (SKEncodedImageFormat)imageFormat;
 
-                // 2. Convert the SKBitmap to an SKImage
+                // Convert the SKBitmap to an SKImage
                 using (SKImage image = SKImage.FromBitmap(bitmap))
                 {
-                    // 3. Encode the SKImage as PNG
-                    //    The parameterless Encode() method defaults to PNG format if empty.
+                    // Encode the SKImage as PNG
+                    // The parameterless Encode() method defaults to PNG format if empty.
                     using (SKData encoded = image.Encode(format, 100))
                     {
-                        // 4. Save the encoded image data to the specified output path
+                        // Save the encoded image data to the specified output path
                         using (FileStream stream = new FileStream(fullFilePath, FileMode.Create, FileAccess.Write))
                         {
                             encoded.SaveTo(stream);
@@ -837,7 +838,7 @@ namespace Chizl.EmojiLive
 
                 // 1. Initialize Typeface and Font (Where the size now lives)
                 using (var typeface = SKTypeface.FromFamilyName(fontFamily))
-                using (var font = new SKFont(typeface, fontSize - (pixPad*2), 1, 0))
+                using (var font = new SKFont(typeface, fontSize - (pixPad * 2), 1, 0))
                 using (var paint = new SKPaint() { IsAntialias = true }) // Paint is now just for styles/colors
                 using (var shaper = new SKShaper(typeface))
                 {
