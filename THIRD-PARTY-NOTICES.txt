@@ -22,7 +22,7 @@ Source Unicode data files used (not shipped in this package, but used to generat
 - Official Unicode code charts (U0000.pdf)
 
 The generated C# emoji structs and associated XML documentation in this package
-are created from those Unicode data files via build tools.
+are created by Chizl from those Unicode data files via a Chizl internal private build tool.
 
 ------------------------
 SkiaSharp
