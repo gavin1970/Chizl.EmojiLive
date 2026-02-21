@@ -7,6 +7,9 @@
 
 
 A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** organized into 10 major groups with detailed metadata and 64x64 PNG image support.
+## 👩‍❤️‍💋‍👨 Resulting PNG (Kiss: Woman, Man)
+
+[[64x64]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_64x64.png) | [[128x128]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_128x128.png) | [[512x512]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_512x512.png)
 
 ## 🎯 Key Features
 
