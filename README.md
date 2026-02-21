@@ -6,7 +6,7 @@
 [![Target Frameworks](https://img.shields.io/badge/target%20frameworks-netstandard2.0%20%7C%20netstandard2.1%20%7C%20net471%20%7C%20net472%20%7C%20net48%20%7C%20net481%20%7C%20net8.0%20%7C%20net9.0%20%7C%20net10.0-purple)](https://dotnet.microsoft.com/)
 
 
-A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** organized into 10 major groups with detailed metadata and 64x64 PNG image support.
+A comprehensive .NET emoji library providing **4,098 fully-qualified emojis** organized into 10 major groups with detailed metadata and save as image support.
 ## 👩‍❤️‍💋‍👨 Resulting PNG (Kiss: Woman, Man)
 
 [[64x64]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_64x64.png) | [[128x128]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_128x128.png) | [[512x512]](https://github.com/gavin1970/Chizl.EmojiLive/blob/master/examples/KissWomanMan_512x512.png)
