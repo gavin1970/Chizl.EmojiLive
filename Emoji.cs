@@ -296,7 +296,10 @@ namespace Chizl.EmojiLive
         /// The image is loaded by its <see cref="Name"/> property (e.g., "GrinningFace").
         /// Returns null if the image resource is not found.
         /// </summary>
-        public byte[] EmojiPngImage(int pxSize = 64) => UnicodeImageRenderer.RenderToPng(_emojiCharacter, pxSize);
+        /// <param name="pxSize">The width and height, in pixels, of the resulting image.</param>
+        /// <param name="picAdjust">The adjustment strink factor to applied to the emoji rendering.</param>
+        /// <returns>A byte array containing the PNG image data.</returns>
+        public byte[] EmojiPngImage(int pxSize = 64, int picAdjust = 2) => UnicodeImageRenderer.RenderToPng(_emojiCharacter, pxSize, picAdjust);
         /// <summary>
         /// Display width is the actual width on screen of this Emoji.  Where length could be 12, display width might be only 1.
         /// </summary>
@@ -418,25 +421,28 @@ namespace Chizl.EmojiLive
 
         #region Public Methods
         /// <summary>
-        /// Saves the emoji image to the specified file path.
+        /// Saves the emoji image to the specified file path with optional overwrite, size, and adjustment settings.
         /// </summary>
         /// <param name="fullPath">The full file path where the emoji image will be saved.</param>
-        /// <param name="overWrite">Indicates whether to overwrite the file if it already exists.</param>
-        /// <param name="pxSize">The size of the emoji image in pixels.</param>
-        /// <returns>true if the emoji image was saved successfully; otherwise, false.</returns>
-        public bool SaveEmoji(string fullPath, bool overWrite = true, int pxSize = 64) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite, pxSize);
+        /// <param name="overWrite">true to overwrite the file if it exists; otherwise, false.</param>
+        /// <param name="pxSize">The width and height, in pixels, of the saved emoji image.</param>
+        /// <param name="picAdjust">The adjustment value applied to the emoji image.</param>
+        /// <returns>true if the emoji image is saved successfully; otherwise, false.</returns>
+        public bool SaveEmoji(string fullPath, bool overWrite = true, int pxSize = 64, int picAdjust = 2) => SaveEmoji(fullPath, string.Empty, EmojiImageFormat.Png, overWrite, pxSize, picAdjust);
 
         /// <summary>
-        /// Saves the emoji image to the specified file path.
+        /// Saves the emoji image to the specified file path in the given image format.
         /// </summary>
-        /// <param name="fullPath">The full file path where the emoji image will be saved.</param>
-        /// <param name="fileName">Filename: if null name will default to '{{Emoji.Name}}.png'.</param>
-        /// <param name="imageFormat">Multiple formats to choose from.  File extension will be replaced with format type.</param>
-        /// <param name="overWrite">Indicates whether to overwrite the file if it already exists.</param>
-        /// <param name="pxSize">The size of the emoji image in pixels.</param>
-        /// <returns>true if the emoji image was saved successfully; otherwise, false.</returns>
-        /// <exception cref="InvalidDataException"></exception>
-        public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true, int pxSize = 64)
+        /// <param name="fullPath">The directory path where the emoji image will be saved.</param>
+        /// <param name="fileName">The name of the file to save the emoji image as.</param>
+        /// <param name="imageFormat">The format in which to save the emoji image.</param>
+        /// <param name="overWrite">true to overwrite an existing file; otherwise, false.</param>
+        /// <param name="pxSize">The pixel size of the emoji image.</param>
+        /// <param name="picAdjust">The adjustment factor for the emoji image rendering.</param>
+        /// <returns>true if the emoji image was saved successfully; false if the file already exists and overwriting is not
+        /// allowed.</returns>
+        /// <exception cref="InvalidDataException">Thrown when the emoji image data cannot be decoded.</exception>
+        public bool SaveEmoji(string fullPath, string fileName, EmojiImageFormat imageFormat, bool overWrite = true, int pxSize = 64, int picAdjust = 2)
         {
             // true is returned only if file exists.
             var retVal = FileDirSetup(fullPath, fileName, overWrite, imageFormat, out string fullFilePath);
@@ -446,7 +452,7 @@ namespace Chizl.EmojiLive
 
             // Create an SKBitmap from the byte array
             // Assuming imageData is already in a format that SkiaSharp can decode (like PNG, JPG, etc.)
-            using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage(pxSize)))
+            using (SKBitmap bitmap = SKBitmap.Decode(this.EmojiPngImage(pxSize, picAdjust)))
             {
                 if (bitmap == null)
                 {
@@ -826,19 +832,16 @@ namespace Chizl.EmojiLive
             /// <summary>
             /// Renders a Unicode string (e.g., emoji) to a PNG image and returns the image as a byte array.
             /// </summary>
-            public static byte[] RenderToPng(string text, int fontSize = 64)
+            public static byte[] RenderToPng(string text, int fontSize = 64, int picAdjust = 2)
             {
                 if (string.IsNullOrEmpty(text))
                     throw new ArgumentNullException(nameof(text));
-
-                // pixel padding
-                var pixPad = 2;
 
                 string fontFamily = GetPlatformEmojiFont();
 
                 // 1. Initialize Typeface and Font (Where the size now lives)
                 using (var typeface = SKTypeface.FromFamilyName(fontFamily))
-                using (var font = new SKFont(typeface, fontSize - (pixPad * 2), 1, 0))
+                using (var font = new SKFont(typeface, fontSize - (picAdjust * 2), 1, 0))
                 using (var paint = new SKPaint() { IsAntialias = true }) // Paint is now just for styles/colors
                 using (var shaper = new SKShaper(typeface))
                 {
@@ -852,8 +855,8 @@ namespace Chizl.EmojiLive
                         canvas.Clear(SKColors.Transparent);
 
                         // 3. Calculate positioning based on font metrics
-                        float x = (-bounds.Left) + pixPad;
-                        float y = (-bounds.Top) + pixPad;
+                        float x = (-bounds.Left) + 2;// pixPad;
+                        float y = (-bounds.Top) + 2;// pixPad;
 
                         // 4. Use the non-obsolete DrawShapedText overload
                         // This requires: Shaper, String, X, Y, TextAlign, Font, and Paint

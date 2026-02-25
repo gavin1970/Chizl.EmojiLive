@@ -37,6 +37,8 @@
             this.ImageSizeComboBox = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lblFromLib = new System.Windows.Forms.Label();
+            this.ImageAdjComboBox = new System.Windows.Forms.ComboBox();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picLibDisp)).BeginInit();
             this.SuspendLayout();
             // 
@@ -138,12 +140,39 @@
             this.lblFromLib.TabIndex = 12;
             this.lblFromLib.Text = "label2";
             // 
+            // ImageAdjComboBox
+            // 
+            this.ImageAdjComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.ImageAdjComboBox.FormattingEnabled = true;
+            this.ImageAdjComboBox.Items.AddRange(new object[] {
+            "2",
+            "4",
+            "8",
+            "16",
+            "32",
+            "64"});
+            this.ImageAdjComboBox.Location = new System.Drawing.Point(342, 49);
+            this.ImageAdjComboBox.Name = "ImageAdjComboBox";
+            this.ImageAdjComboBox.Size = new System.Drawing.Size(50, 21);
+            this.ImageAdjComboBox.TabIndex = 13;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(255, 52);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(79, 13);
+            this.label2.TabIndex = 14;
+            this.label2.Text = "Img Adjustment";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.ClientSize = new System.Drawing.Size(719, 631);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.ImageAdjComboBox);
             this.Controls.Add(this.lblFromLib);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.ImageSizeComboBox);
@@ -175,6 +204,8 @@
         private System.Windows.Forms.ComboBox ImageSizeComboBox;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblFromLib;
+        private System.Windows.Forms.ComboBox ImageAdjComboBox;
+        private System.Windows.Forms.Label label2;
     }
 }
 

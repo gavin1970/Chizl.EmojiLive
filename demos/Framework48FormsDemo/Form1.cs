@@ -32,6 +32,7 @@ namespace Framework48FormsDemo
         private void Form1_Load(object sender, EventArgs e)
         {
             ResetLabels();
+            ImageAdjComboBox.SelectedIndex= 0;
         }
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -82,8 +83,9 @@ namespace Framework48FormsDemo
         private void btnCreateFromLib_Click(object sender, EventArgs e)
         {
             lblFromLib.Text = "";
-            int pxSize = GetImageSize();
-            var imgBytes = _emoji.EmojiPngImage(pxSize);
+            (int pxSize, int pxAdj) = GetImageSize();
+
+            var imgBytes = _emoji.EmojiPngImage(pxSize, pxAdj);
             if (imgBytes != null)
             {
                 if(File.Exists(_fileName))
@@ -159,16 +161,26 @@ namespace Framework48FormsDemo
             _fileName = $"./{_emoji.Name}.png";
             btnCreateFromLib.Enabled = true;
         }
-        private int GetImageSize()
+        private (int PxSize, int PxAdj) GetImageSize()
         {
             int pxSize = 64;
+            int pxAdj = 2;
+
             if (ImageSizeComboBox.SelectedIndex >= 0)
             {
                 var pxFound = ImageSizeComboBox.Text.Split(new char[] { 'x' });
                 if (int.TryParse(pxFound[0].Trim(), out int size))
                     pxSize = size;
             }
-            return pxSize;
+
+            if(ImageAdjComboBox.SelectedIndex >= 0)
+            {
+                var pxFound = ImageAdjComboBox.Text.Split(new char[] { 'x' });
+                if (int.TryParse(pxFound[0].Trim(), out int adj))
+                    pxAdj = adj;
+            }
+
+            return (pxSize, pxAdj);
         }
     }
 }

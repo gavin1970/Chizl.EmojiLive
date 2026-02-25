@@ -17,11 +17,11 @@
 				<PackageTags>fully-qualified;emoji;library;in-console;on-desktop;core;standard;framework;no-deps</PackageTags>
 				<AssemblyVersion>6.0.0.0</AssemblyVersion>
 				<!-- Path +1 for each deploy to Nuget. -->
-				<Version>6.02.20.1</Version>
+				<Version>6.02.25.1</Version>
 				<!-- [Year-2020].Month.Day.HHmm (UTC). -->
-				<FileVersion>6.02.20.0116</FileVersion>
+				<FileVersion>6.02.25.2206</FileVersion>
 				<!-- Uses by audit and system monitors. -->
-				<InformationalVersion>6.02.20.0116</InformationalVersion>
+				<InformationalVersion>6.02.25.2206</InformationalVersion>
 
 				<!-- NuGet Package Metadata -->
 				<PackageReadmeFile>README.md</PackageReadmeFile>
