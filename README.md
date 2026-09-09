@@ -69,13 +69,11 @@ Console.WriteLine($"Code Points: {emoji.CodePoints}");
 // Increase shrink factor until image fits correctly. (e.g. ClownFace is 16)
 byte[] pngBytes = emoji.EmojiPngImage(64, 2);
 // Save to disk using SkiaSharp
-using (MemoryStream ms = new MemoryStream(imgBytes))
+using (MemoryStream ms = new MemoryStream(pngBytes))
 {
 		using (var strImg = Image.FromStream(ms))
 				strImg.Save(_fileName, ImageFormat.Png);
 }
-
-```
 
 // Save emoji to disk 
 emoji.SaveEmoji( 
