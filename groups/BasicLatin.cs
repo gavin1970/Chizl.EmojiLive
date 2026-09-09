@@ -1,6 +1,6 @@
 namespace Chizl.EmojiLive
 {
-    /// <include file="../docs/BasicLatin.xml" path='extradoc/class[@name="BasicLatin"]/*' />");
+    /// <include file="../docs/BasicLatin.xml" path='extradoc/class[@name="BasicLatin"]/*' />
     public readonly struct EmojiBasicLatin
     {
         /// <include file="../docs/BasicLatin.xml" path='extradoc/class[@name="BasicLatin"]/properties/property[@name="HalfSpace"]/*' />

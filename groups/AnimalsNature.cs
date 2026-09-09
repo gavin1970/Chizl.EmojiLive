@@ -1,6 +1,6 @@
 namespace Chizl.EmojiLive
 {
-    /// <include file="../docs/AnimalsNature.xml" path='extradoc/class[@name="AnimalsNature"]/*' />");
+    /// <include file="../docs/AnimalsNature.xml" path='extradoc/class[@name="AnimalsNature"]/*' />
     public readonly struct EmojiAnimalsNature
     {
         /// <include file="../docs/AnimalsNature.xml" path='extradoc/class[@name="AnimalsNature"]/properties/property[@name="MonkeyFace"]/*' />
